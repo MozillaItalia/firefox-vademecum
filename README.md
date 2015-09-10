@@ -2,7 +2,10 @@
 
 ##### la tua piccola guida a Firefox
 
-vers. 0.1.1
+vers. 0.1.1  
+Author: Nicokant  
+Contributors: Edoput  
+License: <img src="images/license.png" style="width:110px;">
 
 Capitoli:
 
@@ -12,7 +15,7 @@ Capitoli:
 * NOVITÀ
 * ADDONS
 * ALTRI PRODOTTI MOZILLA
-
+* CONTRIBUIRE
 
 ### INTRODUZIONE
 
@@ -65,7 +68,7 @@ Do-not-track è una funzionalità di informare i siti web - e le reti in cui si 
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti senza toccare nessun'altra informazione. 
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti senza toccare nessun'altra informazione.
 
 ##### Modalità di Lettura
 
@@ -77,28 +80,43 @@ In Firefox è inclusa una funzione che permette di condividere pagine web in poc
 
 ### ESTENSIONI
 
-lightbeam
-ublock
-privacy badger
-downthemall
-greasemonkey
-lastpass
-xnotifier
-stylish
-chatzilla
-cryptocat
-FoxyProxy
-Gestione Sessioni
-I don't care about cookies
-Mind the time
-Panic button
-Print edit
-Priv3
-Push to kindle
-Pwgen
-Tab Origin
-Take a break
-videoresumer
+Le estensioni di Firefox sono davvero il punto di forza, dimostrando ancora una volta quanto la libertà dell'utente nella personalizzazione del browser sia di massima importanza per Mozilla. Qui di seguito ti consiglio alcune delle migliori estensioni.
+
+##### Lightbeam
+
+Lightbeam è un’estensione che mostra i siti con cui, direttamente o indirettamente, interagisci sul Web. Durante la navigazione, Lightbeam rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
+
+##### Ublock
+
+Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione.
+
+##### Privacy badger
+
+Privacy Badger si occupa di bloccare i tentativi di tracciare i tuoi movimenti nel web, grazie a dei filtri sa riconoscere le pubblicità malevole e ne impedisce il caricamento.
+
+##### Downthemall
+
+Velocizza e ottimizza il download, ti consente di scaricare tutti i link o le immagini contenuti in una pagina web, e molto di più: puoi rifinire i tuoi download con criteri personalizzati per avere solo quello che vuoi veramente.
+
+##### Greasemonkey
+
+Ti permette di personalizzare il comportamento di ogni pagina Web, utilizzando piccoli script che potrai realizzare tu stesso o trovare facilmente sul Web.
+
+##### Lastpass
+
+Salva in sicurezza tutte le tue password, accedi ai tuoi siti preferiti in un click, tutto questo da qualsiasi dispositivo.
+
+##### Xnotifier
+
+Abilita le notifiche per tutte le tue webmail, i tuoi social network e perfino i tuoi feed RSS preferiti!
+
+##### Cryptocat
+
+Crea chat protette e criptate con cui parlare con chi vuoi.
+
+##### Videoresumer
+
+Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
 
 ### ALTRI PROGETTI MOZILLA
 
@@ -107,3 +125,4 @@ persona
 firefox os
 marketplace
 
+### VUOI CONTRIBUIRE?

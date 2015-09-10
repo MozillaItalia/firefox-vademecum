@@ -38,3 +38,40 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 
 #####Supporto
 Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti distribuiti in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
+
+###NOVITÀ
+firefox hello
+pulsante dimentica
+condividi articolo
+pocket
+
+###ADDONS
+lightbeam
+ublock
+privacy badger
+downthemall
+greasemonkey
+lastpass
+xnotifier
+stylish
+chatzilla
+cryptocat
+FoxyProxy
+Gestione Sessioni
+I don't care about cookies
+Mind the time
+Panic button
+Print edit
+Priv3
+Push to kindle
+Pwgen
+Tab Origin
+Take a break
+videoresumer
+
+###ALTRI PRODOTTI MOZILLA
+thunderbird
+persona
+firefox os
+marketplace
+

@@ -18,11 +18,17 @@ La fondazione Mozilla, che è un organizzazione senza scopo di lucro, lavora ogn
 
 Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti consiglierò i migliori addons per personalizzare il tuo browser, scoprirai altri prodotti e progetti portati avanti da Mozilla e infine parleremo della missione che portiamo avanti!
 
+---
+
 ###MOZILLA, FIREFOX E MOZILLA ITALIA
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; La mascot e il logo è un tirannosaurus rex di colore rosso.  
+
 Il più famoso prodotto di casa Mozilla è il browser Firefox, che ha come mascot un panda rosso. Le sue caratteristiche principali sono la facilità d’uso, l’ampia possibilità di personalizzazione, la sicurezza, la velocità e il supporto garantito agli utilizzatori.  
 Firefox è un software multipiattaforma, in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.  
+
 Mozilla Italia invece è un associazione italiana anch'essa no-profit che si occupa di tradurre i prodotti e le pagine Mozilla e di fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
+
+---
 
 ###PERCHÈ SCEGLIERE FIREFOX?
 Come dicevo prima Firefox è creato dagli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**.
@@ -39,11 +45,22 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 #####Supporto
 Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti distribuiti in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
 
+---
+
 ###NOVITÀ
-firefox hello
-pulsante dimentica
-condividi articolo
-pocket
+Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons. Di seguito troverai le più importanti già presenti nell'ultima versione: 
+#####Firefox Hello
+Hello è la novità più importante che potete trovare nel browser; infatti premendo [immagine] potrai facilmente avviare delle videochiamate con chiunque semplicemente inviandogli un link. Non dovrai installare nessun software aggiuntivo o plugin, tutto funzionerà da Firefox.
+#####Do-Not-Track
+Do-not-track è una funzionalità di informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali.
+#####Pulsante Dimentica
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti senza toccare nessun'altra informazione. 
+#####Modalità di Lettura
+La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di chi la utilizza.
+#####Condivisione articoli
+In Firefox è inclusa una funzione che permette di condividere pagine web in pochi clic. Non è necessario installare componenti aggiuntivi o ulteriori programmi. Ci sono moltissimi social network disponibili, dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
+
+---
 
 ###ADDONS
 lightbeam

@@ -2,7 +2,7 @@
 
 ##### la tua piccola guida a Firefox
 
-vers. 0.1.1  
+vers. 0.1.2  
 Author: Nicokant  
 Contributors: Edoput, Mte90  
 License: <img src="images/license.png" style="width:110px;">
@@ -13,8 +13,8 @@ Capitoli:
 * Mozilla, Firefox e Mozilla Italia
 * Perché scegliere Firefox?
 * Novitá
-* Addons
-* Altri prodotti Mozilla
+* Estensioni
+* Altri progetti Mozilla
 * Contribuire
 
 ### Introduzione
@@ -62,7 +62,7 @@ Di seguito troverai le più importanti già presenti nell'ultima versione:
 
 ##### Firefox Hello
 
-Hello è la novità più importante che potete trovare nel browser; infatti premendo [immagine] potrai facilmente avviare delle videochiamate con chiunque semplicemente inviandogli un link. Non dovrai installare nessun software aggiuntivo o plugin, tutto funzionerà da Firefox.
+Hello è la novità più importante che potete trovare nel browser; infatti premendo ![immagine]() potrai facilmente avviare delle videochiamate con chiunque semplicemente inviandogli un link. Non dovrai installare nessun software aggiuntivo o plugin, tutto funzionerà da Firefox.
 
 ##### Do-Not-Track
 
@@ -80,7 +80,7 @@ La Modalità lettura è una speciale caratteristica di Firefox che consente di r
 
 In Firefox è inclusa una funzione che permette di condividere pagine web in pochi clic. Non è necessario installare componenti aggiuntivi o ulteriori programmi. Ci sono moltissimi social network disponibili, dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
 
-### Addons
+### Estensioni
 
 Le estensioni di Firefox sono davvero il punto di forza, dimostrando ancora una volta quanto la libertà dell'utente nella personalizzazione del browser sia di massima importanza per Mozilla. Qui di seguito ti consiglio alcune delle migliori estensioni.
 
@@ -104,10 +104,6 @@ Velocizza e ottimizza il download, ti consente di scaricare tutti i link o le im
 
 Ti permette di personalizzare il comportamento di ogni pagina Web, utilizzando piccoli script che potrai realizzare tu stesso o trovare facilmente sul Web.
 
-##### Lastpass
-
-Salva in sicurezza tutte le tue password, accedi ai tuoi siti preferiti in un click, tutto questo da qualsiasi dispositivo.
-
 ##### Xnotifier
 
 Abilita le notifiche per tutte le tue webmail, i tuoi social network e perfino i tuoi feed RSS preferiti!
@@ -120,11 +116,27 @@ Crea chat protette e criptate con cui parlare con chi vuoi.
 
 Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
 
-### Altri prodotti Mozilla
+### Altri progetti Mozilla
 
-thunderbird
-persona
-firefox os
-marketplace
+Sono numerosi i progetti portati avanti da Mozilla, ma sicuramente quelli elencati qui sotto sono i più importanti e conosciuti. Tra quelli che non ho citato ci sono anche Firefox for Android, Mozilla Sync, il progetto WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy; come potrai notare facendo qualche ricerca, si rivolgono a persone con molte competenze diverse (insegnanti, scienziati, giornalisti).
+
+##### Thunderbird
+
+Thunderbird è il programma di posta elettronica sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un moderno programma di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
+
+##### Persona
+
+In Mozilla, crediamo che la vostra vita online è il vostro business. Con questo in mente, abbiamo creato Persona di rendere più facile accedere ai siti web. Persona ti permette di accedere a siti che utilizzando uno qualsiasi dei tuoi indirizzi email; Tutto questo senza dover creare una nuova password per ogni sito!
+
+##### Firefox OS
+
+Firefox OS è il sistema operativo mobile e libero di Mozilla, basato su Linux e sulla tecnologia Gecko. È stato creato per liberare gli utenti e gli sviluppatori dalle piattaforme proprietarie, con Firefox OS il Web è la piattaforma! Firefox OS integra tutte le tipiche feature di un moderno sistema operativo mobile. Sono supportate le classiche gesture di un dispositivo touch, così come notifiche, transizioni e animazioni. Oltre al browser Firefox, sono presenti la ricerca adattativa, la rubrica, la radio FM e le mappe stradali. Tra le app preinstallate ci sono un video player, un music player, un archivio per le foto, un calendario e un client email. 
+
+##### Marketplace
+
+Nel Marketplace potrai scaricare o acquistare applicazioni Web scritte in HTML5, questo significa che funzioneranno su tutti i tuoi dipositivi, siano tablet, computer desktop o cellulari Android! Troverai app realizzate da studenti, app per i vostri social network, per l'email, per messaggiare. Naturalmente i giochi non mancheranno, così come tutte le app più importanti! 
 
 ### Vuoi contribuire?
+
+Abbiamo bisogno anche del tuo aiuto per migliorare e continuare a mantenere il Web libero, come ti dicevo prima non importa cosa non sai fare perchè troverai sempre un modo per contribuire con le tue competenze. Noi della community italiana di Mozilla vogliamo aiutarti a trovare il modo più adatto a te per contribuire, per questo abbiamo realizzato un portale che ti invito a visitare; troverai molti compiti possibili, ciascuno suddiviso per difficoltà, competenze e tempo a disposizione. Saremo più che disponibili ad aiutarti nel completare questi task, per conoscere meglio la community, apprendere nuove competenze e contribuire a migliorare il Web. Visita ![passopasso.mte90.net](http://passopasso.mte90.net)! 
+ 

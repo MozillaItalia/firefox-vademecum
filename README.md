@@ -9,23 +9,23 @@ License: <img src="images/license.png" style="width:110px;">
 
 Capitoli:
 
-* INTRODUZIONE ALLA GUIDA
-* MOZILLA, FIREFOX E MOZILLA ITALIA
-* PERCHÈ SCEGLIERE FIREFOX?
-* NOVITÀ
-* ADDONS
-* ALTRI PRODOTTI MOZILLA
-* CONTRIBUIRE
+* Introduzione alla guida
+* Mozilla, Firefox e Mozilla Italia
+* Perché scegliere Firefox?
+* Novitá
+* Addons
+* Altri prodotti Mozilla
+* Contribuire
 
-### INTRODUZIONE
+### Introduzione
 
-Lo scopo di questa breve guida è di accompagnarti alla scoperta del browser Firefox, un browser web diverso da tutti gli altri e  che vuole mettere gli utenti al centro dell'attenzione. Devi sapere per prima cosa che Firefox è un software libero, ossia garantisce a tutti la libertà di usare il programma, studiare come è fatto, modificarlo e poi condividerlo!
+Lo scopo di questa breve guida è di accompagnarti alla scoperta del browser Firefox, un browser web diverso da tutti gli altri e che vuole mettere gli utenti al centro dell'attenzione. Devi sapere per prima cosa che Firefox è un software libero, ossia garantisce a tutti la libertà di usare il programma, studiare come è fatto, modificarlo e poi condividerlo!
 
 La fondazione Mozilla, che è un organizzazione senza scopo di lucro, lavora ogni giorno per migliorare il software e risolvere eventuali errori, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è molto grande e conta oltre 10.000 persone attive; non si tratta solo di programmatori o informatici, l'aiuto di ciascuno è indispensabile. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**!
 
 Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti consiglierò le migliori estensioni per personalizzare il tuo browser, scoprirai altri progetti portati avanti da Mozilla e infine parleremo della missione che portiamo avanti come comunità!
 
-### MOZILLA, FIREFOX E MOZILLA ITALIA
+### Mozilla, Firefox e Mozilla Italia
 
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; La mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
@@ -34,7 +34,7 @@ Firefox è un software multipiattaforma in grado di funzionare sui sistemi opera
 
 Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine Mozilla ed a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
 
-### PERCHÈ SCEGLIERE FIREFOX?
+### Perché scegliere Firefox?
 
 Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**. Scegli l'indipendenza!
 
@@ -54,7 +54,7 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 
 Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti distribuiti in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
 
-### NOVITÀ
+### Novitá
 
 Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons. Di seguito troverai le più importanti già presenti nell'ultima versione:
 
@@ -78,7 +78,7 @@ La Modalità lettura è una speciale caratteristica di Firefox che consente di r
 
 In Firefox è inclusa una funzione che permette di condividere pagine web in pochi clic. Non è necessario installare componenti aggiuntivi o ulteriori programmi. Ci sono moltissimi social network disponibili, dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
 
-### ESTENSIONI
+### Addons
 
 Le estensioni di Firefox sono davvero il punto di forza, dimostrando ancora una volta quanto la libertà dell'utente nella personalizzazione del browser sia di massima importanza per Mozilla. Qui di seguito ti consiglio alcune delle migliori estensioni.
 
@@ -118,11 +118,11 @@ Crea chat protette e criptate con cui parlare con chi vuoi.
 
 Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
 
-### ALTRI PROGETTI MOZILLA
+### Altri prodotti Mozilla
 
 thunderbird
 persona
 firefox os
 marketplace
 
-### VUOI CONTRIBUIRE?
+### Vuoi contribuire?

@@ -4,7 +4,7 @@
 
 vers. 0.1.1  
 Author: Nicokant  
-Contributors: Edoput  
+Contributors: Edoput, Mte90  
 License: <img src="images/license.png" style="width:110px;">
 
 Capitoli:
@@ -21,7 +21,7 @@ Capitoli:
 
 Lo scopo di questa breve guida è di accompagnarti alla scoperta del browser Firefox, un browser web diverso da tutti gli altri e che vuole mettere gli utenti al centro dell'attenzione. Devi sapere per prima cosa che Firefox è un software libero, ossia garantisce a tutti la libertà di usare il programma, studiare come è fatto, modificarlo e poi condividerlo!
 
-La fondazione Mozilla, che è un organizzazione senza scopo di lucro, lavora ogni giorno per migliorare il software e risolvere eventuali errori, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è molto grande e conta oltre 10.000 persone attive; non si tratta solo di programmatori o informatici, l'aiuto di ciascuno è indispensabile. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**!
+La fondazione Mozilla, che è un organizzazione senza scopo di lucro, lavora ogni giorno per migliorare Firefox, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è globale e conta oltre 10.000 persone attive; non si tratta solo di programmatori o informatici, l'aiuto di ciascuno è indispensabile perché sono necessarie persone competenti in molte cose. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**!
 
 Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti consiglierò le migliori estensioni per personalizzare il tuo browser, scoprirai altri progetti portati avanti da Mozilla e infine parleremo della missione che portiamo avanti come comunità!
 
@@ -30,13 +30,14 @@ Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti co
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; La mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
 Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza  sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.  
-Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
+Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
 
 Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine Mozilla ed a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
 
 ### Perché scegliere Firefox?
 
-Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**. Scegli l'indipendenza!
+Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**.  
+Scegli l'indipendenza!
 
 ##### Libertà e Personalizzazione
 
@@ -44,7 +45,7 @@ Firefox è l’unico browser davvero “personale”: è possibile aggiungere nu
 
 ##### Sicurezza e Privacy
 
-La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile.
+La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile senza preoccuparsi.
 
 ##### Velocità
 
@@ -52,11 +53,12 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 
 ##### Supporto
 
-Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti distribuiti in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
+Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti diffusi in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
 
 ### Novitá
 
-Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons. Di seguito troverai le più importanti già presenti nell'ultima versione:
+Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons.  
+Di seguito troverai le più importanti già presenti nell'ultima versione:
 
 ##### Firefox Hello
 
@@ -64,11 +66,11 @@ Hello è la novità più importante che potete trovare nel browser; infatti prem
 
 ##### Do-Not-Track
 
-Do-not-track è una funzionalità di informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali.
+Do-not-track è una funzionalità per informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali.
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti senza toccare nessun'altra informazione.
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza toccare nessun'altra informazione.
 
 ##### Modalità di Lettura
 
@@ -90,7 +92,7 @@ Lightbeam è un’estensione che mostra i siti con cui, direttamente o indiretta
 
 Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione.
 
-##### Privacy badger
+##### Privacy Badger
 
 Privacy Badger si occupa di bloccare i tentativi di tracciare i tuoi movimenti nel web, grazie a dei filtri sa riconoscere le pubblicità malevole e ne impedisce il caricamento.
 

@@ -116,6 +116,10 @@ Crea chat protette e criptate con cui parlare con chi vuoi.
 
 Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
 
+##### Privacy Badger
+
+Blocca i siti che ti tracciano grazie a questa estensione della Electronic Frontier Foundation.
+
 ### Altri progetti Mozilla
 
 Sono numerosi i progetti portati avanti da Mozilla, ma sicuramente quelli elencati qui sotto sono i più importanti e conosciuti. Tra quelli che non ho citato ci sono anche Firefox for Android, Mozilla Sync, il progetto WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy; come potrai notare facendo qualche ricerca, si rivolgono a persone con molte competenze diverse (insegnanti, scienziati, giornalisti).

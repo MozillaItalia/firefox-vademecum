@@ -41,7 +41,7 @@ Scegli l'indipendenza!
 
 ##### Libertà e Personalizzazione
 
-Firefox è l’unico browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di FIrefox con impostazioni o estensioni differenti.
+Firefox è il browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di FIrefox con impostazioni o estensioni differenti.
 
 ##### Sicurezza e Privacy
 

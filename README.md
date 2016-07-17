@@ -29,10 +29,11 @@ Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti co
 
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; La mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
-Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza  sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.  
-Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
+Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.
+Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
 
 Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine Mozilla ed a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
+
 
 ### Perché scegliere Firefox?
 

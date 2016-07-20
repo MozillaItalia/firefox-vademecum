@@ -38,7 +38,7 @@ Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si im
 ### Perché scegliere Firefox?
 
 Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**.  
-Scegli l'indipendenza!
+Scegli il Browser Indipendente!!!
 
 ##### Libertà e Personalizzazione
 
@@ -46,7 +46,7 @@ Firefox è il browser davvero “personale”: è possibile aggiungere nuove fun
 
 ##### Sicurezza e Privacy
 
-La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile senza preoccuparsi.
+La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile.
 
 ##### Velocità
 
@@ -54,7 +54,7 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 
 ##### Supporto
 
-Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti diffusi in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
+Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinaia di persone in tutto il mondo collaborano alla pubblicazione di articoli di supporto e offrono assistenza agli utenti nelle principali lingue mondiali. In Italia questo compito è affidato a Mozilla Italia che offre supporto attraverso il suo forum ufficiale.
 
 ### Novitá
 

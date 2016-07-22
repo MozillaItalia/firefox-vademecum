@@ -58,28 +58,24 @@ Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinai
 
 ### Novitá
 
-Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons.  
+Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di Componenti aggiuntivi. 
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
-##### Firefox Hello
+##### Modalità Anti-Tracciamento
 
-Hello è la novità più importante che potete trovare nel browser; infatti premendo ![immagine]() potrai facilmente avviare delle videochiamate con chiunque semplicemente inviandogli un link. Non dovrai installare nessun software aggiuntivo o plugin, tutto funzionerà da Firefox.
-
-##### Do-Not-Track
-
-Do-not-track è una funzionalità per informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali.
+La modalità Anti-Tracciamento serve ad informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza toccare nessun'altra informazione.
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, Nessun problema: è possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
 
 ##### Modalità di Lettura
 
-La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di chi la utilizza.
+La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
 
 ##### Condivisione articoli
 
-In Firefox è inclusa una funzione che permette di condividere pagine web in pochi clic. Non è necessario installare componenti aggiuntivi o ulteriori programmi. Ci sono moltissimi social network disponibili, dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
+Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
 
 ### Estensioni
 

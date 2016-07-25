@@ -29,23 +29,24 @@ Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti co
 
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; La mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
-Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza  sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.  
-Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
+Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.
+Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
 
 Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine Mozilla ed a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
+
 
 ### Perché scegliere Firefox?
 
 Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna compagnia o azienda, non è creato per guadagnare, ma per offrire a tutti un esperienza di navigazione **libera**, **sicura** e **affidabile**.  
-Scegli l'indipendenza!
+Scegli il Browser Indipendente!!!
 
 ##### Libertà e Personalizzazione
 
-Firefox è l’unico browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di FIrefox con impostazioni o estensioni differenti.
+Firefox è il browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di FIrefox con impostazioni o estensioni differenti.
 
 ##### Sicurezza e Privacy
 
-La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile senza preoccuparsi.
+La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in grado di migliorare la sicurezza della navigazione sul web come ad esempio la protezione anti-phishing, la gestione avanzata delle password, il controllo dei cookie e le impostazioni di sicurezza personalizzate. Il sistema di aggiornamento automatico consente di mantenere il browser sempre aggiornato all’ultima versione disponibile.
 
 ##### Velocità
 
@@ -53,72 +54,56 @@ Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo util
 
 ##### Supporto
 
-Il concetto di “comunità” è alla base della filosofia di Mozilla, che conta centinaia di utenti diffusi in tutto il mondo: alcuni collaborano alla pubblicazione degli articoli di supporto e forniscono supporto sul forum in lingua italiana.
+Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinaia di persone in tutto il mondo collaborano alla pubblicazione di articoli di supporto e offrono assistenza agli utenti nelle principali lingue mondiali. In Italia questo compito è affidato a Mozilla Italia che offre supporto attraverso il suo forum ufficiale.
 
 ### Novitá
 
-Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza il bisogno di installare addons.  
+Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di Componenti aggiuntivi. 
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
-##### Firefox Hello
+##### Modalità Anti-Tracciamento
 
-Hello è la novità più importante che potete trovare nel browser; infatti premendo ![immagine]() potrai facilmente avviare delle videochiamate con chiunque semplicemente inviandogli un link. Non dovrai installare nessun software aggiuntivo o plugin, tutto funzionerà da Firefox.
-
-##### Do-Not-Track
-
-Do-not-track è una funzionalità per informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali.
+La modalità Anti-Tracciamento serve ad informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, non è un problema: è sempre possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza toccare nessun'altra informazione.
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, Nessun problema: è possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
 
 ##### Modalità di Lettura
 
-La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di chi la utilizza.
+La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
 
 ##### Condivisione articoli
 
-In Firefox è inclusa una funzione che permette di condividere pagine web in pochi clic. Non è necessario installare componenti aggiuntivi o ulteriori programmi. Ci sono moltissimi social network disponibili, dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
+Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
 
 ### Estensioni
-
-Le estensioni di Firefox sono davvero il punto di forza, dimostrando ancora una volta quanto la libertà dell'utente nella personalizzazione del browser sia di massima importanza per Mozilla. Qui di seguito ti consiglio alcune delle migliori estensioni.
+Il punto di forza di Firefox sono le Estensioni. La libertà e la personalizzazione del browser rimangono il fulcro dello sviluppo, a dimostrazione del fatto che, gli utenti sono di massima importanza per la Fondazione Mozilla. 
+Qui di seguito alcune delle migliori estensioni disponibili:
 
 ##### Lightbeam
-
-Lightbeam è un’estensione che mostra i siti con cui, direttamente o indirettamente, interagisci sul Web. Durante la navigazione, Lightbeam rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
+Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, Lightbeam traccia, attraverso un grafico, e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
 
 ##### Ublock
-
-Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione.
+Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle pubblicità bloccate a partire dal momento in cui è stata installata sia delle pubblicità bloccate nella pagina che si sta visitando. 
 
 ##### Privacy Badger
-
-Privacy Badger si occupa di bloccare i tentativi di tracciare i tuoi movimenti nel web, grazie a dei filtri sa riconoscere le pubblicità malevole e ne impedisce il caricamento.
+Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
 
 ##### Downthemall
-
-Velocizza e ottimizza il download, ti consente di scaricare tutti i link o le immagini contenuti in una pagina web, e molto di più: puoi rifinire i tuoi download con criteri personalizzati per avere solo quello che vuoi veramente.
-
-##### Greasemonkey
-
-Ti permette di personalizzare il comportamento di ogni pagina Web, utilizzando piccoli script che potrai realizzare tu stesso o trovare facilmente sul Web.
+Velocizza e ottimizza il download di contenuti nel web, consentendo di scaricare tutti i link o le immagini contenute in una pagina web e molto di più. si possono rifinire i download con criteri personalizzati e personalizzabili  per avere solo quello che veramente si vuole.
 
 ##### Xnotifier
-
-Abilita le notifiche per tutte le tue webmail, i tuoi social network e perfino i tuoi feed RSS preferiti!
+Abilita le notifiche per tutte le proprire attività personali. Dalle webmail, sino ai social network potendo persino seguire i propri feed RSS preferiti. Tutto a colpo d’occhio!
 
 ##### Cryptocat
-
-Crea chat protette e criptate con cui parlare con chi vuoi.
+Permette di creare delle chat protette e criptate per parlare con chi si vuole in assoluta sicurezza.
 
 ##### Videoresumer
-
-Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
+Permette di Riprendere la visione dei propri video, partendo dal preciso istante di interruzione precedente!
 
 ##### Profilist
-
-Passa da un profilo di Firefox all'altro con un click.
+Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 

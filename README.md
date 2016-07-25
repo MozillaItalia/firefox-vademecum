@@ -78,44 +78,32 @@ La Modalità lettura è una speciale caratteristica di Firefox che consente di r
 Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
 
 ### Estensioni
-
-Le estensioni di Firefox sono davvero il punto di forza, dimostrando ancora una volta quanto la libertà dell'utente nella personalizzazione del browser sia di massima importanza per Mozilla. Qui di seguito ti consiglio alcune delle migliori estensioni.
+Il punto di forza di Firefox sono le Estensioni. La libertà e la personalizzazione del browser rimangono il fulcro dello sviluppo, a dimostrazione del fatto che, gli utenti sono di massima importanza per la Fondazione Mozilla. 
+Qui di seguito alcune delle migliori estensioni disponibili:
 
 ##### Lightbeam
-
-Lightbeam è un’estensione che mostra i siti con cui, direttamente o indirettamente, interagisci sul Web. Durante la navigazione, Lightbeam rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
+Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, Lightbeam traccia, attraverso un grafico, e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
 
 ##### Ublock
-
-Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione.
+Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle pubblicità bloccate a partire dal momento in cui è stata installata sia delle pubblicità bloccate nella pagina che si sta visitando. 
 
 ##### Privacy Badger
-
-Privacy Badger si occupa di bloccare i tentativi di tracciare i tuoi movimenti nel web, grazie a dei filtri sa riconoscere le pubblicità malevole e ne impedisce il caricamento.
+Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
 
 ##### Downthemall
-
-Velocizza e ottimizza il download, ti consente di scaricare tutti i link o le immagini contenuti in una pagina web, e molto di più: puoi rifinire i tuoi download con criteri personalizzati per avere solo quello che vuoi veramente.
-
-##### Greasemonkey
-
-Ti permette di personalizzare il comportamento di ogni pagina Web, utilizzando piccoli script che potrai realizzare tu stesso o trovare facilmente sul Web.
+Velocizza e ottimizza il download di contenuti nel web, consentendo di scaricare tutti i link o le immagini contenute in una pagina web e molto di più. si possono rifinire i download con criteri personalizzati e personalizzabili  per avere solo quello che veramente si vuole.
 
 ##### Xnotifier
-
-Abilita le notifiche per tutte le tue webmail, i tuoi social network e perfino i tuoi feed RSS preferiti!
+Abilita le notifiche per tutte le proprire attività personali. Dalle webmail, sino ai social network potendo persino seguire i propri feed RSS preferiti. Tutto a colpo d’occhio!
 
 ##### Cryptocat
-
-Crea chat protette e criptate con cui parlare con chi vuoi.
+Permette di creare delle chat protette e criptate per parlare con chi si vuole in assoluta sicurezza.
 
 ##### Videoresumer
-
-Riprendi a guardare i video del preciso istante in cui ti eri interrotto!
+Permette di Riprendere la visione dei propri video, partendo dal preciso istante di interruzione precedente!
 
 ##### Profilist
-
-Passa da un profilo di Firefox all'altro con un click.
+Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 

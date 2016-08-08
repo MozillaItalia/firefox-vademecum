@@ -107,23 +107,12 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Sono numerosi i progetti portati avanti da Mozilla, ma sicuramente quelli elencati qui sotto sono i più importanti e conosciuti. Tra quelli che non ho citato ci sono anche Firefox for Android, Mozilla Sync, il progetto WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy; come potrai notare facendo qualche ricerca, si rivolgono a persone con molte competenze diverse (insegnanti, scienziati, giornalisti).
+Numerosi sono i progetti portati avanti dalla fondazione Mozilla, e tra quelli non elencati ci sono progetti del calibro di Mozilla Sync, WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy, Mozilla Winter of Security. Tutti questi progetti si rivolgono a persone con differenti competenze (ad esempio: Insegnanti, Scienziati, Giornalisti e Studenti) e sono legati da un unico comune denominatore: la visione del web come risorsa libera, aperta a tutte le popolazioni del mondo. In Dettaglio tra i progetti di Mozilla troviamo il Programma di Posta Thunderbird.
 
 ##### Thunderbird
 
 Thunderbird è il programma di posta elettronica sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un moderno programma di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
 
-##### Persona
-
-In Mozilla, crediamo che la vostra vita online è il vostro business. Con questo in mente, abbiamo creato Persona di rendere più facile accedere ai siti web. Persona ti permette di accedere a siti che utilizzando uno qualsiasi dei tuoi indirizzi email; Tutto questo senza dover creare una nuova password per ogni sito!
-
-##### Firefox OS
-
-Firefox OS è il sistema operativo mobile e libero di Mozilla, basato su Linux e sulla tecnologia Gecko. È stato creato per liberare gli utenti e gli sviluppatori dalle piattaforme proprietarie, con Firefox OS il Web è la piattaforma! Firefox OS integra tutte le tipiche feature di un moderno sistema operativo mobile. Sono supportate le classiche gesture di un dispositivo touch, così come notifiche, transizioni e animazioni. Oltre al browser Firefox, sono presenti la ricerca adattativa, la rubrica, la radio FM e le mappe stradali. Tra le app preinstallate ci sono un video player, un music player, un archivio per le foto, un calendario e un client email. 
-
-##### Marketplace
-
-Nel Marketplace potrai scaricare o acquistare applicazioni Web scritte in HTML5, questo significa che funzioneranno su tutti i tuoi dipositivi, siano tablet, computer desktop o cellulari Android! Troverai app realizzate da studenti, app per i vostri social network, per l'email, per messaggiare. Naturalmente i giochi non mancheranno, così come tutte le app più importanti! 
 
 ### Vuoi contribuire?
 

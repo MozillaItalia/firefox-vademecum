@@ -5,6 +5,7 @@
 vers. 0.1.2  
 Author: Nicokant  
 Contributors: Edoput, Mte90, edovio, tissy9491
+
 License: <img src="images/license.png" style="width:110px;">
 
 Capitoli:

@@ -107,12 +107,19 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti dalla fondazione Mozilla, e tra quelli non elencati ci sono progetti del calibro di Mozilla Sync, WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy, Mozilla Winter of Security. Tutti questi progetti si rivolgono a persone con differenti competenze (ad esempio: Insegnanti, Scienziati, Giornalisti e Studenti) e sono legati da un unico comune denominatore: la visione del web come risorsa libera, aperta a tutte le popolazioni del mondo. In Dettaglio tra i progetti di Mozilla troviamo il Programma di Posta Thunderbird.
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di Mozilla Sync, WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Rust, MDN, e MozVR. Tutti questi progetti si rivolgono a persone con differenti competenze (ad esempio: insegnanti, scienziati, giornalisti e studenti) ed hanno tutti un fattore in comune: la visione del web come risorsa libera, aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 
-Thunderbird è il programma di posta elettronica sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un moderno programma di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
+Thunderbird è il client e-mail sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un moderno programma di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
 
+##### Rust
+
+Rust è un linguaggio di programmazione compilato multi-paradigma implementato da Mozilla Research in collaborazione con la community Open-Source. L'obiettivo di Rust è di essere un buon linguaggio per creare sistemi complessi altamente sicuri, anche nel caso siano multithreded. Ciò ha condotto a un insieme di caratteristiche che enfatizzano le prestazioni, il controllo dell'allocazione di memoria, la sicurezza e la concorrenza. Attualmente tra i vari progetti che fanno uso di questo linguaggio, troviamo il motore di rendering del Browser Servo. 
+
+##### Test Pilot 
+
+Test Pilot è il Componente Aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Attraverso esso è possibile sperimentare in anteprima delle possibili future funzioni, prima che esse siano integrate nel Browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso. 
 
 ### Vuoi contribuire?
 

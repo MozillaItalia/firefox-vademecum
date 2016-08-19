@@ -4,7 +4,8 @@
 
 vers. 0.1.2  
 Author: Nicokant  
-Contributors: Edoput, Mte90  
+Contributors: Edoput, Mte90, edovio, tissy9491
+
 License: <img src="images/license.png" style="width:110px;">
 
 Capitoli:
@@ -107,25 +108,21 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Sono numerosi i progetti portati avanti da Mozilla, ma sicuramente quelli elencati qui sotto sono i più importanti e conosciuti. Tra quelli che non ho citato ci sono anche Firefox for Android, Mozilla Sync, il progetto WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Advocacy; come potrai notare facendo qualche ricerca, si rivolgono a persone con molte competenze diverse (insegnanti, scienziati, giornalisti).
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di Mozilla Sync, WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Rust, MDN, e MozVR. Tutti questi progetti si rivolgono a persone con differenti competenze (ad esempio: insegnanti, scienziati, giornalisti e studenti) ed hanno tutti un fattore in comune: la visione del web come risorsa libera, aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 
-Thunderbird è il programma di posta elettronica sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un moderno programma di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
+Thunderbird è il client e-mail sviluppato da Mozilla, pensato come naturale complemento del browser web Firefox. Le sue caratteristiche principali sono la facilità d’uso, la versatilità, la sicurezza e l’ampia possibilità di personalizzazione. Thunderbird è un programma moderno di posta elettronica in grado di adattarsi anche alle più complesse esigenze di organizzazione: consente di assegnare etichette ai messaggi importanti, eseguire il controllo ortografico sui messaggi in partenza, scegliere le cartelle preferite da visualizzare costantemente e creare filtri automatici per smistare i messaggi di posta. Anche per Thunderbird sono disponibili centinaia di componenti aggiuntivi in grado di aumentarne le potenzialità, permettendo ad esempio di gestire i propri contatti, aggiungere un’agenda personale, fare chiamate con servizi VoIP, ascoltare musica e mantenere traccia dei compleanni direttamente dal client e-mail.
 
-##### Persona
+##### Rust
 
-In Mozilla, crediamo che la vostra vita online è il vostro business. Con questo in mente, abbiamo creato Persona di rendere più facile accedere ai siti web. Persona ti permette di accedere a siti che utilizzando uno qualsiasi dei tuoi indirizzi email; Tutto questo senza dover creare una nuova password per ogni sito!
+Rust è un linguaggio di programmazione compilato multi-paradigma implementato da Mozilla Research in collaborazione con la community Open-Source. L'obiettivo di Rust è di essere un buon linguaggio per creare sistemi complessi altamente sicuri, anche nel caso siano multi-threaded. Ciò comporta un insieme di caratteristiche che enfatizzano le prestazioni, il controllo sull'allocazione di memoria, la sicurezza e multi-threading. Attualmente tra i vari progetti che fanno uso di questo linguaggio, troviamo il motore di rendering del Browser Servo. 
 
-##### Firefox OS
+##### Test Pilot 
 
-Firefox OS è il sistema operativo mobile e libero di Mozilla, basato su Linux e sulla tecnologia Gecko. È stato creato per liberare gli utenti e gli sviluppatori dalle piattaforme proprietarie, con Firefox OS il Web è la piattaforma! Firefox OS integra tutte le tipiche feature di un moderno sistema operativo mobile. Sono supportate le classiche gesture di un dispositivo touch, così come notifiche, transizioni e animazioni. Oltre al browser Firefox, sono presenti la ricerca adattativa, la rubrica, la radio FM e le mappe stradali. Tra le app preinstallate ci sono un video player, un music player, un archivio per le foto, un calendario e un client email. 
-
-##### Marketplace
-
-Nel Marketplace potrai scaricare o acquistare applicazioni Web scritte in HTML5, questo significa che funzioneranno su tutti i tuoi dipositivi, siano tablet, computer desktop o cellulari Android! Troverai app realizzate da studenti, app per i vostri social network, per l'email, per messaggiare. Naturalmente i giochi non mancheranno, così come tutte le app più importanti! 
+Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Tramite esso è possibile sperimentare in anteprima delle possibili future funzionalità, prima che siano integrate nel Browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso. 
 
 ### Vuoi contribuire?
 
-Abbiamo bisogno anche del tuo aiuto per migliorare e continuare a mantenere il Web libero, come ti dicevo prima non importa cosa non sai fare perchè troverai sempre un modo per contribuire con le tue competenze. Noi della community italiana di Mozilla vogliamo aiutarti a trovare il modo più adatto a te per contribuire, per questo abbiamo realizzato un portale che ti invito a visitare; troverai molti compiti possibili, ciascuno suddiviso per difficoltà, competenze e tempo a disposizione. Saremo più che disponibili ad aiutarti nel completare questi task, per conoscere meglio la community, apprendere nuove competenze e contribuire a migliorare il Web. Visita ![passopasso.mte90.net](http://passopasso.mte90.net)! 
+Abbiamo bisogno anche del tuo aiuto per migliorare e continuare a mantenere il Web libero, come ti dicevo prima non importa cosa non sai fare perchè troverai sempre un modo per contribuire con le tue competenze. Noi della community italiana di Mozilla vogliamo aiutarti a trovare il modo più adatto a te per contribuire, per questo abbiamo realizzato un portale che ti invito a visitare; troverai molti compiti possibili, ciascuno suddiviso per difficoltà, competenze e tempo a disposizione. Saremo più che disponibili ad aiutarti nel completare questi task, per conoscere meglio la community, apprendere nuove competenze e contribuire a migliorare il Web. Visita [passopasso.mte90.net](http://passopasso.mte90.net) ! 
  

@@ -3,7 +3,7 @@
 ##### la tua piccola guida a Firefox
 
 vers. 1.0.0  
-Contributors: Noccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii
+Contributors: Niccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii
 
 License: <img src="images/license.png" style="width:110px;">
 
@@ -106,7 +106,7 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, Mozilla Open-Knights e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze ed hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, Mozilla Open-Knights, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze ed hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 

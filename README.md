@@ -72,7 +72,7 @@ Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso
 
 ##### Modalità di Lettura
 
-La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari come pulsanti, pubblicità e immagini di sfondo e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
+La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
 
 ##### Condivisione articoli
 
@@ -92,10 +92,10 @@ Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle 
 Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
 
 ##### Downthemall
-Velocizza e ottimizza il download di contenuti nel web, consentendo di scaricare tutti i link o le immagini contenute in una pagina web e molto di più. si possono rifinire i download con criteri personalizzati e personalizzabili  per avere solo quello che veramente si vuole.
+Velocizza e ottimizza il download di contenuti nel web, si possono rifinire i download con criteri personalizzati e personalizzabili  per avere solo quello che veramente si vuole.
 
 ##### Xnotifier
-Abilita le notifiche per tutte le proprire attività personali. Dalle webmail, sino ai social network potendo persino seguire i propri feed RSS preferiti. Tutto a colpo d’occhio!
+Abilita le notifiche per tutte le proprire attività personali. Tutto a colpo d’occhio!
 
 ##### Cryptocat
 Permette di creare delle chat protette e criptate per parlare con chi si vuole in assoluta sicurezza.
@@ -108,7 +108,7 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di Mozilla Sync, WebMaker, Mozilla Science, Mozilla-Knights OpenNews, Mozilla Rust, MDN, e MozVR. Tutti questi progetti si rivolgono a persone con differenti competenze (ad esempio: insegnanti, scienziati, giornalisti e studenti) ed hanno tutti un fattore in comune: la visione del web come risorsa libera, aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di Mozilla Thunderbird, Mozilla Rust, MDN, e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze ed hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 

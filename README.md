@@ -2,9 +2,8 @@
 
 ##### la tua piccola guida a Firefox
 
-vers. 0.1.2  
-Author: Nicokant  
-Contributors: Edoput, Mte90, edovio, tissy9491
+vers. 1.0.0  
+Contributors: Noccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii
 
 License: <img src="images/license.png" style="width:110px;">
 
@@ -22,9 +21,9 @@ Capitoli:
 
 Lo scopo di questa breve guida è di accompagnarti alla scoperta del browser Firefox, un browser web diverso da tutti gli altri e che vuole mettere gli utenti al centro dell'attenzione. Devi sapere per prima cosa che Firefox è un software libero, ossia garantisce a tutti la libertà di usare il programma, studiare come è fatto, modificarlo e poi condividerlo!
 
-La fondazione Mozilla, che è un organizzazione senza scopo di lucro, lavora ogni giorno per migliorare Firefox, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è globale e conta oltre 10.000 persone attive; non si tratta solo di programmatori o informatici, l'aiuto di ciascuno è indispensabile perché sono necessarie persone competenti in molte cose. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**!
+La Mozilla Foundation, che è un organizzazione senza scopo di lucro, lavora ogni giorno per migliorare Firefox, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è globale e conta oltre 10.000 persone attive; non si tratta solo di programmatori o informatici, l'aiuto di ciascuno è indispensabile perché sono necessarie persone competenti in molte cose. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**!
 
-Nei prossimi capitoli cercherò di spiegarti perchè e come usare Firefox, ti consiglierò le migliori estensioni per personalizzare il tuo browser, scoprirai altri progetti portati avanti da Mozilla e infine parleremo della missione che portiamo avanti come comunità!
+Nei prossimi capitoli vedremo di spiegarti perchè e come usare Firefox, ti consiglieremo le migliori estensioni per personalizzare il tuo browser, scoprirai altri progetti portati avanti da Mozilla e infine parleremo della missione che portiamo avanti come comunità!
 
 ### Mozilla, Firefox e Mozilla Italia
 
@@ -33,8 +32,7 @@ Mozilla è il nome della community, il nome in codice in origine era "Mosaic Kil
 Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la facilità d’uso, la personalizzazione, la sicurezza, la velocità ed il supporto garantito a tutti.
 Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo su tutti e tre i sistemi, eliminando la necessità di imparare a utilizzare ogni volta un software diverso.
 
-Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine Mozilla ed a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
-
+Mozilla Italia invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine web di Mozilla e a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
 
 ### Perché scegliere Firefox?
 
@@ -43,7 +41,7 @@ Scegli il Browser Indipendente!!!
 
 ##### Libertà e Personalizzazione
 
-Firefox è il browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di FIrefox con impostazioni o estensioni differenti.
+Firefox è il browser davvero “personale”: è possibile aggiungere nuove funzionalità grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di Firefox con impostazioni o estensioni differenti.
 
 ##### Sicurezza e Privacy
 
@@ -68,7 +66,7 @@ La modalità Anti-Tracciamento serve ad informare i siti web - e le reti in cui 
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, Nessun problema: è possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
+Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
 
 ##### Modalità di Lettura
 
@@ -76,23 +74,23 @@ La Modalità lettura è una speciale caratteristica di Firefox che consente di r
 
 ##### Condivisione articoli
 
-Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, VK, Yahoo e altri ancora.
+Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, Yahoo e altri ancora.
 
 ### Estensioni
-Il punto di forza di Firefox sono le Estensioni. La libertà e la personalizzazione del browser rimangono il fulcro dello sviluppo, a dimostrazione del fatto che, gli utenti sono di massima importanza per la Fondazione Mozilla. 
+Il punto di forza di Firefox sono le Estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che, gli utenti sono di massima importanza per la Fondazione Mozilla. 
 Qui di seguito alcune delle migliori estensioni disponibili:
 
 ##### Lightbeam
-Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, Lightbeam traccia, attraverso un grafico, e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
+Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, traccia con un grafico e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
 
 ##### Ublock
-Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle pubblicità bloccate a partire dal momento in cui è stata installata sia delle pubblicità bloccate nella pagina che si sta visitando. 
+Una versione più leggera e migliora di ADBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle risorse bloccate sia delle pubblicità bloccate nella pagina che si sta visitando. 
 
 ##### Privacy Badger
 Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
 
 ##### Downthemall
-Velocizza e ottimizza il download di contenuti nel web, si possono rifinire i download con criteri personalizzati e personalizzabili  per avere solo quello che veramente si vuole.
+Velocizza e ottimizza il download di contenuti nel web e si possono rifinire i download con criteri personalizzati e personalizzabili.
 
 ##### Xnotifier
 Abilita le notifiche per tutte le proprire attività personali. Tutto a colpo d’occhio!
@@ -108,7 +106,7 @@ Con un semplice Click permette di Passare da un profilo di Firefox all'altro!
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di Mozilla Thunderbird, Mozilla Rust, MDN, e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze ed hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, Mozilla Open-Knights e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze ed hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le popolazioni del mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 
@@ -124,5 +122,5 @@ Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli u
 
 ### Vuoi contribuire?
 
-Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza. Per aiutarti a trovare l’area più adatta per contribuire, abbiamo realizzato un portale, all’interno del quale, troverai molti compiti da realizzare, suddivisi per difficoltà, competenze richieste e tempo di esecuzione. Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community Italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [passopasso.mte90.net](http://passopasso.mte90.net) ! 
+Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza. Per aiutarti a trovare l’area più adatta per contribuire, abbiamo realizzato un portale, all’interno del quale, troverai molti compiti da realizzare, suddivisi per difficoltà, competenze richieste e tempo di esecuzione. Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community Italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [passopasso.mte90.net](http://passopasso.mte90.net) o [mozillaitalia.org](http://mozillaitalia.org) ! 
  

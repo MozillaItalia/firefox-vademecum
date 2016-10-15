@@ -1,4 +1,4 @@
-# Scopri Firefox e Mozilla!
+﻿# Scopri Firefox e Mozilla!
 
 ##### Una guida rapida a Firefox
 
@@ -60,17 +60,21 @@ Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinai
 Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di Componenti aggiuntivi. 
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
-##### Do No Track
+##### Do Not Track
 
-La funzione Do No Track serve a informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
+La funzione Do Not Track serve a informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
 
 ##### Pulsante Dimentica
 
-Se ci si dimentica di utilizzare la Navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante Dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
+Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza intaccare nessun’altra informazione. 
 
 ##### Modalità lettura
 
-La Modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della Modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
+La modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web elementi non necessari e di modificare la dimensione del testo, il contrasto e l'impaginazione al fine di consentire una maggiore leggibilità. Le impostazioni della modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ogni utente.
+
+##### Condivisione articoli
+
+Firefox include una funzione che permette di condividere pagine web rapidamente. Con un solo click è possibile condividere la pagina web che si sta visitando sui maggiori Social Network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, Yahoo e altri ancora.
 
 ### Estensioni
 Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che, gli utenti sono di massima importanza per la Fondazione Mozilla. 
@@ -114,7 +118,8 @@ Rust è un linguaggio di programmazione compilato multi-paradigma implementato d
 
 ##### Test Pilot 
 
-Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Tramite Test Pilot è possibile sperimentare in anteprima delle possibili future funzionalità, prima che siano integrate nel browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso. 
+Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Tramite Test Pilot è possibile sperimentare in anteprima delle possibili future funzionalità, prima che siano integrate nel browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso.
+Scopri le nuove funzionalità sperimentali su:https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 

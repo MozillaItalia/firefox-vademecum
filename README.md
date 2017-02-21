@@ -106,7 +106,7 @@ Con un semplice clic permette di passare da un profilo di Firefox all'altro.
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, Mozilla Open-Knights, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le persone nel mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le persone nel mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 
@@ -119,8 +119,9 @@ Rust è un linguaggio di programmazione compilato multi-paradigma implementato d
 ##### Test Pilot 
 
 Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Tramite Test Pilot è possibile sperimentare in anteprima delle possibili future funzionalità, prima che siano integrate nel browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso.
-Scopri le nuove funzionalità sperimentali su:https://testpilot.firefox.com/
+Scopri le nuove funzionalità sperimentali su:
+https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 
-Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza. Per aiutarti a trovare l’area più adatta per contribuire, abbiamo realizzato un portale, all’interno del quale, troverai molti compiti da realizzare, suddivisi per difficoltà, competenze richieste e tempo di esecuzione. Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [passopasso.mte90.net](http://passopasso.mte90.net) o [mozillaitalia.org](http://mozillaitalia.org) ! 
+Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza. Per aiutarti a trovare l’area più adatta per contribuire, abbiamo realizzato un portale, all’interno del quale, troverai molti compiti da realizzare, suddivisi per difficoltà, competenze richieste e tempo di esecuzione. Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [mozillaitalia.org](http://mozillaitalia.org) ! 

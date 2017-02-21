@@ -106,7 +106,7 @@ Con un semplice clic permette di passare da un profilo di Firefox all'altro.
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, Mozilla Open-Knights, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le persone nel mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti da Mozilla Foundation, e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le persone nel mondo. In dettaglio i progetti più importanti di Mozilla:
 
 ##### Thunderbird
 
@@ -119,7 +119,8 @@ Rust è un linguaggio di programmazione compilato multi-paradigma implementato d
 ##### Test Pilot 
 
 Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Tramite Test Pilot è possibile sperimentare in anteprima delle possibili future funzionalità, prima che siano integrate nel browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso.
-Scopri le nuove funzionalità sperimentali su:https://testpilot.firefox.com/
+Scopri le nuove funzionalità sperimentali su:
+https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 

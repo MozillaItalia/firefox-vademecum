@@ -1,9 +1,9 @@
-﻿# Scopri Firefox e Mozilla!
+# Scopri Firefox e Mozilla!
 
 ##### Una guida rapida a Firefox
 
 Vers. 1.0.0  
-Collaboratori: Niccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii
+Collaboratori: Niccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii, Pasquale De Rose
 
 Licenza: <img src="images/license.png" style="width:110px;">
 
@@ -49,7 +49,7 @@ La sicurezza sul web è fondamentale: Firefox integra moltissime funzioni in gra
 
 ##### Velocità
 
-Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo utilizzi potrà apprezzare la velocità di visualizzazione, la rapidità di esecuzione di JavaScript e la perfetta resa del testo e delle immagini delle pagine web. Provare per credere.
+Grazie alle numerosissime innovazioni introdotte nel programma, chiunque lo utilizzi potrà apprezzare la velocità di visualizzazione, la rapidità di esecuzione di JavaScript e la perfetta resa del testo e delle immagini delle pagine web. Provare per credere!
 
 ##### Supporto
 
@@ -124,4 +124,5 @@ https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 
-Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza. Per aiutarti a trovare l’area più adatta per contribuire, abbiamo realizzato un portale, all’interno del quale, troverai molti compiti da realizzare, suddivisi per difficoltà, competenze richieste e tempo di esecuzione. Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [mozillaitalia.org](http://mozillaitalia.org) ! 
+Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri volontari quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza.  
+Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [mozillaitalia.org](http://mozillaitalia.org) ! 

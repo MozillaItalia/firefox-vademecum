@@ -61,12 +61,9 @@ Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
 ##### Firefox For Developers e Firefox Nightly
-Firefox for Developers è una versione di Firefox che include strumenti utili agli sviluppatori per analizzare ogni aspetto dei siti e delle pagine web che vengono visitate. Firefox Nightly è una versione di Firefox di sviluppo aggiornata ogni giorno che permette di provare le ultime funzionalità. Utilizzata per segnalare problemi sia di traduzione che di funzionalità e divertirsi provando le ultime novità.
 
-
-##### Do Not Track
-
-La funzione Do Not Track serve a informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
+Firefox for Developers è una versione che include strumenti dedicati per gli sviluppatori per analizzare ogni aspetto delle pagine web che vengono visitate.  
+Firefox Nightly è una versione di sviluppo aggiornata ogni giorno che permette di provare le ultime funzionalità. Utilizzata per segnalare problemi sia di traduzione che di funzionalità e divertirsi provando le ultime novità.
 
 ##### Pulsante Dimentica
 
@@ -87,21 +84,21 @@ Qui di seguito alcune delle migliori estensioni disponibili:
 ##### Lightbeam
 Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, traccia con un grafico e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
 
-##### Ublock
+##### Ublock Origin
 Una versione alleggerita di Adblock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle risorse bloccate sia delle pubblicità bloccate nella pagina che si sta visitando. 
 
 ##### Privacy Badger
-Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
-
-##### Profilist
-Con un semplice clic permette di passare da un profilo di Firefox all'altro.
+Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono pagine traccianti o malevoli impedendone il loro caricamento come i pulsanti di condivisione dei social network.
 
 ##### I Don't Care About Cookies
-Una recente direttiva dell'UE obbliga i siti web ad inserire un banner dove viene notificato l'uso dei cookies.
-Questi banner sono quasi sempre d'impiccio alla navigazione e I Don't Care About Cookies permette di disabilitare questi banner, in modo da rendere piacevole e scorrevole la navigazione.
+Una direttiva dell'UE obbliga i siti web ad inserire un'avviso dper l'uso dei cookie di terze parti.
+Possono essere fastidiosi per la navigazione e potremo disabilitare questi avvisi per una esperienza internet piacevole.
 
 ##### Https Everywhere
 Alcuni siti non hanno il protocollo HTTPS abilitato, e la navigazione non è protetta. HTTPS Everywhere forza l'abilitazione del protocollo su tutti i siti che visitiamo, rendendo la nostra navigazione sicura e protetta. 
+
+##### Dictionary Switcher
+La correzione delle parole quando digitiamo nella rete è importante come anche avere un sistema funzionale che supporti più dizionari linguistici. Questa estensione ci permette di scegliere il dizionario che vogliamo per ogni pagina. 
 
 ### Altri progetti Mozilla
 

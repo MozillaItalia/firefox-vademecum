@@ -60,6 +60,10 @@ Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinai
 Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di componenti aggiuntivi. 
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
+##### Firefox For Developers e Firefox Nightly
+Firefox for Developers è una versione di Firefox che include strumenti utili agli sviluppatori per analizzare ogni aspetto dei siti e delle pagine web che vengono visitate. Firefox Nightly è una versione di Firefox di sviluppo aggiornata ogni giorno che permette di provare le ultime funzionalità. Utilizzata per segnalare problemi sia di traduzione che di funzionalità e divertirsi provando le ultime novità.
+
+
 ##### Do Not Track
 
 La funzione Do Not Track serve a informare i siti web - e le reti in cui si trovano - dell'indisponibilità dell'utente al tracciamento della propria attività e alla condivisione delle informazioni personali. Questa funzione è attivabile dalla sezione Privacy delle opzioni di Firefox.
@@ -89,20 +93,15 @@ Una versione alleggerita di Adblock, impedisce il caricamento delle pubblicità 
 ##### Privacy Badger
 Privacy Badger si occupa di bloccare i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pubblicità malevoli impedendone il loro caricamento.
 
-##### Downthemall
-Velocizza e ottimizza il download di contenuti nel web e si possono gestire i download con criteri personalizzabili.
-
-##### Xnotifier
-Abilita le notifiche per tutte le proprie attività personali.
-
-##### Cryptocat
-Permette di creare delle chat protette e crittate per parlare con chi si vuole in assoluta sicurezza.
-
-##### Videoresumer
-Permette di riprendere la visione dei propri video, partendo dal punto preciso in cui la si era interrotta.
-
 ##### Profilist
 Con un semplice clic permette di passare da un profilo di Firefox all'altro.
+
+##### I Don't Care About Cookies
+Una recente direttiva dell'UE obbliga i siti web ad inserire un banner dove viene notificato l'uso dei cookies.
+Questi banner sono quasi sempre d'impiccio alla navigazione e I Don't Care About Cookies permette di disabilitare questi banner, in modo da rendere piacevole e scorrevole la navigazione.
+
+##### Https Everywhere
+Alcuni siti non hanno il protocollo HTTPS abilitato, e la navigazione non è protetta. HTTPS Everywhere forza l'abilitazione del protocollo su tutti i siti che visitiamo, rendendo la nostra navigazione sicura e protetta. 
 
 ### Altri progetti Mozilla
 

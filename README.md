@@ -63,7 +63,7 @@ Di seguito troverai le più importanti già presenti nell'ultima versione:
 ##### Firefox For Developers e Firefox Nightly
 
 Firefox Dev Edition è una versione basata sulla Beta che abilita in modo predefinito delle opzioni per gli sviluppatori per analizzare ogni aspetto delle pagine web e del browser.   
-Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità (o bug). Utilizzata per segnalare problemi sia di traduzione che di funzionalità e divertirsi provando le ultime novità. 
+Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità (o bug). Utilizzata per segnalare problemi sia di traduzione sia di funzionalità e divertirsi provando le ultime novità. 
 
 ##### Pulsante Dimentica
 
@@ -75,7 +75,7 @@ La modalità lettura è una speciale caratteristica di Firefox che consente di r
 
 ##### Condivisione articoli
 
-Firefox include una funzione che permette di condividere pagine rapidamente le pagine web. Con un solo clic è infatti possibile condividere la pagina web che si stanno visitando, sui maggiori social network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, Yahoo e molti altri ancora.
+Firefox include una funzione che permette di condividere rapidamente le pagine web. Con un solo clic è possibile, infatti, condividere la pagina web che si sta visitando sui maggiori social network: dai classici Facebook, Twitter, LinkedIn a Pocket, Tumblr, Yahoo e molti altri ancora.
 
 ### Estensioni
 Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per la Fondazione Mozilla.
@@ -84,8 +84,8 @@ Qui di seguito alcune delle migliori estensioni disponibili:
 ##### Lightbeam
 Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, traccia, attraverso un grafico e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
 
-##### Ublock Origin
-Una versione alleggerita di Adblock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle risorse bloccate sia delle pubblicità bloccate della pagina che si sta visitando.
+##### uBlock Origin
+Una versione alleggerita di AdBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle risorse bloccate sia delle pubblicità bloccate della pagina che si sta visitando.
 
 ##### Privacy Badger
 Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pagine traccianti o malevole impedendone il loro caricamento, come i pulsanti di condivisione dei social network.
@@ -106,11 +106,11 @@ Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli no
 
 ##### Firefox Focus
 
-Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di  protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione viene eliminata automaticamente al termine di ogni sessione di navigazione. Inoltre la protezione antitracciamento di cui è dotato Firefox Focus permettono una maggiore velocità di navigazione attraverso il blocco della pubblicità e degli script. Tutte queste caratteristiche avanzate sono disponibili in solo 5 MB, meno dello spazio richiesto per un selfie. Firefox Focus è disponibile sia per Android che per iOS.
+Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione viene eliminata automaticamente al termine di ogni sessione di navigazione. Inoltre la protezione antitracciamento di cui è dotato Firefox Focus permettono una maggiore velocità di navigazione attraverso il blocco della pubblicità e degli script. Tutte queste caratteristiche avanzate sono disponibili in solo 5 MB, meno dello spazio richiesto per un selfie. Firefox Focus è disponibile sia per Android sia per iOS.
 
 ##### Rust
 
-Rust è un linguaggio di programmazione compilato multi-paradigma implementato da Mozilla Research in collaborazione con la community Open-Source. L'obiettivo di Rust è di mettere a disposizione un linguaggio per creare sistemi complessi e sicuri, anche per il multithread. Ciò comporta un insieme di caratteristiche che enfatizzano le prestazioni, il controllo sull'allocazione di memoria, la sicurezza e multithreading. Attualmente tra i vari progetti che fanno uso di questo linguaggio, troviamo il motore di rendering del browser Servo.
+Rust è un linguaggio di programmazione compilato multi-paradigma implementato da Mozilla Research in collaborazione con la community Open-Source. L'obiettivo di Rust è di mettere a disposizione un linguaggio per creare sistemi complessi e sicuri, anche per il multithread. Ciò comporta un insieme di caratteristiche che enfatizzano le prestazioni, il controllo sull'allocazione di memoria, la sicurezza e multithreading. Attualmente, tra i vari progetti che fanno uso di questo linguaggio, troviamo il motore di rendering del browser Servo.
 
 ##### Test Pilot
 

@@ -30,14 +30,14 @@ Nei prossimi capitoli vedremo di spiegarti perché usare Firefox, ti consigliere
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; la mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
 Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la **facilità d’uso**, la **personalizzazione**, la **sicurezza**, la **velocità** e il **supporto** garantito a tutti.
-Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago, hai la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo sui principali sistemi, eliminando, quindi, la necessità di imparare a utilizzare ogni volta un software diverso.
+Firefox è un software **multipiattaforma** in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, si avrà la stessa interfaccia da computer mentre, da mobile, l'esperienza sarà uniforme al sistema in uso. In entrambi i casi le funzionalità sono le medesime.
 
-**Mozilla Italia** invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine web di Mozilla e a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
+**Mozilla Italia**, invece, è la comunità italiana che si occupa di tradurre i progetti e le pagine web di Mozilla, fornire supporto e assistenza a tutti gli utenti ed è presente anche in altre attività, come gli eventi. Il punto d'incontro principale è il **forum** di Mozilla Italia (che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno) e i **nuovi canali Telegram**, accessibili da _**@mozItaHub**_
 
 ### Perché scegliere Firefox?
 
-Firefox è creato dagli utenti per gli utenti e non risponde alle esigenze di nessuna azienda, non è creato per guadagnare, ma per offrire a tutti un'esperienza di navigazione **libera**, **sicura** e **affidabile**.  
-Scegli il browser indipendente!
+Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare, Mozilla è una fondazione no profit, ma per **offrire** un'esperienza di navigazione **unica**.
+Scegli il browser **libero**, **sicuro**, **affidabile** ed **indipendente**. Scegli Firefox!
 
 ##### Libertà e personalizzazione
 
@@ -118,8 +118,7 @@ Rust è un linguaggio di programmazione compilato multi-paradigma implementato d
 
 ##### Test Pilot
 
-Test Pilot è il componente aggiuntivo sviluppato da Mozilla che permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox. Si possono provare in anteprima delle possibili future funzionalità, prima che siano integrate nel browser. Dopo averlo installato è possibile selezionare ciò che si desidera provare in anteprima e rilasciare un feedback sulla propria esperienza d’uso.
-Scopri le nuove funzionalità sperimentali su: https://testpilot.firefox.com/
+Test Pilot è un progetto sviluppato da Mozilla e permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox, testando periodicamente delle estensioni sperimentali: si possono provare in anteprima delle possibili future funzionalità, prima che queste vengano integrate nel browser stesso e, quindi, disponibili per tutti. Dopo averlo installato è possibile scegliere ciò che si desidera provare, quindi collaborare rilasciando una **propria** opinione sull’esperienza d’uso personale. Vieni a scoprire le nuove funzionalità sperimentali su:https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 

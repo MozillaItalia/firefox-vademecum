@@ -119,5 +119,5 @@ Scopri le nuove funzionalità sperimentali su: https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 
-Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri **volontari** quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, economi, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza.  
+Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri **volontari** quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza.  
 Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita [mozillaitalia.org](http://mozillaitalia.org)!

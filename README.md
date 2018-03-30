@@ -79,7 +79,7 @@ Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, c
  
 ##### Pocket 
  
-Pocket è un servizio integrato in Firefox che ti permette di salvare le pagine web con un semplice clic e leggerle successivamente su qualsiasi dispositivo, anche senza connessione ad internet. 
+Pocket è un servizio integrato in Firefox che permette di salvare le pagine web con un semplice clic e leggerle successivamente su qualsiasi dispositivo, anche senza connessione ad internet. 
  
 ### Estensioni
 Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per la Fondazione Mozilla.

@@ -82,8 +82,7 @@ Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, c
 Pocket è un servizio integrato in Firefox che permette di salvare, in un unico posto, tutte le pagine che si vogliono, semplicemente con un clic, per poterle leggere, condividere o rimuovere successivamente.
  
 ### Estensioni
-Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per la Fondazione Mozilla.
-Qui di seguito alcune delle migliori estensioni disponibili:
+Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per Mozilla. Firefox, inoltre, è il solo web browser che dispone di estensioni anche nella versione mobile. Qui di seguito alcune delle migliori estensioni disponibili:
 
 ##### Lightbeam
 Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, traccia, attraverso un grafico e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
@@ -98,7 +97,7 @@ Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri
 Una direttiva dell'UE obbliga i siti web ad inserire un'avviso per l'uso dei cookie di terze parti.
 Possono essere fastidiosi per la navigazione. Con questo plugin è possibile disabilitare questi avvisi per una esperienza più piacevole su internet.
 
-##### Https Everywhere
+##### HTTPS Everywhere
 Alcuni siti non hanno il protocollo HTTPS abilitato, e la navigazione pertanto non è protetta. HTTPS Everywhere forza l'abilitazione del protocollo su tutti i siti che visitiamo, rendendo la nostra navigazione sicura e protetta.
 
 ##### Dictionary Switcher

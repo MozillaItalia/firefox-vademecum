@@ -30,7 +30,7 @@ Nei prossimi capitoli vedremo di spiegarti perché usare Firefox, ti consigliere
 Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; la mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
 
 Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la **facilità d’uso**, la **personalizzazione**, la **sicurezza**, la **velocità** e il **supporto** garantito a tutti.
-Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago, hai la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo sui principali sistemi, eliminando,quindi, la necessità di imparare a utilizzare ogni volta un software diverso.
+Firefox è un software multipiattaforma in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago, hai la necessità di dover utilizzare diverse piattaforme, il programma funzionerà allo stesso modo sui principali sistemi, eliminando, quindi, la necessità di imparare a utilizzare ogni volta un software diverso.
 
 **Mozilla Italia** invece è l'associazione italiana, anch'essa no-profit, che si impegna ad aiutare i volontari italiani a tradurre i progetti e le pagine web di Mozilla e a fornire supporto e assistenza a tutti gli utenti. Il punto d'incontro di questi volontari è il forum di Mozilla Italia che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno.
 
@@ -62,8 +62,8 @@ Di seguito troverai le più importanti già presenti nell'ultima versione:
 
 ##### Firefox For Developers e Firefox Nightly
 
-Firefox for Developers è una versione che include un insieme di strumenti dedicati ai sviluppatori per analizzare ogni aspetto delle pagine web.  
-Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità. Questa versione viene ache utilizzata per segnalare problemi sia di traduzione che di funzionalità e per divertirsi provando le ultime novità.
+Firefox Dev Edition è una versione basata sulla Beta che abilita in modo predefinito delle opzioni per gli sviluppatori per analizzare ogni aspetto delle pagine web e del browser.   
+Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità (o bug). Utilizzata per segnalare problemi sia di traduzione che di funzionalità e divertirsi provando le ultime novità. 
 
 ##### Pulsante Dimentica
 

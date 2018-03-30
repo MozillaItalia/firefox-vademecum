@@ -100,8 +100,8 @@ Possono essere fastidiosi per la navigazione. Con questo plugin è possibile dis
 ##### HTTPS Everywhere
 Alcuni siti non hanno il protocollo HTTPS abilitato, e la navigazione pertanto non è protetta. HTTPS Everywhere forza l'abilitazione del protocollo su tutti i siti che visitiamo, rendendo la nostra navigazione sicura e protetta.
 
-##### Dictionary Switcher
-La correzione delle parole quando digitiamo nella rete è importante, come anche avere un sistema funzionale che supporti più dizionari linguistici. Questa estensione ci permette di scegliere il dizionario che vogliamo per ogni pagina.
+##### History AutoDelete
+Pulisci la cronologia di navigazione periodicamente secondo i tuoi gusti in maniera automatica e programmata.
 
 ### Altri progetti Mozilla
 

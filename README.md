@@ -73,9 +73,13 @@ Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso
 
 La modalità lettura è una speciale caratteristica di Firefox che consente di rimuovere dalle pagine web gli elementi non necessari e di modificare la dimensione del testo, il contrasto e l'impaginazione, al fine di consentire una maggiore e più facile leggibilità. Le impostazioni della modalità lettura sono facilmente personalizzabili in maniera da adattarsi alle preferenze di ciascun utente.
 
-##### Condivisione articoli
+##### Firefox Screenshot
 
-Firefox include una funzione che permette di condividere pagine rapidamente le pagine web. Con un solo clic è infatti possibile condividere la pagina web che si stanno visitando, sui maggiori social network: dai classici Facebook, Twitter, Linkedin a Pocket, Tumblr, Yahoo e molti altri ancora.
+Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, collezionare e condividere immagini ("screenshot") dei siti web.
+
+##### Pocket
+
+Pocket è un servizio integrato in Firefox che ti permette di salvare le pagine web con un semplice clic e leggerle successivamente su qualsiasi dispositivo, anche senza connessione ad internet.
 
 ### Estensioni
 Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per la Fondazione Mozilla.

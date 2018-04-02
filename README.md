@@ -69,6 +69,10 @@ Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette
 
 Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza andare ad intaccare nessun’altra informazione.
 
+##### Barra degli indirizzi intelligente
+
+Dalla versione 57 di Firefox è possibile utilizzare dei caratteri specifici, direttamente dalla barra degli indirizzi, per interagire con la stessa filtrando i risultati. Scoprili tutti su http://mzl.la/1zazb0J.
+
 ##### Modalità lettura
 
 La modalità lettura è una funzionalità di Firefox e permette di visualizzare, 

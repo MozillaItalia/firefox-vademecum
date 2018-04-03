@@ -116,9 +116,10 @@ Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli no
 
 Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione viene eliminata automaticamente al termine di ogni sessione di navigazione. Inoltre la protezione antitracciamento di cui è dotato Firefox Focus permettono una maggiore velocità di navigazione attraverso il blocco della pubblicità e degli script. Tutte queste caratteristiche avanzate sono disponibili in solo 5 MB, meno dello spazio richiesto per un selfie. Firefox Focus è disponibile sia per Android sia per iOS.
 
-##### Rust
-
-Rust è un linguaggio di programmazione compilato multi-paradigma implementato da Mozilla Research in collaborazione con la community Open-Source. L'obiettivo di Rust è di mettere a disposizione un linguaggio per creare sistemi complessi e sicuri, anche per il multithread. Ciò comporta un insieme di caratteristiche che enfatizzano le prestazioni, il controllo sull'allocazione di memoria, la sicurezza e multithreading. Attualmente, tra i vari progetti che fanno uso di questo linguaggio, troviamo il motore di rendering del browser Servo.
+##### WebVR
+La realtà virtuale oggi permette di sperimentare nuove possibilità, anche unita alla realtà aumentata.
+Queste tecnologie oggi richiedono costosi headset, dispositivi potenti e specifici. Tutto ciò si può risolvere grazie al web, **grazie a Firefox**, sia da mobile sia da desktop.
+In Mozilla è stata creata una comunità che si occupa di promuovere e sperimentare ciò, con la libreria JavaScript A-Frame, specifica per la VR: http://mozvr.com
 
 ##### Test Pilot
 

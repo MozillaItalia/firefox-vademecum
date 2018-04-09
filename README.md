@@ -2,10 +2,13 @@
 In questo file verrà spiegato cos'è il vademecum e come poter collaborare.
 Verranno elencati coloro che hanno collaborato nella realizzazione.
 
+## E' ALTAMENTE CONSIGLIATO LEGGERE PRIMA IL FILE CONTRIBUTING.MD
+Contiene tutte le informazioni utili per sapere come essere utile e collaborare al progetto e le REGOLE di stile da SEGUIRE per realizzare un progetto ben fatto ed uniforme.
+
 ### Mappa file
 - Cos'è
 - Versione
-- Come collaborare
+- Come collaborare & Regole di stile
 - Collaboratori
 - Licenza
 
@@ -15,8 +18,8 @@ Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figu
 ## Versione
 L'attuale versione è la 1.2
 
-## Come collaborare
-Per sapere come contribuire/collaborare si prega di leggere il file _contributing.md_.
+## Come collaborare & Regole di stile
+Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file _contributing.md_.
 
 ## Collaboratori
 In questa versione i collaboratori sono (ordine A-Z):

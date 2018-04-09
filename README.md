@@ -5,7 +5,8 @@ Verranno elencati coloro che hanno collaborato nella realizzazione.
 ### Mappa file
 - Cos'è
 - Versione
-- Come collaborare & Collaboratori
+- Come collaborare
+- Collaboratori
 - Licenza
 
 ## Cos'è
@@ -14,8 +15,20 @@ Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figu
 ## Versione
 L'attuale versione è la 1.2
 
-## Come collaborare & Collaboratori
+## Come collaborare
 Per sapere come contribuire/collaborare si prega di leggere il file _contributing.md_.
+
+## Collaboratori
+In questa versione i collaboratori sono (ordine A-Z):
+- Cantu Niccolo
+- De Rose Pasquale
+- Morelli Saverio
+- Pignataro Giuseppe
+- Pirrotta Irene
+- Pizii Mirko
+- Putti Edoardo
+- Scasciafratte Daniele
+- Viola Edoardo
 
 ## Lincenza
 La licenza utilizzata per Vademecum è la Creative Commons - Attribution (BY), ShareAlike (SA) 2.0 Italia (Attribuzione, Condivisione allo stesso modo)

@@ -1,11 +1,8 @@
+**_Si consiglia di leggere prima il file README.md_**
+
 # Scopri Firefox e Mozilla!
 
 ##### Una guida rapida a Firefox
-
-Vers. 1.1.0  
-Collaboratori: Niccolo Cantu, Edoardo Putti, Daniele Scasciafratte, Edoardo Viola, Irene Pirrotta, Mirko Pizii, Pasquale De Rose
-
-Licenza: <img src="images/license.png" style="width:110px;">
 
 Capitoli:
 

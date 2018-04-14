@@ -37,8 +37,7 @@ Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per gua
 Scegli il browser **libero**, **sicuro**, **affidabile** ed **indipendente**. Scegli Firefox!
 
 ##### Libertà e personalizzazione
-
-Firefox è il browser davvero “personale”. È possibile aggiungere **nuove funzionalità** grazie alle migliaia di estensioni disponibili: dalla gestione di aste online al caricamento delle foto digitali, dal controllo delle previsioni del tempo alla possibilità di ascoltare musica direttamente dal browser. Installando i temi si può invece cambiare l’aspetto dell’interfaccia e Firefox potrà, ad esempio, avere pannelli in finto legno o colori metallici. Inoltre il sistema nativo dei profili permette di avere diverse configurazioni di Firefox con impostazioni o estensioni differenti.
+Firefox è il browser davvero “personale”. È possibile aggiungere **nuove funzionalità**, grazie alle migliaia di estensioni disponibili e, in caso non dovessi trovarla, puoi svilupparla tu stesso. Si può personalizzare anche l'interfaccia grafica, grazie alla moltitudine di temi e, anche in questo caso, se non dovessi trovare qualcosa che ti piace, puoi crearne uno tutto tuo!
 
 ##### Sicurezza e privacy
 
@@ -57,15 +56,14 @@ Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinai
 Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di componenti aggiuntivi.
 Di seguito troverai le più importanti già presenti nell'ultima versione:
 
-##### Firefox For Developers e Firefox Nightly
+##### Firefox Developer e Firefox Nightly
 
-Firefox Dev Edition è una versione basata sulla Beta che abilita in modo predefinito delle opzioni per gli sviluppatori per analizzare ogni aspetto delle pagine web e del browser.   
-Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità (o bug). Utilizzata per segnalare problemi sia di traduzione sia di funzionalità e divertirsi provando le ultime novità. 
+Firefox Dev Edition è una versione basata sulla Beta, attiva in modo predefinito delle **opzioni dedicate agli sviluppatori**.
+Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità. Utilizzata per **segnalare problemi** sia di traduzione sia di funzionalità.
 
 ##### Modalità lettura
 
-La modalità lettura è una funzionalità di Firefox e permette di visualizzare, 
-di una qualunque pagina che la supporti, **solo il testo ed le immagini**, rimuovendo tutto il resto. E' altamente **personalizzabile**: si può modificare l'interlinea, i margini, la grandezza del testo e molto altro. Inoltre è possibile mettersi comodi ed **ascoltare** quella stessa pagina, senza doverla leggere, grazie al pulsante "**Leggi ad alta voce**"!
+La modalità lettura è una funzionalità di Firefox che permette di visualizzare, di una qualunque pagina che la supporti, **solo il testo e le immagini**, rimuovendo tutto il resto. È altamente **personalizzabile** e ricca di funzionalità come il "**Leggi ad alta voce**"!
 
 ##### Pulsante Dimentica
 
@@ -96,11 +94,10 @@ Una versione alleggerita di AdBlock, impedisce il caricamento delle pubblicità 
 Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pagine traccianti o malevole impedendone il loro caricamento, come i pulsanti di condivisione dei social network.
 
 ##### I Don't Care About Cookies
-Una direttiva dell'UE obbliga i siti web ad inserire un'avviso per l'uso dei cookie di terze parti.
-Possono essere fastidiosi per la navigazione. Con questo plugin è possibile disabilitare questi avvisi per una esperienza più piacevole su internet.
+È possibile disattivare gli avvisi, obbligatori, sull'uso di cookie di terze parti imposto da una direttiva dell'UE.
 
 ##### HTTPS Everywhere
-Alcuni siti non hanno il protocollo HTTPS abilitato, e la navigazione pertanto non è protetta. HTTPS Everywhere forza l'abilitazione del protocollo su tutti i siti che visitiamo, rendendo la nostra navigazione sicura e protetta.
+Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forzerà l'attivazione, rendendo la navigazione sicure e protetta.
 
 ##### History AutoDelete
 Pulisci la cronologia di navigazione periodicamente secondo i tuoi gusti in maniera automatica e programmata.
@@ -111,7 +108,7 @@ Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli no
 
 ##### Firefox Focus
 
-Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione viene eliminata automaticamente al termine di ogni sessione di navigazione. Inoltre la protezione antitracciamento di cui è dotato Firefox Focus permettono una maggiore velocità di navigazione attraverso il blocco della pubblicità e degli script. Tutte queste caratteristiche avanzate sono disponibili in solo 5 MB, meno dello spazio richiesto per un selfie. Firefox Focus è disponibile sia per Android sia per iOS.
+Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione, come anche i dati raccolti, vengono eliminati automaticamente al termine di ogni sessione di navigazione. Tutte queste caratteristiche avanzate sono disponibili in **solo 5 MB**, sia per Android sia per iOS.
 
 ##### WebVR
 La realtà virtuale oggi permette di sperimentare nuove possibilità, anche unita alla realtà aumentata.

@@ -62,18 +62,18 @@ Di seguito troverai le più importanti già presenti nell'ultima versione:
 Firefox Dev Edition è una versione basata sulla Beta che abilita in modo predefinito delle opzioni per gli sviluppatori per analizzare ogni aspetto delle pagine web e del browser.   
 Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità (o bug). Utilizzata per segnalare problemi sia di traduzione sia di funzionalità e divertirsi provando le ultime novità. 
 
-##### Pulsante Dimentica
+##### Modalità lettura
 
-Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza andare ad intaccare nessun’altra informazione.
+La modalità lettura è una funzionalità di Firefox e permette di visualizzare, 
+di una qualunque pagina che la supporti, **solo il testo ed le immagini**, rimuovendo tutto il resto. E' altamente **personalizzabile**: si può modificare l'interlinea, i margini, la grandezza del testo e molto altro. Inoltre è possibile mettersi comodi ed **ascoltare** quella stessa pagina, senza doverla leggere, grazie al pulsante "**Leggi ad alta voce**"!
 
 ##### Barra degli indirizzi intelligente
 
 Dalla versione 57 di Firefox è possibile utilizzare dei caratteri specifici, direttamente dalla barra degli indirizzi, per interagire con la stessa filtrando i risultati. Scoprili tutti su http://mzl.la/1zazb0J.
 
-##### Modalità lettura
+##### Pulsante Dimentica
 
-La modalità lettura è una funzionalità di Firefox e permette di visualizzare, 
-di una qualunque pagina che la supporti, **solo il testo ed le immagini**, rimuovendo tutto il resto. E' altamente **personalizzabile**: si può modificare l'interlinea, i margini, la grandezza del testo e molto altro. Inoltre è possibile mettersi comodi ed **ascoltare** quella stessa pagina, senza doverla leggere, grazie al pulsante "**Leggi ad alta voce**"!
+Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza andare ad intaccare nessun’altra informazione.
 
 ##### Firefox Screenshot 
  

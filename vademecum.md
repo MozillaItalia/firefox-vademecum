@@ -107,7 +107,7 @@ Pulisci la cronologia di navigazione periodicamente secondo i tuoi gusti in mani
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli non elencati ci sono progetti del calibro di MDN, Mozilla Science, Webmaker, MOSS e MozVR. Tutti i progetti si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del web come risorsa aperta a tutte le persone del mondo. In dettaglio i progetti più importanti di Mozilla:
+Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli non elencati ci sono altri innumerevoli progetti, come, ad esempio MDN, Open Leadership e Internet Health Report. Tutti, comunque, si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del **web come risorsa aperta** a tutti. In dettaglio i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 

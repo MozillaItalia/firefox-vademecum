@@ -1,0 +1,1098 @@
+#body
+{
+    font-family:arial;
+    width:635px;
+    height:900px;
+    background-color:white;
+    border:2px solid black;
+    position:absolute;
+    overflow:hidden;
+    font-size:12px;
+    text-align:center;
+}
+div#titolo_principale
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:30px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    height:30px;
+    overflow:hidden;
+}
+div#descrizione_principale
+{
+    position:absolute;
+    text-align:center;
+    top:40px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    font-weight:bold;
+    padding:5px;
+    height:20px;
+}
+
+div#introduzione
+{
+    position:absolute;
+    top:70px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:193px;
+    overflow:hidden;
+}
+
+
+div#introduzione div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:18px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-left:50px;
+    height:25px;
+}
+div#introduzione div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:33px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+}
+
+div#mozilla_firefox_mozillaitalia
+{
+    position:absolute;
+    top:263px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:222px;
+    overflow:hidden;
+}
+
+div#mozilla_firefox_mozillaitalia div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:18px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-left:50px;
+    height:25px;
+}
+div#mozilla_firefox_mozillaitalia div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:32px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+}
+
+/*inizio perchè scegliere firefox*/
+div#perche_scegliere_firefox
+{
+    position:absolute;
+    top:485px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:415px;
+    overflow:hidden;
+}
+
+div#perche_scegliere_firefox div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:20px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    height:25px;
+}
+div#perche_scegliere_firefox div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:35px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:60px;
+}
+div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
+{
+    position:relative;
+    font-size:16px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    bottom:-5px;
+    left:auto;
+    right:auto;
+    width:auto;
+}
+
+div#perche_scegliere_firefox div#sez1
+{
+    position:absolute;
+    text-align:center;
+    top:105px;
+    left:5px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:149px;
+    overflow:hidden;
+}
+div#perche_scegliere_firefox div#sez1 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#perche_scegliere_firefox div#sez1 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:119px;
+}
+
+div#perche_scegliere_firefox div#sez2
+{
+    position:absolute;
+    text-align:center;
+    top:105px;
+    left:320px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:149px;
+    overflow:hidden;
+}
+div#perche_scegliere_firefox div#sez2 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#perche_scegliere_firefox div#sez2 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:119px;
+}
+
+div#perche_scegliere_firefox div#sez3
+{
+    position:absolute;
+    text-align:center;
+    top:270px;
+    left:5px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:130px;
+    overflow:hidden;
+}
+div#perche_scegliere_firefox div#sez3 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#perche_scegliere_firefox div#sez3 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:100px;
+}
+
+div#perche_scegliere_firefox div#sez4
+{
+    position:absolute;
+    text-align:center;
+    top:270px;
+    left:320px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:130px;
+    overflow:hidden;
+}
+div#perche_scegliere_firefox div#sez4 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#perche_scegliere_firefox div#sez4 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:100px;
+}
+/*fine perchè scegliere firefox*/
+
+/*inizio novità*/
+div#novita
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:425px;
+    overflow:hidden;
+}
+
+div#novita div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:20px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    height:25px;
+}
+div#novita div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:35px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:30px;
+}
+/*
+div#novita div#sez1
+{
+    position:absolute;
+    text-align:center;
+    top:80px;
+    left:5px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:185px;
+    overflow:hidden;
+    background-color:red;
+}
+div#novita div#sez1 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez1 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+}
+
+div#novita div#sez2
+{
+    position:absolute;
+    text-align:center;
+    top:80px;
+    left:215px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:185px;
+    overflow:hidden;
+    background-color:green;
+}
+div#novita div#sez2 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez2 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+}
+
+div#novita div#sez3
+{
+    position:absolute;
+    text-align:center;
+    top:80px;
+    left:425px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:185px;
+    overflow:hidden;
+    background-color:purple;
+}
+div#novita div#sez3 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez3 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+} */
+
+div#novita div#sez4
+{
+    position:absolute;
+    text-align:center;
+    top:80px;/*top:280px;*/
+    left:5px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:130px;
+    overflow:hidden;
+}
+div#novita div#sez4 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:13px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez4 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:104px;
+}
+
+div#novita div#sez5
+{
+    position:absolute;
+    text-align:center;
+    top:80px;/*top:280px;*/
+    left:215px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:130px;
+    overflow:hidden;
+}
+div#novita div#sez5 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez5 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:104px;
+}
+
+div#novita div#sez6
+{
+    position:absolute;
+    text-align:center;
+    top:80px;/*top:280px;*/
+    left:425px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:130px;
+    overflow:hidden;
+}
+div#novita div#sez6 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#novita div#sez6 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:104px;
+}
+/*fine novità*/
+
+/*inizio estensioni*/
+div#estensioni
+{
+    position:absolute;
+    top:225px;/*top:425px;*/
+    left:0px;
+    right:0px;
+    width:auto;
+    height:385px;
+    overflow:hidden;
+}
+
+div#estensioni div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:20px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    height:25px;
+}
+div#estensioni div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:35px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:11px;
+    padding:5px;
+    height:45px;
+}
+
+div#estensioni div#sez1
+{
+    position:absolute;
+    text-align:center;
+    top:95px;
+    left:5px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:145px;
+    overflow:hidden;
+}
+div#estensioni div#sez1 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez1 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+}
+
+div#estensioni div#sez2
+{
+    position:absolute;
+    text-align:center;
+    top:95px;
+    left:215px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:145px;
+    overflow:hidden;
+}
+div#estensioni div#sez2 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez2 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+}
+
+div#estensioni div#sez3
+{
+    position:absolute;
+    text-align:center;
+    top:95px;
+    left:425px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:145px;
+    overflow:hidden;
+}
+div#estensioni div#sez3 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez3 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:155px;
+}
+
+div#estensioni div#sez4
+{
+    position:absolute;
+    text-align:center;
+    top:255px;
+    left:5px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:115px;
+    overflow:hidden;
+}
+div#estensioni div#sez4 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:13px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez4 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:90px;
+}
+
+div#estensioni div#sez5
+{
+    position:absolute;
+    text-align:center;
+    top:255px;
+    left:215px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:115px;
+    overflow:hidden;
+}
+div#estensioni div#sez5 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:13px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez5 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:90px;
+}
+
+div#estensioni div#sez6
+{
+    position:absolute;
+    text-align:center;
+    top:255px;
+    left:425px;
+    right:auto;
+    width:195px;
+    font-size:12px;
+    padding:5px;
+    height:115px;
+    overflow:hidden;
+}
+div#estensioni div#sez6 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:13px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:normal;
+    height:16px;
+}
+div#estensioni div#sez6 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:26px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:90px;
+}
+/*fine estensioni*/
+
+/*inizio altri_progetti_mozilla*/
+div#altri_progetti_mozilla
+{
+    position:absolute;
+    top:610px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:290px;
+    overflow:hidden;
+}
+
+div#altri_progetti_mozilla div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:20px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    height:25px;
+}
+div#altri_progetti_mozilla div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:35px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:60px;
+}
+
+div#altri_progetti_mozilla div#sez1
+{
+    position:absolute;
+    text-align:center;
+    top:105px;
+    left:5px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:170px;
+    overflow:hidden;
+}
+div#altri_progetti_mozilla div#sez1 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#altri_progetti_mozilla div#sez1 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:11px;
+    padding:5px;
+    height:140px;
+}
+
+div#altri_progetti_mozilla div#sez2
+{
+    position:absolute;
+    text-align:center;
+    top:105px;
+    left:320px;
+    right:auto;
+    width:300px;
+    font-size:12px;
+    padding:5px;
+    height:170px;
+    overflow:hidden;
+}
+div#altri_progetti_mozilla div#sez2 div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:14px;
+    padding:5px;
+    background-color:black;
+    color:white;
+    font-weight:bold;
+    height:20px;
+}
+div#altri_progetti_mozilla div#sez2 div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:30px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:140px;
+}
+/*inizio altri_progetti_mozilla*/
+
+/*inizio crediti*/
+div#collaboratori
+{
+    position:absolute;
+    top:888px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:290px;
+    overflow:hidden;
+}
+
+div#collaboratori div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:8px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:1px;
+    padding-left:5px;
+    height:12px;
+}
+div#collaboratori div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:-5px;
+    left:30px;
+    right:auto;
+    width:auto;
+    font-size:8px;
+    padding:5px;
+    height:60px;
+}
+
+/*fine crediti*/

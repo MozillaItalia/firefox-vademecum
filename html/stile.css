@@ -1094,5 +1094,68 @@ div#collaboratori div#sub_descrizione
     padding:5px;
     height:60px;
 }
-
 /*fine crediti*/
+
+/*inizio SCOPRI DI PIU' SU MOZILLA*/
+input#scopri_di_piu
+{
+    position:absolute;
+    text-align:center;
+    top:620px;
+    left:20px;
+    right:20px;
+    width:595px;
+    font-size:20px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:1px;
+    padding:10px;
+    //height:30px;
+    border:2px solid black;
+    cursor:pointer;
+    white-space:normal;
+}
+/*fine SCOPRI DI PIU' SU MOZILLA*/
+
+/*inizio crediti2*/
+div#collaboratori2
+{
+    position:absolute;
+    top:800px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:290px;
+    overflow:hidden;
+}
+
+div#collaboratori2 div#sub_titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:14px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-left:20px;
+    height:18px;
+}
+div#collaboratori2 div#sub_descrizione
+{
+    position:absolute;
+    text-align:center;
+    top:30px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+    height:60px;
+}
+/*fine crediti2*/

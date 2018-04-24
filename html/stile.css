@@ -1,6 +1,6 @@
 #body
 {
-    font-family:arial;
+    font-family:Zilla Slab Light;
     width:635px;
     height:900px;
     background-color:white;
@@ -9,6 +9,14 @@
     overflow:hidden;
     font-size:12px;
     text-align:center;
+}
+b
+{
+    font-family:Zilla Slab Medium;
+}
+i
+{
+    font-family:Zilla Slab Italic;
 }
 div#titolo_principale
 {
@@ -23,7 +31,7 @@ div#titolo_principale
     background-color:black;
     color:white;
     padding:5px;
-    height:30px;
+    height:36px;
     overflow:hidden;
 }
 div#descrizione_principale
@@ -37,22 +45,20 @@ div#descrizione_principale
     font-size:14px;
     font-weight:bold;
     padding:5px;
-    height:20px;
+    height:18px;
 }
 
-div#introduzione
+div#presentazione
 {
     position:absolute;
-    top:70px;
+    top:68px;
     left:0px;
     right:0px;
     width:auto;
-    height:193px;
+    height:182px;
     overflow:hidden;
 }
-
-
-div#introduzione div#titolo
+div#presentazione div#titolo
 {
     position:absolute;
     text-align:center;
@@ -68,7 +74,7 @@ div#introduzione div#titolo
     padding-left:50px;
     height:25px;
 }
-div#introduzione div#descrizione
+div#presentazione div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -80,54 +86,15 @@ div#introduzione div#descrizione
     padding:5px;
 }
 
-div#mozilla_firefox_mozillaitalia
-{
-    position:absolute;
-    top:263px;
-    left:0px;
-    right:0px;
-    width:auto;
-    height:222px;
-    overflow:hidden;
-}
-
-div#mozilla_firefox_mozillaitalia div#titolo
-{
-    position:absolute;
-    text-align:center;
-    top:0px;
-    left:0px;
-    right:auto;
-    width:auto;
-    font-size:18px;
-    font-weight:bold;
-    background-color:black;
-    color:white;
-    padding:5px;
-    padding-left:50px;
-    height:25px;
-}
-div#mozilla_firefox_mozillaitalia div#descrizione
-{
-    position:absolute;
-    text-align:left;
-    top:32px;
-    left:0px;
-    right:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-}
-
 /*inizio perchè scegliere firefox*/
 div#perche_scegliere_firefox
 {
     position:absolute;
-    top:485px;
+    top:250px;
     left:0px;
     right:0px;
     width:auto;
-    height:415px;
+    height:413px;
     overflow:hidden;
 }
 
@@ -169,6 +136,7 @@ div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
     left:auto;
     right:auto;
     width:auto;
+    font-weight:bold;
 }
 
 div#perche_scegliere_firefox div#sez1
@@ -344,11 +312,11 @@ div#perche_scegliere_firefox div#sez4 div#descrizione
 div#novita
 {
     position:absolute;
-    top:0px;
+    top:663px;
     left:0px;
     right:0px;
     width:auto;
-    height:425px;
+    height:242px;
     overflow:hidden;
 }
 
@@ -379,20 +347,19 @@ div#novita div#sub_descrizione
     padding:5px;
     height:30px;
 }
-/*
+
 div#novita div#sez1
 {
     position:absolute;
     text-align:center;
-    top:80px;
+    top:105px;
     left:5px;
     right:auto;
     width:195px;
     font-size:12px;
     padding:5px;
-    height:185px;
+    height:130px;
     overflow:hidden;
-    background-color:red;
 }
 div#novita div#sez1 div#titolo
 {
@@ -402,11 +369,11 @@ div#novita div#sez1 div#titolo
     left:0px;
     right:0px;
     width:auto;
-    font-size:12px;
+    font-size:13px;
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#novita div#sez1 div#descrizione
@@ -418,24 +385,23 @@ div#novita div#sez1 div#descrizione
     right:0px;
     bottom:0px;
     width:auto;
-    font-size:12px;
+    font-size:11px;
     padding:5px;
-    height:155px;
+    height:104px;
 }
 
 div#novita div#sez2
 {
     position:absolute;
     text-align:center;
-    top:80px;
+    top:105px;
     left:215px;
     right:auto;
     width:195px;
     font-size:12px;
     padding:5px;
-    height:185px;
+    height:130px;
     overflow:hidden;
-    background-color:green;
 }
 div#novita div#sez2 div#titolo
 {
@@ -449,7 +415,7 @@ div#novita div#sez2 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#novita div#sez2 div#descrizione
@@ -463,22 +429,21 @@ div#novita div#sez2 div#descrizione
     width:auto;
     font-size:12px;
     padding:5px;
-    height:155px;
+    height:104px;
 }
 
 div#novita div#sez3
 {
     position:absolute;
     text-align:center;
-    top:80px;
+    top:105px;
     left:425px;
     right:auto;
     width:195px;
     font-size:12px;
     padding:5px;
-    height:185px;
+    height:130px;
     overflow:hidden;
-    background-color:purple;
 }
 div#novita div#sez3 div#titolo
 {
@@ -492,136 +457,10 @@ div#novita div#sez3 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#novita div#sez3 div#descrizione
-{
-    position:absolute;
-    text-align:left;
-    top:26px;
-    left:0px;
-    right:0px;
-    bottom:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-    height:155px;
-} */
-
-div#novita div#sez4
-{
-    position:absolute;
-    text-align:center;
-    top:80px;/*top:280px;*/
-    left:5px;
-    right:auto;
-    width:195px;
-    font-size:12px;
-    padding:5px;
-    height:130px;
-    overflow:hidden;
-}
-div#novita div#sez4 div#titolo
-{
-    position:absolute;
-    text-align:center;
-    top:0px;
-    left:0px;
-    right:0px;
-    width:auto;
-    font-size:13px;
-    padding:5px;
-    background-color:black;
-    color:white;
-    font-weight:normal;
-    height:16px;
-}
-div#novita div#sez4 div#descrizione
-{
-    position:absolute;
-    text-align:left;
-    top:26px;
-    left:0px;
-    right:0px;
-    bottom:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-    height:104px;
-}
-
-div#novita div#sez5
-{
-    position:absolute;
-    text-align:center;
-    top:80px;/*top:280px;*/
-    left:215px;
-    right:auto;
-    width:195px;
-    font-size:12px;
-    padding:5px;
-    height:130px;
-    overflow:hidden;
-}
-div#novita div#sez5 div#titolo
-{
-    position:absolute;
-    text-align:center;
-    top:0px;
-    left:0px;
-    right:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-    background-color:black;
-    color:white;
-    font-weight:normal;
-    height:16px;
-}
-div#novita div#sez5 div#descrizione
-{
-    position:absolute;
-    text-align:left;
-    top:26px;
-    left:0px;
-    right:0px;
-    bottom:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-    height:104px;
-}
-
-div#novita div#sez6
-{
-    position:absolute;
-    text-align:center;
-    top:80px;/*top:280px;*/
-    left:425px;
-    right:auto;
-    width:195px;
-    font-size:12px;
-    padding:5px;
-    height:130px;
-    overflow:hidden;
-}
-div#novita div#sez6 div#titolo
-{
-    position:absolute;
-    text-align:center;
-    top:0px;
-    left:0px;
-    right:0px;
-    width:auto;
-    font-size:12px;
-    padding:5px;
-    background-color:black;
-    color:white;
-    font-weight:normal;
-    height:16px;
-}
-div#novita div#sez6 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -640,7 +479,7 @@ div#novita div#sez6 div#descrizione
 div#estensioni
 {
     position:absolute;
-    top:225px;/*top:425px;*/
+    top:0px;
     left:0px;
     right:0px;
     width:auto;
@@ -671,7 +510,7 @@ div#estensioni div#sub_descrizione
     left:0px;
     right:0px;
     width:auto;
-    font-size:11px;
+    font-size:12px;
     padding:5px;
     height:45px;
 }
@@ -701,7 +540,7 @@ div#estensioni div#sez1 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez1 div#descrizione
@@ -743,7 +582,7 @@ div#estensioni div#sez2 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez2 div#descrizione
@@ -785,7 +624,7 @@ div#estensioni div#sez3 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez3 div#descrizione
@@ -827,7 +666,7 @@ div#estensioni div#sez4 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez4 div#descrizione
@@ -869,7 +708,7 @@ div#estensioni div#sez5 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez5 div#descrizione
@@ -911,7 +750,7 @@ div#estensioni div#sez6 div#titolo
     padding:5px;
     background-color:black;
     color:white;
-    font-weight:normal;
+    font-weight:bold;
     height:16px;
 }
 div#estensioni div#sez6 div#descrizione
@@ -933,7 +772,7 @@ div#estensioni div#sez6 div#descrizione
 div#altri_progetti_mozilla
 {
     position:absolute;
-    top:610px;
+    top:385px;
     left:0px;
     right:0px;
     width:auto;
@@ -1048,25 +887,23 @@ div#altri_progetti_mozilla div#sez2 div#descrizione
     right:0px;
     bottom:0px;
     width:auto;
-    font-size:12px;
+    font-size:11px;
     padding:5px;
     height:140px;
 }
 /*inizio altri_progetti_mozilla*/
 
-/*inizio crediti*/
-div#collaboratori
+div#unisciti
 {
     position:absolute;
-    top:888px;
+    top:675px;
     left:0px;
     right:0px;
     width:auto;
-    height:290px;
+    height:155px;
     overflow:hidden;
 }
-
-div#collaboratori div#sub_titolo
+div#unisciti div#titolo
 {
     position:absolute;
     text-align:center;
@@ -1074,88 +911,60 @@ div#collaboratori div#sub_titolo
     left:0px;
     right:auto;
     width:auto;
-    font-size:8px;
+    font-size:18px;
     font-weight:bold;
     background-color:black;
     color:white;
-    padding:1px;
-    padding-left:5px;
-    height:12px;
-}
-div#collaboratori div#sub_descrizione
-{
-    position:absolute;
-    text-align:center;
-    top:-5px;
-    left:30px;
-    right:auto;
-    width:auto;
-    font-size:8px;
     padding:5px;
-    height:60px;
+    padding-left:50px;
+    height:25px;
 }
-/*fine crediti*/
-
-/*inizio SCOPRI DI PIU' SU MOZILLA*/
-input#scopri_di_piu
+div#unisciti div#descrizione
 {
     position:absolute;
-    text-align:center;
-    top:620px;
-    left:20px;
-    right:20px;
-    width:595px;
-    font-size:20px;
-    font-weight:bold;
-    background-color:black;
-    color:white;
-    padding:1px;
-    padding:10px;
-    //height:30px;
-    border:2px solid black;
-    cursor:pointer;
-    white-space:normal;
-}
-/*fine SCOPRI DI PIU' SU MOZILLA*/
-
-/*inizio crediti2*/
-div#collaboratori2
-{
-    position:absolute;
-    top:800px;
+    text-align:left;
+    top:33px;
     left:0px;
     right:0px;
-    width:auto;
-    height:290px;
-    overflow:hidden;
-}
-
-div#collaboratori2 div#sub_titolo
-{
-    position:absolute;
-    text-align:center;
-    top:0px;
-    left:0px;
-    right:auto;
-    width:auto;
-    font-size:14px;
-    font-weight:bold;
-    background-color:black;
-    color:white;
-    padding:5px;
-    padding-left:20px;
-    height:18px;
-}
-div#collaboratori2 div#sub_descrizione
-{
-    position:absolute;
-    text-align:center;
-    top:30px;
-    left:0px;
-    right:auto;
     width:auto;
     font-size:12px;
     padding:5px;
-    height:60px;
 }
-/*fine crediti2*/
+
+div#collaboratori
+{
+    position:absolute;
+    top:830px;
+    left:0px;
+    right:0px;
+    width:auto;
+    height:70px;
+    overflow:hidden;
+}
+div#collaboratori div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0px;
+    left:0px;
+    right:auto;
+    width:auto;
+    font-size:18px;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:5px;
+    padding-left:50px;
+    height:25px;
+}
+div#collaboratori div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:33px;
+    left:0px;
+    right:0px;
+    width:auto;
+    font-size:12px;
+    padding:5px;
+}

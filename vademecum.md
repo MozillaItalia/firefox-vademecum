@@ -14,22 +14,13 @@ Capitoli:
 * Altri progetti Mozilla
 * Contribuire
 
-### Introduzione
+### Presentazione
 
-Lo scopo di questa breve guida è di accompagnarti alla scoperta del browser Firefox, un browser web diverso da tutti gli altri, che mette l'utente al primo posto. Devi sapere per prima cosa che Firefox è un software libero, ossia garantisce a tutti la libertà di utilizzare il programma, studiare come è fatto, modificarlo e poi condividerlo.
-
-Mozilla Foundation è un'organizzazione senza scopo di lucro e lavora ogni giorno per migliorare Firefox, con l'aiuto di molti volontari da tutto il mondo. La community di Mozilla è globale e conta oltre 10.000 persone attive; non si tratta solo di programmatori o esperti di informatica, l'aiuto di ciascuno è indispensabile perché sono necessarie persone competenti in molti settori. Per questo motivo si dice che **Firefox è fatto dagli utenti per gli utenti**.
-
-Nei prossimi capitoli vedremo di spiegarti perché usare Firefox, ti consiglieremo le migliori estensioni per personalizzare il tuo browser, scoprirai altri progetti sviluppati e mantenuti da Mozilla e infine parleremo della missione che portiamo avanti come comunità.
-
-### Mozilla, Firefox e Mozilla Italia
-
-Mozilla è il nome della community, il nome in codice in origine era "Mosaic Killer", poi diventato Mozilla per assonanza; la mascotte di Mozilla è un tirannosaurus rex di colore rosso, rawr!
-
-Il più famoso progetto della comunità è il browser Firefox, che ha come mascotte un panda rosso. I suoi punti di forza sono la **facilità d’uso**, la **personalizzazione**, la **sicurezza**, la **velocità** e il **supporto** garantito a tutti.
-Firefox è un software **multipiattaforma** in grado di funzionare sui sistemi operativi più diffusi (Windows, Linux, Mac OS X, Android e iOS): se per lavoro, per studio o per svago si ha la necessità di dover utilizzare diverse piattaforme, si avrà la stessa interfaccia da computer mentre, da mobile, l'esperienza sarà uniforme al sistema in uso. In entrambi i casi le funzionalità sono le medesime.
-
-**Mozilla Italia**, invece, è la comunità italiana che si occupa di tradurre i progetti e le pagine web di Mozilla, fornire supporto e assistenza a tutti gli utenti ed è presente anche in altre attività, come gli eventi. Il punto d'incontro principale è il **forum** di Mozilla Italia (che conta mediamente dieci nuovi iscritti e cento messaggi scritti ogni giorno) e i **nuovi canali Telegram**, accessibili da _**@mozItaHub**_
+Prima di tutto è doveroso spiegare cos'è _Firefox_. Ebbene, è un browser web **unico**: mette al primo posto gli utenti, ha il codice sorgente libero (quindi tutti possono analizzarlo e modificarlo), è disponibile su tutti i principali sistemi operativi, è personalizzabile, è versatile, è veloce e, molto importante, è **sicuro**.
+**Mozilla Foundation** è l'organizzazione _senza scopi_ di lucro che, da oltre 15 anni, supporta Firefox ed altri numerosi progetti. Questa organizzazione ha più di 10.000 **volontari**, provenienti da ogni parte del _globo_.
+La comunità che opera in Italia prende il nome di _Mozilla Italia_; si occupa di tradurre progetti e siti web, ma anche di realizzare e partecipare ad eventi, aiutare gli utenti, e molto altro.
+Per queste ragioni chiunque è il benvenuto: **collaborare** è il fulcro di ogni comunità.
+Trovi Mozilla Italia sia sul _forum_ sia sui canali _telegram_ (**@mozItaHub**).
 
 ### Perché scegliere Firefox?
 

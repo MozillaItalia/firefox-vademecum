@@ -44,25 +44,13 @@ Il concetto di “comunità” è alla base della filosofia di Mozilla. Centinai
 
 ### Novità
 
-Ogni versione introduce nuove funzionalità al browser che semplificano l'uso di Firefox senza l’ausilio di componenti aggiuntivi.
-Di seguito troverai le più importanti già presenti nell'ultima versione:
+Gli aggiornamenti di Firefox mirano a migliorare l'esperienza utente, quindi aggiungendo funzionalità utili e richieste.
+Alcune di queste funzionalità sono: **modalità lettura**, **pulsante dimentica**, **barra degli indirizzi intelligente**.
+Firefox offre diverse versioni, oltre alla stabile, la _Dev Edition_, rivolta agli sviluppatori, e la _Nightly_, rivolta a chi vuole collaborare segnalando eventuali problemi.
 
-##### Firefox Developer e Firefox Nightly
-
-Firefox Dev Edition è una versione basata sulla Beta, attiva in modo predefinito delle **opzioni dedicate agli sviluppatori**.
-Firefox Nightly è una versione di sviluppo aggiornata giornalmente che permette di provare le ultime funzionalità. Utilizzata per **segnalare problemi** sia di traduzione sia di funzionalità.
-
-##### Modalità lettura
-
-La modalità lettura è una funzionalità di Firefox che permette di visualizzare, di una qualunque pagina che la supporti, **solo il testo e le immagini**, rimuovendo tutto il resto. È altamente **personalizzabile** e ricca di funzionalità come il "**Leggi ad alta voce**"!
-
-##### Pulsante Dimentica
-
-Se ci si dimentica di utilizzare la navigazione anonima su un computer condiviso con altre persone, nessun problema: è possibile utilizzare il pulsante dimentica per cancellare rapidamente i dati recenti (cronologia, moduli, cookie ecc) senza andare ad intaccare nessun’altra informazione.
-
-##### Barra degli indirizzi intelligente
-
-Dalla versione 57 di Firefox è possibile utilizzare dei caratteri specifici, direttamente dalla barra degli indirizzi, per interagire con la stessa filtrando i risultati. Scoprili tutti su http://mzl.la/1zazb0J.
+##### WebVR
+La realtà virtuale oggi permette di sperimentare nuove possibilità, anche unita alla realtà aumentata.
+Queste tecnologie richiedono costosi headset ma, **grazie a Firefox**, è possibile farlo direttamente dal web con la libreria JavaScript A-Frame.
 
 ##### Firefox Screenshot 
  
@@ -75,8 +63,8 @@ Pocket è un servizio integrato in Firefox che permette di salvare, in un unico 
 ### Estensioni
 Il punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per Mozilla. Firefox, inoltre, è il solo web browser che dispone di estensioni anche nella versione mobile. Qui di seguito alcune delle migliori estensioni disponibili:
 
-##### Lightbeam
-Lightbeam mostra tutti i siti con cui, direttamente o indirettamente, si interagisce sul Web. Durante la navigazione, traccia, attraverso un grafico e rivela la natura profonda del Web odierno, incluse alcune parti che spesso non sono chiare all’utente.
+##### Facebook Container
+Questo componente aggiuntivo **isola** _Facebook_, _WhatsApp_, _Messenger_ e _Instagram_ impedendogli di raccogliere dati e attività registrate su altri siti. Avviene mediante un contenitore, che si attiva in automatico e identificabile da una linea blu presente sulla scheda.
 
 ##### uBlock Origin
 Una versione alleggerita di AdBlock, impedisce il caricamento delle pubblicità e velocizza la navigazione. Mostra le statistiche sia delle risorse bloccate sia delle pubblicità bloccate della pagina che si sta visitando.
@@ -88,7 +76,7 @@ Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri
 È possibile disattivare gli avvisi, obbligatori, sull'uso di cookie di terze parti imposto da una direttiva dell'UE.
 
 ##### HTTPS Everywhere
-Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forzerà l'attivazione, rendendo la navigazione sicure e protetta.
+Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forzerà l'attivazione, rendendo la navigazione sicura e protetta.
 
 ##### History AutoDelete
 Pulisci la cronologia di navigazione periodicamente secondo i tuoi gusti in maniera automatica e programmata.
@@ -101,14 +89,9 @@ Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli no
 
 Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione, come anche i dati raccolti, vengono eliminati automaticamente al termine di ogni sessione di navigazione. Tutte queste caratteristiche avanzate sono disponibili in **solo 5 MB**, sia per Android sia per iOS.
 
-##### WebVR
-La realtà virtuale oggi permette di sperimentare nuove possibilità, anche unita alla realtà aumentata.
-Queste tecnologie oggi richiedono costosi headset, dispositivi potenti e specifici. Tutto ciò si può risolvere grazie al web, **grazie a Firefox**, sia da mobile sia da desktop.
-In Mozilla è stata creata una comunità che si occupa di promuovere e sperimentare ciò, con la libreria JavaScript A-Frame, specifica per la VR: http://mozvr.com
-
 ##### Test Pilot
 
-Test Pilot è un progetto sviluppato da Mozilla e permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox, testando periodicamente delle estensioni sperimentali: si possono provare in anteprima delle possibili future funzionalità, prima che queste vengano integrate nel browser stesso e, quindi, disponibili per tutti. Dopo averlo installato è possibile scegliere ciò che si desidera provare, quindi collaborare rilasciando una **propria** opinione sull’esperienza d’uso personale. Vieni a scoprire le nuove funzionalità sperimentali su:https://testpilot.firefox.com/
+Test Pilot è un progetto sviluppato da Mozilla e permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox, testando periodicamente delle estensioni sperimentali: si possono provare in anteprima delle possibili future funzionalità, prima che queste vengano integrate nel browser stesso e, quindi, disponibili per tutti. Dopo averlo installato è possibile scegliere ciò che si desidera provare, quindi collaborare rilasciando una **propria** opinione sull’esperienza d’uso personale. Vieni a scoprire le nuove funzionalità sperimentali su: https://testpilot.firefox.com/
 
 ### Vuoi contribuire?
 

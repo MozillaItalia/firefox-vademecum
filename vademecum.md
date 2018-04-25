@@ -2,7 +2,7 @@
 
 # Scopri Firefox e Mozilla!
 
-##### Una guida rapida a Firefox
+##### Una breve presentazione a Firefox e a Mozilla
 
 Capitoli:
 

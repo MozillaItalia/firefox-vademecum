@@ -36,7 +36,7 @@ La **sicurezza** sul web è fondamentale: Firefox integra moltissime funzioni in
 
 ##### Velocità
 
-Grazie alle numerosissime innovazioni introdotte nel progetto, chiunque lo utilizzi potrà apprezzare la **velocità** di visualizzazione, la rapidità di esecuzione di JavaScript e la perfetta resa del testo e delle immagini nelle pagine web. Provare per credere!
+Grazie alle numerosissime innovazioni introdotte nel progetto, chiunque lo utilizzi può apprezzare la **velocità** di visualizzazione, la rapidità di esecuzione di JavaScript e la perfetta resa del testo e delle immagini nelle pagine web. Provare per credere!
 
 ##### Supporto
 
@@ -54,7 +54,7 @@ Queste tecnologie richiedono costosi headset ma, **grazie a Firefox**, è possib
 
 ##### Firefox Screenshot 
  
-Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, collezionare e condividere immagini ("screenshot") dei siti web. 
+Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, raccogliere e condividere immagini ("screenshot") dei siti web. 
  
 ##### Pocket 
  
@@ -73,13 +73,13 @@ Una versione alleggerita di AdBlock, impedisce il caricamento delle pubblicità 
 Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri specifici che riconoscono le pagine traccianti o malevole impedendone il loro caricamento, come i pulsanti di condivisione dei social network.
 
 ##### I Don't Care About Cookies
-È possibile disattivare gli avvisi, obbligatori, sull'uso di cookie di terze parti imposti da una direttiva dell'UE.
+È possibile disattivare gli avvisi, resi obbligatori da una direttiva emanata della UE, sull'uso di cookie di terze parti.
 
 ##### HTTPS Everywhere
-Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forzerà l'attivazione, rendendo la navigazione sicura e protetta.
+Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forza l'attivazione, rendendo la navigazione sicura e protetta.
 
 ##### History AutoDelete
-Pulisci la cronologia di navigazione periodicamente secondo i tuoi gusti in maniera automatica e programmata.
+Grazie a questa estensione è possibile pulire la cronologia di navigazione periodicamente secondo i propri gusti in maniera automatica e programmata.
 
 ### Altri progetti Mozilla
 

@@ -76,7 +76,7 @@ Privacy Badger blocca i tentativi di tracciamento sul web, attraverso dei filtri
 È possibile disattivare gli avvisi, resi obbligatori da una direttiva emanata della UE, sull'uso di cookie di terze parti.
 
 ##### HTTPS Everywhere
-Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forzerà l'attivazione, rendendo la navigazione sicura e protetta.
+Alcuni siti non hanno il protocollo HTTPS attivato e la navigazione, pertanto, non è protetta. Questa estensione forza l'attivazione, rendendo la navigazione sicura e protetta.
 
 ##### History AutoDelete
 Grazie a questa estensione è possibile pulire la cronologia di navigazione periodicamente secondo i propri gusti in maniera automatica e programmata.

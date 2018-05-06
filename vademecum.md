@@ -24,7 +24,7 @@ Trovi Mozilla Italia sia sul _forum_ (**forum.mozillaitalia.orgs**) sia sui cana
 
 ### Perché scegliere Firefox?
 
-Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare, infatti Mozilla è una fondazione no profit, ma per **offrire** un'esperienza di navigazione **unica**.
+Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare (Mozilla è una fondazione no profit), ma per **offrire** un'esperienza di navigazione **unica**.
 Scegli il browser **libero**, **sicuro**, **affidabile** e **indipendente**. Scegli Firefox!
 
 ##### Libertà e personalizzazione

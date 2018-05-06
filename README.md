@@ -9,6 +9,7 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 - Cos'è
 - Versione
 - Come collaborare & Regole di stile
+- Come viene generato il pdf finale
 - Collaboratori
 - Licenza
 
@@ -20,6 +21,11 @@ L'attuale versione è la 1.2.
 
 ## Come collaborare & Regole di stile
 Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file [_contributing.md_](https://github.com/MozillaItalia/firefox-vademecum/blob/master/contributing.md).
+
+## Come viene generato il pdf finale
+Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
+Terminato anche questo viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF.
+La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999.
 
 ## Collaboratori
 In questa versione i collaboratori sono (ordine A-Z):

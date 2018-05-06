@@ -83,7 +83,7 @@ Grazie a questa estensione è possibile pulire la cronologia di navigazione peri
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli non elencati ci sono altri innumerevoli progetti, come, ad esempio MDN, Open Leadership e Internet Health Report. Tutti, comunque, si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del **Web come risorsa aperta a chiunque**. In dettaglio i progetti più considerevoli di Mozilla:
+Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli non elencati ci sono altri innumerevoli progetti, come MDN, Open Leadership e Internet Health Report. Tutti, comunque, si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del **Web come risorsa aperta a chiunque**. In dettaglio i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 

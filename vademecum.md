@@ -6,13 +6,12 @@
 
 Capitoli:
 
-* Introduzione alla guida
-* Mozilla, Firefox e Mozilla Italia
+* Presentazione
 * Perché scegliere Firefox?
 * Novità
 * Estensioni
 * Altri progetti Mozilla
-* Contribuire
+* Vuoi contribuire?
 
 ### Presentazione
 
@@ -83,7 +82,7 @@ Grazie a questa estensione è possibile pulire la cronologia di navigazione peri
 
 ### Altri progetti Mozilla
 
-Oltre a Firefox La Mozilla foundation porta avanti numerosi progetti in ambiti diversi ma tutti con l'obiettivo di avere il  **Web come una risorsa aperta a chiunque**. Tra questi ci sono iniziative come MDN(*M*ozilla *D*eveloper *N*etwork), Open Leadership, Internet Health Report, Common Voice. In seguito altri progetti in dettaglio:
+Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche MDN _(Mozilla Developer Network)_, Open Leadership, IHR _(Internet Health Report)_, Common Voice. In dettaglio i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 

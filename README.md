@@ -31,6 +31,7 @@ La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manual
 In questa versione i collaboratori sono (ordine A-Z):
 - Cantu Niccolo
 - De Rose Pasquale
+- Massaro Simone
 - Morelli Saverio
 - Pignataro Giuseppe
 - Pirrotta Irene

@@ -13,6 +13,7 @@ Per realizzare un vademecum uniforme è norma seguire le regole di stile seguent
 - Essere più sintetici possibile, quindi essere diretti: dal momento che verrà anche stampato potrebbe non entrare negli spazi prevesti ed, inoltre, **un testo troppo lungo annoia**, di conseguenza non viene letto
 - Utilizzare un lessico non molto "aulico": questo non perchè gli utenti Mozilla siano "analfabetizzati" o "non istruiti", ma bensì per dare quel tocco di "amicizia" e "confidenzialità" che Mozilla Italia vuole dare; **utilizzare il lessico giusto, in base al luogo e alle persone con cui si sta parlando**, in questo caso **in base a ciò che si vuole comunicare** (sfido chiunque a parlare con un **amico** in modo aulico :))
 - Non utilizzare molto tecnicismo: preferire all'_hard tecnicismo_ un tecnicismo di base o per niente tecnicismo; gli utenti potrebbero essere sia esperti nel settore informatico/tecnologico, sia utenti normali che si affacciano per le prime volte in questo grande mondo
+- Cercare di non inserire sigle o roba del genere se poi non la si spiega, ciò crea più confusione che informazione per un utente generico
 
 ## Ulteriori info
 Per ulteriori informazioni consultare il file README.md

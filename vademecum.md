@@ -82,7 +82,7 @@ Grazie a questa estensione è possibile pulire la cronologia di navigazione peri
 
 ### Altri progetti Mozilla
 
-Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche MDN (*M*ozilla *D*eveloper *N*etwork), Open Leadership, IHR (*I*nternet *H*ealth *R*eport), Common Voice. In dettaglio i progetti più considerevoli di Mozilla:
+Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche **Mozilla Developer Network**, **Open Leadership**, **Internet Health Report**, **Common Voice**. In dettaglio i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 

@@ -7,7 +7,7 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 
 ### Mappa file
 - Cos'è
-- Versione
+- Tipi di versione e release attuale
 - Come collaborare & Regole di stile
 - Come viene generato il pdf finale
 - Collaboratori
@@ -17,7 +17,9 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figurativo _ti do una mano_ è un progetto Mozilla Italia e consiste nella realizzazione di un volantino (digitale e stampato) che permetta di capire in un foglio A4 (suddiviso in sezioni) cos'è Mozilla, Firefox e tutti i progetti correlati; l'importanza sta nel fatto che tutti questi concetti vengano espressi in pochissimo spazio e debbano essere soddisfacenti.
 
 ## Versione
-L'attuale versione è la 1.2.
+L'attuale release è la 1.2.
+Ci sono due tipi di versioni: **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche, e la versione **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.
+Per brevità, la versione generale può essere indicata come "**VG**" mentre la versione tecnica come "**VT**".
 
 ## Come collaborare & Regole di stile
 Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file [_contributing.md_](https://github.com/MozillaItalia/firefox-vademecum/blob/master/contributing.md).

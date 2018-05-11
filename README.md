@@ -24,10 +24,11 @@ Per brevità, la versione generale può essere indicata come "**VG**" mentre la 
 ## Come collaborare & Regole di stile
 Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file [_contributing.md_](https://github.com/MozillaItalia/firefox-vademecum/blob/master/contributing.md).
 
-## Come viene generato il pdf finale
+## Come viene generato il PDF finale
 Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
-Terminato anche questo viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF.
-La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999.
+Terminato anche questo, viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF. Dal PDF, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
+Oltre alla conversione in PDF è necessario eliminare i margini, tagliando i margini del file con le seguenti dimensioni: TOP: 0.42in, LEFT:0.42in, BOTTOM:1.28in e RIGHT:0.81in.
+La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999, per informazioni specifiche contattare direttamente @Sav22999 o @Mte90.
 
 ## Collaboratori
 In questa versione i collaboratori sono (ordine A-Z):

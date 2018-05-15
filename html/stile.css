@@ -13,13 +13,18 @@
     left:0.0cm;
     right:0.0cm;
     bottom:0.0cm;
-}b
+}
+b
 {
     font-family:Zilla Slab Medium;
-}i
+}
+i
 {
-    font-family:Zilla Slab Italic;
-}div#titolo_principale
+    font-family:Zilla Slab Light;
+    font-style:italic;
+}
+
+div#titolo_principale
 {
     position:absolute;
     text-align:center;
@@ -34,7 +39,8 @@
     padding:0.21cm;
     height:1.48cm;
     overflow:hidden;
-}div#descrizione_principale
+}
+div#descrizione_principale
 {
     position:absolute;
     text-align:center;
@@ -46,7 +52,8 @@
     font-family:Zilla Slab Medium;
     padding:0.21cm;
     height:0.75cm;
-}div#presentazione
+}
+div#presentazione
 {
     position:absolute;
     top:2.81cm;
@@ -55,7 +62,8 @@
     width:auto;
     height:7.51cm;
     overflow:hidden;
-}div#presentazione div#titolo
+}
+div#presentazione div#titolo
 {
     position:absolute;
     text-align:center;
@@ -70,7 +78,8 @@
     padding:0.21cm;
     padding-left:2.06cm;
     height:1.04cm;
-}div#presentazione div#descrizione
+}
+div#presentazione div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -80,7 +89,8 @@
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
-}div#perche_scegliere_firefox
+}
+div#perche_scegliere_firefox
 {
     position:absolute;
     top:10.31cm;
@@ -103,7 +113,8 @@
     color:white;
     padding:0.21cm;
     height:1.04cm;
-}div#perche_scegliere_firefox div#sub_descrizione
+}
+div#perche_scegliere_firefox div#sub_descrizione
 {
     position:absolute;
     text-align:center;
@@ -114,7 +125,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:2.47cm;
-}div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
+}
+div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
 {
     position:relative;
     font-size:0.66cm;
@@ -126,7 +138,8 @@
     right:auto;
     width:auto;
     font-family:Zilla Slab Medium;
-}div#perche_scegliere_firefox div#sez1
+}
+div#perche_scegliere_firefox div#sez1
 {
     position:absolute;
     text-align:center;
@@ -138,7 +151,8 @@
     padding:0.21cm;
     height:6.15cm;
     overflow:hidden;
-}div#perche_scegliere_firefox div#sez1 div#titolo
+}
+div#perche_scegliere_firefox div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -152,7 +166,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#perche_scegliere_firefox div#sez1 div#descrizione
+}
+div#perche_scegliere_firefox div#sez1 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -164,7 +179,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.91cm;
-}div#perche_scegliere_firefox div#sez2
+}
+div#perche_scegliere_firefox div#sez2
 {
     position:absolute;
     text-align:center;
@@ -176,7 +192,8 @@
     padding:0.21cm;
     height:6.15cm;
     overflow:hidden;
-}div#perche_scegliere_firefox div#sez2 div#titolo
+}
+div#perche_scegliere_firefox div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -190,7 +207,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#perche_scegliere_firefox div#sez2 div#descrizione
+}
+div#perche_scegliere_firefox div#sez2 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -202,7 +220,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.91cm;
-}div#perche_scegliere_firefox div#sez3
+}
+div#perche_scegliere_firefox div#sez3
 {
     position:absolute;
     text-align:center;
@@ -214,7 +233,8 @@
     padding:0.21cm;
     height:5.36cm;
     overflow:hidden;
-}div#perche_scegliere_firefox div#sez3 div#titolo
+}
+div#perche_scegliere_firefox div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -228,7 +248,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#perche_scegliere_firefox div#sez3 div#descrizione
+}
+div#perche_scegliere_firefox div#sez3 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -240,7 +261,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.13cm;
-}div#perche_scegliere_firefox div#sez4
+}
+div#perche_scegliere_firefox div#sez4
 {
     position:absolute;
     text-align:center;
@@ -252,7 +274,8 @@
     padding:0.21cm;
     height:5.36cm;
     overflow:hidden;
-}div#perche_scegliere_firefox div#sez4 div#titolo
+}
+div#perche_scegliere_firefox div#sez4 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -266,7 +289,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#perche_scegliere_firefox div#sez4 div#descrizione
+}
+div#perche_scegliere_firefox div#sez4 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -278,7 +302,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.13cm;
-}div#novita
+}
+div#novita
 {
     position:absolute;
     top:27.35cm;
@@ -287,7 +312,8 @@
     width:auto;
     height:9.98cm;
     overflow:hidden;
-}div#novita div#sub_titolo
+}
+div#novita div#sub_titolo
 {
     position:absolute;
     text-align:center;
@@ -301,7 +327,8 @@
     color:white;
     padding:0.21cm;
     height:1.04cm;
-}div#novita div#sub_descrizione
+}
+div#novita div#sub_descrizione
 {
     position:absolute;
     text-align:center;
@@ -312,7 +339,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:1.23cm;
-}div#novita div#sez1
+}
+div#novita div#sez1
 {
     position:absolute;
     text-align:center;
@@ -324,7 +352,8 @@
     padding:0.21cm;
     height:5.36cm;
     overflow:hidden;
-}div#novita div#sez1 div#titolo
+}
+div#novita div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -338,7 +367,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#novita div#sez1 div#descrizione
+}
+div#novita div#sez1 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -350,7 +380,8 @@
     font-size:0.45cm;
     padding:0.21cm;
     height:4.29cm;
-}div#novita div#sez2
+}
+div#novita div#sez2
 {
     position:absolute;
     text-align:center;
@@ -362,7 +393,8 @@
     padding:0.21cm;
     height:5.36cm;
     overflow:hidden;
-}div#novita div#sez2 div#titolo
+}
+div#novita div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -376,7 +408,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#novita div#sez2 div#descrizione
+}
+div#novita div#sez2 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -388,7 +421,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.29cm;
-}div#novita div#sez3
+}
+div#novita div#sez3
 {
     position:absolute;
     text-align:center;
@@ -400,7 +434,8 @@
     padding:0.21cm;
     height:5.36cm;
     overflow:hidden;
-}div#novita div#sez3 div#titolo
+}
+div#novita div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -414,7 +449,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#novita div#sez3 div#descrizione
+}
+div#novita div#sez3 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -426,7 +462,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:4.29cm;
-}div#estensioni
+}
+div#estensioni
 {
     position:absolute;
     top:0.0cm;
@@ -435,7 +472,8 @@
     width:auto;
     height:15.88cm;
     overflow:hidden;
-}div#estensioni div#sub_titolo
+}
+div#estensioni div#sub_titolo
 {
     position:absolute;
     text-align:center;
@@ -449,7 +487,8 @@
     color:white;
     padding:0.21cm;
     height:1.04cm;
-}div#estensioni div#sub_descrizione
+}
+div#estensioni div#sub_descrizione
 {
     position:absolute;
     text-align:center;
@@ -460,7 +499,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:1.86cm;
-}div#estensioni div#sez1
+}
+div#estensioni div#sez1
 {
     position:absolute;
     text-align:center;
@@ -472,7 +512,8 @@
     padding:0.21cm;
     height:5.99cm;
     overflow:hidden;
-}div#estensioni div#sez1 div#titolo
+}
+div#estensioni div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -486,7 +527,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez1 div#descrizione
+}
+div#estensioni div#sez1 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -498,7 +540,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:6.4cm;
-}div#estensioni div#sez2
+}
+div#estensioni div#sez2
 {
     position:absolute;
     text-align:center;
@@ -510,7 +553,8 @@
     padding:0.21cm;
     height:5.99cm;
     overflow:hidden;
-}div#estensioni div#sez2 div#titolo
+}
+div#estensioni div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -524,7 +568,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez2 div#descrizione
+}
+div#estensioni div#sez2 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -536,7 +581,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:6.4cm;
-}div#estensioni div#sez3
+}
+div#estensioni div#sez3
 {
     position:absolute;
     text-align:center;
@@ -548,7 +594,8 @@
     padding:0.21cm;
     height:5.99cm;
     overflow:hidden;
-}div#estensioni div#sez3 div#titolo
+}
+div#estensioni div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -562,7 +609,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez3 div#descrizione
+}
+div#estensioni div#sez3 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -574,7 +622,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:6.4cm;
-}div#estensioni div#sez4
+}
+div#estensioni div#sez4
 {
     position:absolute;
     text-align:center;
@@ -586,7 +635,8 @@
     padding:0.21cm;
     height:4.74cm;
     overflow:hidden;
-}div#estensioni div#sez4 div#titolo
+}
+div#estensioni div#sez4 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -600,7 +650,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez4 div#descrizione
+}
+div#estensioni div#sez4 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -612,7 +663,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:3.72cm;
-}div#estensioni div#sez5
+}
+div#estensioni div#sez5
 {
     position:absolute;
     text-align:center;
@@ -624,7 +676,8 @@
     padding:0.21cm;
     height:4.74cm;
     overflow:hidden;
-}div#estensioni div#sez5 div#titolo
+}
+div#estensioni div#sez5 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -638,7 +691,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez5 div#descrizione
+}
+div#estensioni div#sez5 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -650,7 +704,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:3.72cm;
-}div#estensioni div#sez6
+}
+div#estensioni div#sez6
 {
     position:absolute;
     text-align:center;
@@ -662,7 +717,8 @@
     padding:0.21cm;
     height:4.74cm;
     overflow:hidden;
-}div#estensioni div#sez6 div#titolo
+}
+div#estensioni div#sez6 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -676,7 +732,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.66cm;
-}div#estensioni div#sez6 div#descrizione
+}
+div#estensioni div#sez6 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -688,7 +745,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:3.72cm;
-}div#altri_progetti_mozilla
+}
+div#altri_progetti_mozilla
 {
     position:absolute;
     top:15.88cm;
@@ -697,7 +755,8 @@
     width:auto;
     height:11.96cm;
     overflow:hidden;
-}div#altri_progetti_mozilla div#sub_titolo
+}
+div#altri_progetti_mozilla div#sub_titolo
 {
     position:absolute;
     text-align:center;
@@ -711,7 +770,8 @@
     color:white;
     padding:0.21cm;
     height:1.04cm;
-}div#altri_progetti_mozilla div#sub_descrizione
+}
+div#altri_progetti_mozilla div#sub_descrizione
 {
     position:absolute;
     text-align:center;
@@ -722,7 +782,8 @@
     font-size:0.5cm;
     padding:0.21cm;
     height:2.47cm;
-}div#altri_progetti_mozilla div#sez1
+}
+div#altri_progetti_mozilla div#sez1
 {
     position:absolute;
     text-align:center;
@@ -734,7 +795,8 @@
     padding:0.21cm;
     height:7.01cm;
     overflow:hidden;
-}div#altri_progetti_mozilla div#sez1 div#titolo
+}
+div#altri_progetti_mozilla div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -748,7 +810,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#altri_progetti_mozilla div#sez1 div#descrizione
+}
+div#altri_progetti_mozilla div#sez1 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -760,7 +823,8 @@
     font-size:0.45cm;
     padding:0.21cm;
     height:5.77cm;
-}div#altri_progetti_mozilla div#sez2
+}
+div#altri_progetti_mozilla div#sez2
 {
     position:absolute;
     text-align:center;
@@ -772,7 +836,8 @@
     padding:0.21cm;
     height:7.01cm;
     overflow:hidden;
-}div#altri_progetti_mozilla div#sez2 div#titolo
+}
+div#altri_progetti_mozilla div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -786,7 +851,8 @@
     color:white;
     font-family:Zilla Slab Medium;
     height:0.82cm;
-}div#altri_progetti_mozilla div#sez2 div#descrizione
+}
+div#altri_progetti_mozilla div#sez2 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -798,7 +864,8 @@
     font-size:0.45cm;
     padding:0.21cm;
     height:5.77cm;
-}div#unisciti
+}
+div#unisciti
 {
     position:absolute;
     top:27.84cm;
@@ -807,7 +874,8 @@
     width:auto;
     height:6.4cm;
     overflow:hidden;
-}div#unisciti div#titolo
+}
+div#unisciti div#titolo
 {
     position:absolute;
     text-align:center;
@@ -822,7 +890,8 @@
     padding:0.21cm;
     padding-left:2.06cm;
     height:1.04cm;
-}div#unisciti div#descrizione
+}
+div#unisciti div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -832,7 +901,8 @@
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
-}div#collaboratori
+}
+div#collaboratori
 {
     position:absolute;
     top:34.24cm;
@@ -841,7 +911,8 @@
     width:auto;
     height:2.89cm;
     overflow:hidden;
-}div#collaboratori div#titolo
+}
+div#collaboratori div#titolo
 {
     position:absolute;
     text-align:center;
@@ -856,7 +927,8 @@
     padding:0.21cm;
     padding-left:2.06cm;
     height:1.04cm;
-}div#collaboratori div#descrizione
+}
+div#collaboratori div#descrizione
 {
     position:absolute;
     text-align:left;

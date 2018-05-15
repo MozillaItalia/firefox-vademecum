@@ -99,7 +99,8 @@ div#perche_scegliere_firefox
     width:auto;
     height:17.04cm;
     overflow:hidden;
-}div#perche_scegliere_firefox div#sub_titolo
+}
+div#perche_scegliere_firefox div#sub_titolo
 {
     position:absolute;
     text-align:center;

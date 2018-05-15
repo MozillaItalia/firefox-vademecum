@@ -9,10 +9,10 @@
     overflow:hidden;
     font-size:0.5cm;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
 }
 b
 {
@@ -28,9 +28,9 @@ div#titolo_principale
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:1.23cm;
     font-family:Zilla Slab Medium;
@@ -45,8 +45,8 @@ div#descrizione_principale
     position:absolute;
     text-align:center;
     top:1.65cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     font-family:Zilla Slab Medium;
@@ -57,8 +57,8 @@ div#presentazione
 {
     position:absolute;
     top:2.81cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:7.51cm;
     overflow:hidden;
@@ -67,8 +67,8 @@ div#presentazione div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
+    top:0cm;
+    left:0cm;
     right:auto;
     width:auto;
     font-size:0.75cm;
@@ -84,8 +84,8 @@ div#presentazione div#descrizione
     position:absolute;
     text-align:left;
     top:1.36cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -94,8 +94,8 @@ div#perche_scegliere_firefox
 {
     position:absolute;
     top:10.31cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:17.04cm;
     overflow:hidden;
@@ -103,9 +103,9 @@ div#perche_scegliere_firefox
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.82cm;
     font-family:Zilla Slab Medium;
@@ -119,8 +119,8 @@ div#perche_scegliere_firefox div#sub_descrizione
     position:absolute;
     text-align:center;
     top:1.45cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -156,9 +156,9 @@ div#perche_scegliere_firefox div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -172,9 +172,9 @@ div#perche_scegliere_firefox div#sez1 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -197,9 +197,9 @@ div#perche_scegliere_firefox div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -213,9 +213,9 @@ div#perche_scegliere_firefox div#sez2 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -238,9 +238,9 @@ div#perche_scegliere_firefox div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -254,9 +254,9 @@ div#perche_scegliere_firefox div#sez3 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -279,9 +279,9 @@ div#perche_scegliere_firefox div#sez4 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -295,9 +295,9 @@ div#perche_scegliere_firefox div#sez4 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -307,8 +307,8 @@ div#novita
 {
     position:absolute;
     top:27.35cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:9.98cm;
     overflow:hidden;
@@ -317,9 +317,9 @@ div#novita div#sub_titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.82cm;
     font-family:Zilla Slab Medium;
@@ -333,8 +333,8 @@ div#novita div#sub_descrizione
     position:absolute;
     text-align:center;
     top:1.45cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -357,9 +357,9 @@ div#novita div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.54cm;
     padding:0.21cm;
@@ -373,9 +373,9 @@ div#novita div#sez1 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.45cm;
     padding:0.21cm;
@@ -398,9 +398,9 @@ div#novita div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -414,9 +414,9 @@ div#novita div#sez2 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -439,9 +439,9 @@ div#novita div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -455,9 +455,9 @@ div#novita div#sez3 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -466,9 +466,9 @@ div#novita div#sez3 div#descrizione
 div#estensioni
 {
     position:absolute;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:15.88cm;
     overflow:hidden;
@@ -477,9 +477,9 @@ div#estensioni div#sub_titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.82cm;
     font-family:Zilla Slab Medium;
@@ -493,8 +493,8 @@ div#estensioni div#sub_descrizione
     position:absolute;
     text-align:center;
     top:1.45cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -517,9 +517,9 @@ div#estensioni div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -533,9 +533,9 @@ div#estensioni div#sez1 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -558,9 +558,9 @@ div#estensioni div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -574,9 +574,9 @@ div#estensioni div#sez2 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -599,9 +599,9 @@ div#estensioni div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -615,9 +615,9 @@ div#estensioni div#sez3 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -640,9 +640,9 @@ div#estensioni div#sez4 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.54cm;
     padding:0.21cm;
@@ -656,9 +656,9 @@ div#estensioni div#sez4 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -681,9 +681,9 @@ div#estensioni div#sez5 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.54cm;
     padding:0.21cm;
@@ -697,9 +697,9 @@ div#estensioni div#sez5 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -722,9 +722,9 @@ div#estensioni div#sez6 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.54cm;
     padding:0.21cm;
@@ -738,9 +738,9 @@ div#estensioni div#sez6 div#descrizione
     position:absolute;
     text-align:left;
     top:1.07cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -750,8 +750,8 @@ div#altri_progetti_mozilla
 {
     position:absolute;
     top:15.88cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:11.96cm;
     overflow:hidden;
@@ -760,9 +760,9 @@ div#altri_progetti_mozilla div#sub_titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.82cm;
     font-family:Zilla Slab Medium;
@@ -776,8 +776,8 @@ div#altri_progetti_mozilla div#sub_descrizione
     position:absolute;
     text-align:center;
     top:1.45cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -800,9 +800,9 @@ div#altri_progetti_mozilla div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -816,9 +816,9 @@ div#altri_progetti_mozilla div#sez1 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.45cm;
     padding:0.21cm;
@@ -841,9 +841,9 @@ div#altri_progetti_mozilla div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
-    right:0.0cm;
+    top:0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.57cm;
     padding:0.21cm;
@@ -857,9 +857,9 @@ div#altri_progetti_mozilla div#sez2 div#descrizione
     position:absolute;
     text-align:left;
     top:1.23cm;
-    left:0.0cm;
-    right:0.0cm;
-    bottom:0.0cm;
+    left:0cm;
+    right:0cm;
+    bottom:0cm;
     width:auto;
     font-size:0.45cm;
     padding:0.21cm;
@@ -869,8 +869,8 @@ div#unisciti
 {
     position:absolute;
     top:27.84cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:6.4cm;
     overflow:hidden;
@@ -879,8 +879,8 @@ div#unisciti div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
+    top:0cm;
+    left:0cm;
     right:auto;
     width:auto;
     font-size:0.75cm;
@@ -896,8 +896,8 @@ div#unisciti div#descrizione
     position:absolute;
     text-align:left;
     top:1.36cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
@@ -906,8 +906,8 @@ div#collaboratori
 {
     position:absolute;
     top:34.24cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     height:2.89cm;
     overflow:hidden;
@@ -916,8 +916,8 @@ div#collaboratori div#titolo
 {
     position:absolute;
     text-align:center;
-    top:0.0cm;
-    left:0.0cm;
+    top:0cm;
+    left:0cm;
     right:auto;
     width:auto;
     font-size:0.75cm;
@@ -933,8 +933,8 @@ div#collaboratori div#descrizione
     position:absolute;
     text-align:left;
     top:1.36cm;
-    left:0.0cm;
-    right:0.0cm;
+    left:0cm;
+    right:0cm;
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;

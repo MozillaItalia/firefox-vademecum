@@ -7,8 +7,9 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 
 ### Mappa file
 - Cos'è
-- Versione
+- Tipi di versione e release attuale
 - Come collaborare & Regole di stile
+- Come viene generato il pdf finale
 - Collaboratori
 - Licenza
 
@@ -16,15 +17,24 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figurativo _ti do una mano_ è un progetto Mozilla Italia e consiste nella realizzazione di un volantino (digitale e stampato) che permetta di capire in un foglio A4 (suddiviso in sezioni) cos'è Mozilla, Firefox e tutti i progetti correlati; l'importanza sta nel fatto che tutti questi concetti vengano espressi in pochissimo spazio e debbano essere soddisfacenti.
 
 ## Versione
-L'attuale versione è la 1.2.
+L'attuale release è la 1.2.
+Ci sono due tipi di versioni: **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche, e la versione **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.
+Per brevità, la versione generale può essere indicata come "**VG**" mentre la versione tecnica come "**VT**".
 
 ## Come collaborare & Regole di stile
 Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file [_contributing.md_](https://github.com/MozillaItalia/firefox-vademecum/blob/master/contributing.md).
+
+## Come viene generato il PDF finale
+Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
+Terminato anche questo, viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF. Dal PDF, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
+Oltre alla conversione in PDF è necessario eliminare i margini, tagliando i margini del file con le seguenti dimensioni: TOP: 0.42in, LEFT:0.42in, BOTTOM:1.28in e RIGHT:0.81in.
+La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999, per informazioni specifiche contattare direttamente @Sav22999 o @Mte90.
 
 ## Collaboratori
 In questa versione i collaboratori sono (ordine A-Z):
 - Cantu Niccolo
 - De Rose Pasquale
+- Massaro Simone
 - Morelli Saverio
 - Pignataro Giuseppe
 - Pirrotta Irene

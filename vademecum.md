@@ -6,13 +6,12 @@
 
 Capitoli:
 
-* Introduzione alla guida
-* Mozilla, Firefox e Mozilla Italia
+* Presentazione
 * Perché scegliere Firefox?
 * Novità
 * Estensioni
 * Altri progetti Mozilla
-* Contribuire
+* Vuoi contribuire?
 
 ### Presentazione
 
@@ -24,7 +23,7 @@ Trovi Mozilla Italia sia sul _forum_ (**forum.mozillaitalia.orgs**) sia sui cana
 
 ### Perché scegliere Firefox?
 
-Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare, infatti Mozilla è una fondazione no profit, ma per **offrire** un'esperienza di navigazione **unica**.
+Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per guadagnare (Mozilla è una fondazione no profit), ma per **offrire** un'esperienza di navigazione **unica**.
 Scegli il browser **libero**, **sicuro**, **affidabile** e **indipendente**. Scegli Firefox!
 
 ##### Libertà e personalizzazione
@@ -52,14 +51,14 @@ Firefox offre diverse versioni, oltre alla stabile, la _Dev Edition_, rivolta ag
 La realtà virtuale oggi permette di sperimentare nuove possibilità, anche unita alla realtà aumentata.
 Queste tecnologie richiedono costosi headset ma, **grazie a Firefox**, è possibile farlo direttamente dal Web gratuitamente con la libreria JavaScript A-Frame.
 
-##### Firefox Screenshot 
- 
-Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, raccogliere e condividere immagini ("screenshot") dei siti web. 
- 
-##### Pocket 
- 
+##### Firefox Screenshot
+
+Firefox Screenshot è una nuova funzione che permette di catturare, scaricare, raccogliere e condividere immagini ("screenshot") dei siti web.
+
+##### Pocket
+
 Pocket è un servizio integrato in Firefox che permette di salvare, in un unico posto, con un semplice clic, tutte le pagine di proprio interesse per poterle leggere, condividere o rimuovere successivamente.
- 
+
 ### Estensioni
 Un punto di forza di Firefox sono le estensioni. La libertà e la personalizzazione del browser sono le caratteristiche di Firefox, a dimostrazione del fatto che gli utenti sono di massima importanza per Mozilla. Firefox, inoltre, è il solo browser web che dispone di estensioni anche nella versione mobile. Qui di seguito alcune delle migliori estensioni disponibili:
 
@@ -83,7 +82,7 @@ Grazie a questa estensione è possibile pulire la cronologia di navigazione peri
 
 ### Altri progetti Mozilla
 
-Numerosi sono i progetti portati avanti dalla Mozilla Foundation e tra quelli non elencati ci sono altri innumerevoli progetti, come, ad esempio MDN, Open Leadership e Internet Health Report. Tutti, comunque, si rivolgono a persone con differenti competenze e hanno tutti un fattore in comune: la visione del **Web come risorsa aperta a chiunque**. In dettaglio i progetti più considerevoli di Mozilla:
+Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche **Mozilla Developer Network**, **Open Leadership**, **Internet Health Report**, **Common Voice**. In dettaglio i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 

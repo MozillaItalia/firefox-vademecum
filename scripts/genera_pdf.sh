@@ -1,14 +1,13 @@
 #!/usr/bin/env bash
 #author: Simone Massaro (mone27)
 #date: 15/05/18
-#license: GPL v.3
 #this scripts takes html file converts to single pdf pages and then merges the pages
 #and try to install all dependencies (tested on ubuntu)
-now paths are hardcoded for firefox-vademecum repository
+#now paths are hardcoded for firefox-vademecum repository
 if ! [ -x "$(command -v html-pdf)" ]; then
   echo 'html-pdf not installed installing..'
   if ! [ -x "$(command -v npm)" ]; then
-    echo"npm not installed. Installing..."
+    echo "npm not installed. Installing..."
     curl https://www.npmjs.org/install.sh | sh
   fi
   npm install html-pdf

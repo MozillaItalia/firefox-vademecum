@@ -5,10 +5,12 @@
 #this scripts takes html file converts to single pdf pages and then merges the pages
 #and try to install all dependencies (tested on ubuntu)
 #now paths are hardcoded for firefox-vademecum repository
-#UPDATE the "version" and "type_version" variables and, if necessary, the "name" variable
-name="Vademecum"
-version="2.0"
-type_version="VG"
+#UPDATE, if it's necessary, the "name" variable
+read name="Vademecum"
+echo "Version number (format: VV.VV): "
+read version
+echo "Version type {VG|VT}: "
+read typeVersion
 #type_version={"VG"|"VT"}
 if ! [ -x "$(command -v html-pdf)" ]; then
   echo "html-pdf not installed. installing..."
@@ -29,4 +31,4 @@ if ! [ -x "$(command -v pdftk)" ]; then
   sudo apt install pdftk
 fi
 cd ../volantino
-pdftk volantino_fronte.pdf volantino_retro.pdf cat output "${name}_${version}_${type_version}-$(date +"%Y_%m_%d_%I_%M").pdf"
+pdftk volantino_fronte.pdf volantino_retro.pdf cat output "${name}_$version_$typeVersion-$(date +"%Y_%m_%d_%I_%M").pdf"

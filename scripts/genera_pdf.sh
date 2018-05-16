@@ -20,7 +20,7 @@ if ! [ -x "$(command -v html-pdf)" ]; then
 fi
 html-pdf ../html/volantino_fronte.html ../volantino/volantino_fronte.pdf
 html-pdf ../html/volantino_retro.html ../volantino/volantino_retro.pdf
-echo "files pdf generated. merging in a single file..."
+echo "pdf files generated. merging in a single file..."
 
 if ! [ -x "$(command -v pdftk)" ]; then
   if ! [ -x "$(command -v apt)" ]; then

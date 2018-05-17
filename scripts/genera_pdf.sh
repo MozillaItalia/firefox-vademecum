@@ -26,9 +26,11 @@ echo "pdf files generated. merging in a single file..."
 
 if ! [ -x "$(command -v pdftk)" ]; then
   if ! [ -x "$(command -v apt)" ]; then
-    echo "platform doesn't support the installation pdftk for your distribution. so, try again."
+    echo "The script does not support automatic installation of pdftk on your platform."\
+	"Please install pdftk (https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) then try again"
+	exit 1
   fi
   sudo apt install pdftk
 fi
 cd ../volantino
-pdftk volantino_fronte.pdf volantino_retro.pdf cat output "${name}_$version_$typeVersion-$(date +"%Y_%m_%d_%I_%M").pdf"
+pdftk volantino_fronte.pdf volantino_retro.pdf cat output "${name}_$version_$typeVersion.pdf"

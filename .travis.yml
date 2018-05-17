@@ -1,4 +1,7 @@
 sudo: required
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y pdftk
 install: true
 script: bash scripts/genera_pdf.sh
 before_deploy:

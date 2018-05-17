@@ -23,7 +23,7 @@ if ! [ -x "$(command -v html-pdf)" ]; then
     echo "npm not installed. installing..."
     curl https://www.npmjs.org/install.sh | sh
   fi
-  npm install html-pdf
+  npm install -g html-pdf
 fi
 html-pdf html/volantino_fronte.html volantino/volantino_fronte.pdf
 html-pdf html/volantino_retro.html volantino/volantino_retro.pdf

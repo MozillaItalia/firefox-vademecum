@@ -1,0 +1,22 @@
+sudo: required
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y pdftk
+install: true
+script: bash scripts/genera_pdf.sh
+before_deploy:
+      # Set up git user name and tag this commit
+      - git config --local user.name "travis"
+      - git config --local user.email "travis@nonsochemettere"
+      - git add
+      - git tag "$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)"
+deploy:
+  provider: releases
+  api_key:
+    secure: tz+UcdLxtigml4o+ksIseF+9YqhRDzB5WJel+r2e5q7G8dcra76np7eX93jYh+JAbf0/ZoI0MLb62zRGTTh2P3GJTlI1XCGQNf3tplAbChIojHf0Ksh1Ws14Dpu/VLSD6+crVv4RhGucyzhT9xQCy2W94raghBsvNE5ywFmgaQxFrc0nCd0xFgcQQZz2aLal03izUnLBojVnyn5tooFXflMJ0zBkhi6dAeOXpFyZHJRnDnNjm5FAHU4a+siFwt7m+Pgrc6Xpy03Ts2qL9+TD381THCyRXAZAqDnRgEuEihO9q1Rc/YbjB5qYR73yEbWFpp+669+2P3OUXkY0Qwhg0AXDG/FqNOUh3lXAspTwMxgcBuJf9tX7TilMwIGbL07OdnWIP6VQzG033ohszurbh8x5D930Rhn9yMZTjZXAU91dX21dOBwwqEitusIi4VV7+n4DFZTKZ7HTasMiNyY+gF+y4QUL63a+YNJofK/391QiZfA0MznKLJYx8hZQ+/U+4wAIIGD+NCRz8QxaPaouG1kZjfnmiSKxN0UFK+CGxeFaHm6HLeABDOxaxq3ks2gABZud6yrif5Deslu6txa0bCRDncJ5NS9x4SmercHbLAFp6q0FOKgWS8EsZu0B2+K6I4rRJ8BLSOEOZHJslYQkVVV9+1UbRs5jkzb5KZL54IY=
+  file: volantino/Vademecum-2.0.pdf
+  skip_cleanup: true
+  on:
+    branch:
+      -travis
+      -master

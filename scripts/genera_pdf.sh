@@ -1,3 +1,4 @@
+#! /usr/bin/env bash
 # this scripts takes html file converts to single pdf pages and then merges the pages
 # and try to install all dependencies (tested on ubuntu and kubuntu)
 # now paths are hardcoded for firefox-vademecum repository
@@ -10,6 +11,11 @@ echo "Version type {VG|VT}: "
 read typeVersion
 
 if ! [ -x "$(command -v wkhtmltopdf)" ]; then
+  if ! [ -x "$(command -v apt)" ]; then
+    echo "The script does not support automatic installation of wkhtmlpdf on your platform."\
+	"Please install wkhtmltopdf and then try again."
+	exit 1
+  fi
   sudo apt install wkhtmltopdf
 fi
 echo "Pdf files generating..."
@@ -23,7 +29,7 @@ wkhtmltoimage --crop-w 992 ../html/volantino_retro_"$typeVersion".html ../volant
 echo "Png files generated."
 
 echo "Pdf files merging in a single pdf file..."
-if ! [ -x "$(command -v poppler-utils)" ]; then
+if ! [ -x "$(command -v pdfunite)" ]; then
   if ! [ -x "$(command -v apt)" ]; then
     echo "The script does not support automatic installation of poppler-utils (pdfunite) on your platform."\
 	"Please install poppler-utils (pdfunite) and then try again."

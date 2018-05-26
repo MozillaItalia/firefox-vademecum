@@ -46,7 +46,7 @@ div#titolo_principale
     font-weight:bold;
     background-color:black;
     color:white;
-    padding:0.21cm;
+    padding-bottom:0.20cm;
     height:1.48cm;
     overflow:hidden;
 }
@@ -71,7 +71,7 @@ div#presentazione
     left:0cm;
     right:0cm;
     width:auto;
-    height:7.51cm;
+    height:7.21cm;
     overflow:hidden;
 }
 div#presentazione div#titolo
@@ -105,7 +105,7 @@ div#presentazione div#descrizione
 div#perche_scegliere_firefox
 {
     position:absolute;
-    top:10.31cm;
+    top:10.01cm;
     left:0cm;
     right:0cm;
     width:auto;
@@ -325,11 +325,11 @@ div#perche_scegliere_firefox div#sez4 div#descrizione
 div#novita
 {
     position:absolute;
-    top:27.35cm;
+    top:27.05cm;
     left:0cm;
     right:0cm;
     width:auto;
-    height:9.98cm;
+    height:9.95cm;
     overflow:hidden;
 }
 div#novita div#sub_titolo
@@ -370,7 +370,7 @@ div#novita div#sez1
     width:8.04cm;
     font-size:0.5cm;
     padding:0.21cm;
-    height:5.36cm;
+    height:5.02cm;
     overflow:hidden;
 }
 div#novita div#sez1 div#titolo
@@ -412,7 +412,7 @@ div#novita div#sez2
     width:8.04cm;
     font-size:0.5cm;
     padding:0.21cm;
-    height:5.36cm;
+    height:5.02cm;
     overflow:hidden;
 }
 div#novita div#sez2 div#titolo
@@ -454,7 +454,7 @@ div#novita div#sez3
     width:8.04cm;
     font-size:0.5cm;
     padding:0.21cm;
-    height:5.36cm;
+    height:5.02cm;
     overflow:hidden;
 }
 div#novita div#sez3 div#titolo
@@ -943,7 +943,7 @@ div#collaboratori
     left:0cm;
     right:0cm;
     width:auto;
-    height:2.90cm;
+    height:2.86cm;
     overflow:hidden;
 }
 div#collaboratori div#titolo

@@ -33,4 +33,4 @@ if ! [ -x "$(command -v pdftk)" ]; then
   sudo apt install pdftk
 fi
 cd ../volantino
-pdftk volantino_fronte.pdf volantino_retro.pdf cat output "${name}_$version_$typeVersion.pdf"
+pdftk volantino_fronte.pdf volantino_retro.pdf cat output "$name_$version_$typeVersion.pdf"

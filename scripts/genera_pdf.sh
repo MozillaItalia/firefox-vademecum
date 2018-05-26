@@ -6,7 +6,7 @@
 #and try to install all dependencies (tested on ubuntu)
 #now paths are hardcoded for firefox-vademecum repository
 #UPDATE, if it's necessary, the "name" variable
-read name="Vademecum"
+name="Vademecum"
 echo "Version number (format: VV.VV): "
 read version
 echo "Version type {VG|VT}: "

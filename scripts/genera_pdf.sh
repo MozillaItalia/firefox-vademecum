@@ -12,26 +12,26 @@ read typeVersion
 if ! [ -x "$(command -v wkhtmltopdf)" ]; then
   sudo apt install wkhtmltopdf
 fi
-echo "pdf files generating..."
-wkhtmltopdf -B 0 -T 0 -L 0 -R 0 ../html/volantino_fronte.html ../volantino/"$name"' '"$typeVersion"' FRONTE.pdf'
-wkhtmltopdf -B 0 -T 0 -L 0 -R 0 ../html/volantino_retro.html ../volantino/"$name"' '"$typeVersion"' RETRO.pdf'
-echo "pdf files generated."
+echo "Pdf files generating..."
+wkhtmltopdf -B 0 -T 0 -L 0 -R 0 ../html/volantino_fronte_"$typeVersion".html ../volantino/"$name"_"$typeVersion"_fronte.pdf
+wkhtmltopdf -B 0 -T 0 -L 0 -R 0 ../html/volantino_retro_"$typeVersion".html ../volantino/"$name"_"$typeVersion"_retro.pdf
+echo "Pdf files generated."
 
-echo "png file generating..."
-wkhtmltoimage --crop-w 992 ../html/volantino_fronte.html ../volantino/"$name"' '"$typeVersion"' 'FRONTE.png
-wkhtmltoimage --crop-w 992 ../html/volantino_retro.html ../volantino/"$name"' '"$typeVersion"' 'RETRO.png
-echo "png files generated."
+echo "Png files generating..."
+wkhtmltoimage --crop-w 992 ../html/volantino_fronte_"$typeVersion".html ../volantino/"$name"_"$typeVersion"_fronte.png
+wkhtmltoimage --crop-w 992 ../html/volantino_retro_"$typeVersion".html ../volantino/"$name"_"$typeVersion"_retro.png
+echo "Png files generated."
 
-echo "pdf files merging in a single pdf file..."
-if ! [ -x "$(command -v pdftk)" ]; then
+echo "Pdf files merging in a single pdf file..."
+if ! [ -x "$(command -v poppler-utils)" ]; then
   if ! [ -x "$(command -v apt)" ]; then
-    echo "The script does not support automatic installation of pdftk on your platform."\
-	"Please install pdfunite (poppler-utils) and then try again."
+    echo "The script does not support automatic installation of poppler-utils (pdfunite) on your platform."\
+	"Please install poppler-utils (pdfunite) and then try again."
 	exit 1
   fi
   sudo apt install poppler-utils
 fi
 
-pdfunite  ../volantino/"$name"' '"$typeVersion"' FRONTE.pdf' ../volantino/"$name"' '"$typeVersion"' RETRO.pdf' ../volantino/"$name"' '"$version"' '"$typeVersion"'.pdf'
-echo "pdf merged correctly."
-echo "process successful."
+pdfunite  ../volantino/"$name"_"$typeVersion"_fronte.pdf ../volantino/"$name"_"$typeVersion"_retro.pdf ../volantino/"$name"_"$version"_"$typeVersion".pdf
+echo "Pdf merged correctly."
+echo "Process successful."

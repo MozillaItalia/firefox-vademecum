@@ -26,12 +26,11 @@ Per sapere come contribuire/collaborare e per leggere le **regole di stile** si 
 
 ## Come viene generato il PDF finale
 Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
-Terminato anche questo, viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF. Dal PDF, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
-Oltre alla conversione in PDF è necessario eliminare i margini, tagliando i margini del file con le seguenti dimensioni: TOP: 0.42in, LEFT:0.42in, BOTTOM:1.28in e RIGHT:0.81in.
-La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999, per informazioni specifiche contattare direttamente @Sav22999 o @Mte90.
+Terminato anche questo passaggio, viene generato il PDF automaticamente tramite uno script (vedi file _genera_pdf.sh_) che, partendo dal file HTML, ne genera il PDF. Dal PDF, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
+Per informazioni più specifiche riguardo il file HTML o il file CSS contattare @Sav22999 (o @Mte90), invece, per informazioni relative al file SH contattare @mone27.
 
 ## Collaboratori
-In questa versione i collaboratori sono (ordine A-Z):
+Hanno collaborato alla realizzazione del vademecum (ordine A-Z):
 - Cantu Niccolo
 - De Rose Pasquale
 - Massaro Simone

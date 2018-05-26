@@ -1,6 +1,24 @@
+@font-face
+{
+    font-family:zillaslab;
+    src: url("./zillaslab.otf");
+}
+@font-face
+{
+    font-family:zillaslab;
+    src: url("./zillaslab_i.otf");
+    font-style:italic;
+}
+@font-face
+{
+    font-family:zillaslab;
+    src: url("./zillaslab_b.otf");
+    font-weight:bold;
+}
+
 #body
 {
-    font-family:Zilla Slab Light;
+    font-family:zillaslab;
     width:26.19cm;
     height:37cm;
     background-color:white;
@@ -14,15 +32,6 @@
     right:0cm;
     bottom:0cm;
 }
-b
-{
-    font-family:Zilla Slab Medium;
-}
-i
-{
-    font-family:Zilla Slab Light;
-    font-style:italic;
-}
 
 div#titolo_principale
 {
@@ -33,7 +42,8 @@ div#titolo_principale
     right:0cm;
     width:auto;
     font-size:1.23cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -49,7 +59,8 @@ div#descrizione_principale
     right:0cm;
     width:auto;
     font-size:0.57cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     padding:0.21cm;
     height:0.75cm;
 }
@@ -72,7 +83,8 @@ div#presentazione div#titolo
     right:auto;
     width:auto;
     font-size:0.75cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -109,7 +121,8 @@ div#perche_scegliere_firefox div#sub_titolo
     right:0cm;
     width:auto;
     font-size:0.82cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -138,7 +151,8 @@ div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
     left:auto;
     right:auto;
     width:auto;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
 }
 div#perche_scegliere_firefox div#sez1
 {
@@ -165,7 +179,8 @@ div#perche_scegliere_firefox div#sez1 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#perche_scegliere_firefox div#sez1 div#descrizione
@@ -206,7 +221,8 @@ div#perche_scegliere_firefox div#sez2 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#perche_scegliere_firefox div#sez2 div#descrizione
@@ -247,7 +263,8 @@ div#perche_scegliere_firefox div#sez3 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#perche_scegliere_firefox div#sez3 div#descrizione
@@ -288,7 +305,8 @@ div#perche_scegliere_firefox div#sez4 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#perche_scegliere_firefox div#sez4 div#descrizione
@@ -323,7 +341,8 @@ div#novita div#sub_titolo
     right:0cm;
     width:auto;
     font-size:0.82cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -366,7 +385,8 @@ div#novita div#sez1 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#novita div#sez1 div#descrizione
@@ -407,7 +427,8 @@ div#novita div#sez2 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#novita div#sez2 div#descrizione
@@ -448,7 +469,8 @@ div#novita div#sez3 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#novita div#sez3 div#descrizione
@@ -483,7 +505,8 @@ div#estensioni div#sub_titolo
     right:0cm;
     width:auto;
     font-size:0.82cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -526,7 +549,8 @@ div#estensioni div#sez1 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez1 div#descrizione
@@ -567,7 +591,8 @@ div#estensioni div#sez2 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez2 div#descrizione
@@ -608,7 +633,8 @@ div#estensioni div#sez3 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez3 div#descrizione
@@ -649,7 +675,8 @@ div#estensioni div#sez4 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez4 div#descrizione
@@ -690,7 +717,8 @@ div#estensioni div#sez5 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez5 div#descrizione
@@ -731,7 +759,8 @@ div#estensioni div#sez6 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.66cm;
 }
 div#estensioni div#sez6 div#descrizione
@@ -766,7 +795,8 @@ div#altri_progetti_mozilla div#sub_titolo
     right:0cm;
     width:auto;
     font-size:0.82cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -809,7 +839,8 @@ div#altri_progetti_mozilla div#sez1 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#altri_progetti_mozilla div#sez1 div#descrizione
@@ -850,7 +881,8 @@ div#altri_progetti_mozilla div#sez2 div#titolo
     padding:0.21cm;
     background-color:#222222;
     color:white;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     height:0.82cm;
 }
 div#altri_progetti_mozilla div#sez2 div#descrizione
@@ -873,7 +905,7 @@ div#unisciti
     left:0cm;
     right:0cm;
     width:auto;
-    height:6.4cm;
+    height:6.3cm;
     overflow:hidden;
 }
 div#unisciti div#titolo
@@ -885,7 +917,8 @@ div#unisciti div#titolo
     right:auto;
     width:auto;
     font-size:0.75cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;
@@ -906,11 +939,11 @@ div#unisciti div#descrizione
 div#collaboratori
 {
     position:absolute;
-    top:34.24cm;
+    top:34.14cm;
     left:0cm;
     right:0cm;
     width:auto;
-    height:2.89cm;
+    height:2.90cm;
     overflow:hidden;
 }
 div#collaboratori div#titolo
@@ -922,7 +955,8 @@ div#collaboratori div#titolo
     right:auto;
     width:auto;
     font-size:0.75cm;
-    font-family:Zilla Slab Medium;
+    font-family:inherit;
+    font-weight:bold;
     background-color:black;
     color:white;
     padding:0.21cm;

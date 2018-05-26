@@ -27,7 +27,7 @@ Firefox è creato **dagli** utenti **per** gli utenti. Non è realizzato per gua
 Scegli il browser **libero**, **sicuro**, **affidabile** e **indipendente**. Scegli Firefox!
 
 ##### Libertà e personalizzazione
-Firefox è il browser davvero “personale”. Grazie alle migliaia di estensioni disponibili è possibile aggiungere **nuove funzionalità** e, se non trovi l'estensione adatta alle tue esigenze, puoi svilupparla tu stesso. Inoltre, la moltitudine di temi disponibili consente di personalizzare anche l'interfaccia grafica e, se non dovessi trovare un tema che ti piace, puoi creare uno tutto tuo!
+Firefox è il browser davvero “personale”. Grazie alle migliaia di estensioni disponibili è possibile aggiungere **nuove funzionalità** e, se non trovi l'estensione adatta alle tue esigenze, puoi svilupparla tu stesso. Inoltre, la moltitudine di temi disponibili consente di personalizzare anche l'interfaccia grafica e, se non dovessi trovare un tema che ti piace, puoi crearne uno tutto tuo!
 
 ##### Sicurezza e privacy
 

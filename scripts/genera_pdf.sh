@@ -2,7 +2,7 @@
 # this scripts takes html file converts to single pdf pages and then merges the pages
 # and try to install all dependencies (tested on ubuntu and kubuntu)
 # now paths are hardcoded for firefox-vademecum repository
-#set -e
+set -e
 version=${1-"2.0"}
 name=${2-"Vademecum"}
 

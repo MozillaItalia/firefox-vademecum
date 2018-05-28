@@ -30,6 +30,18 @@
     --colore-sfondo-titolisezioni: #222222;
 }
 
+div
+{
+	text-align: center;
+    top: 0cm;
+    left: 0cm;
+    right: 0cm;
+    bottom: 0cm;
+	position: absolute;
+    overflow: hidden;
+	width: auto;
+}
+
 #body
 {
     font-family: zillaslab;
@@ -37,24 +49,11 @@
     height: 37.1cm;
     background-color: var(--colore-sfondo-principale);
     border: 0.04cm solid black;
-    position: absolute;
-    overflow: hidden;
     font-size: 0.5cm;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    bottom: 0cm;
 }
 
 div#titolo_principale
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 1.23cm;
     font-family: inherit;
     font-weight: bold;
@@ -62,17 +61,11 @@ div#titolo_principale
     color: var(--colore-testo-titoli);
     padding-bottom: 0.20cm;
     height: 1.48cm;
-    overflow: hidden;
 }
 
 div#descrizione_principale
 {
-    position: absolute;
-    text-align: center;
     top: 1.65cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.57cm;
     font-family: inherit;
     font-weight: bold;
@@ -82,21 +75,12 @@ div#descrizione_principale
 
 div#presentazione
 {
-    position: absolute;
     top: 2.81cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 7.21cm;
-    overflow: hidden;
 }
 
 div#presentazione div#titolo, div#unisciti div#titolo, div#collaboratori div#titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
     right: auto;
     width: auto;
     font-size: 0.75cm;
@@ -111,35 +95,20 @@ div#presentazione div#titolo, div#unisciti div#titolo, div#collaboratori div#tit
 
 div#presentazione div#descrizione, div#unisciti div#descrizione, div#collaboratori div#descrizione
 {
-    position: absolute;
     text-align: left;
     top: 1.36cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.5cm;
     padding: 0.21cm;
 }
 
 div#perche_scegliere_firefox
 {
-    position: absolute;
     top: 10.01cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 17.04cm;
-    overflow: hidden;
 }
 
 div#perche_scegliere_firefox div#sub_titolo, div#novita div#sub_titolo, div#estensioni div#sub_titolo, div#altri_progetti_mozilla div#sub_titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.82cm;
     font-family: inherit;
     font-weight: bold;
@@ -151,12 +120,7 @@ div#perche_scegliere_firefox div#sub_titolo, div#novita div#sub_titolo, div#este
 
 div#perche_scegliere_firefox div#sub_descrizione, div#novita div#sub_descrizione, div#estensioni div#sub_descrizione, div#altri_progetti_mozilla div#sub_descrizione
 {
-    position: absolute;
-    text-align: center;
     top: 1.45cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 2.47cm;
@@ -172,15 +136,12 @@ div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
     bottom: -0.21cm;
     left: auto;
     right: auto;
-    width: auto;
     font-family: inherit;
     font-weight: bold;
 }
 
 div#perche_scegliere_firefox div#sez1, div#perche_scegliere_firefox div#sez2, div#perche_scegliere_firefox div#sez3, div#perche_scegliere_firefox div#sez4
 {
-    position: absolute;
-    text-align: center;
     top: 4.33cm;
     left: 0.21cm;
     right: auto;
@@ -188,17 +149,10 @@ div#perche_scegliere_firefox div#sez1, div#perche_scegliere_firefox div#sez2, di
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 6.15cm;
-    overflow: hidden;
 }
 
 div#perche_scegliere_firefox div#sez1 div#titolo, div#perche_scegliere_firefox div#sez2 div#titolo, div#perche_scegliere_firefox div#sez3 div#titolo, div#perche_scegliere_firefox div#sez4 div#titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.57cm;
     padding: 0.21cm;
     background-color: var(--colore-sfondo-titolisezioni);
@@ -210,13 +164,8 @@ div#perche_scegliere_firefox div#sez1 div#titolo, div#perche_scegliere_firefox d
 
 div#perche_scegliere_firefox div#sez1 div#descrizione, div#perche_scegliere_firefox div#sez2 div#descrizione, div#perche_scegliere_firefox div#sez3 div#descrizione, div#perche_scegliere_firefox div#sez4 div#descrizione
 {
-    position: absolute;
     text-align: left;
     top: 1.23cm;
-    left: 0cm;
-    right: 0cm;
-    bottom: 0cm;
-    width: auto;
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 4.91cm;
@@ -245,37 +194,22 @@ div#perche_scegliere_firefox div#sez4
 
 div#novita
 {
-    position: absolute;
     top: 27.05cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 9.95cm;
-    overflow: hidden;
 }
 
 div#novita div#sez1, div#novita div#sez2, div#novita div#sez3
 {
-    position: absolute;
-    text-align: center;
     top: 4.33cm;
     left: 0.21cm;
-    right: auto;
     width: 8.04cm;
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 5.02cm;
-    overflow: hidden;
 }
 
 div#novita div#sez1 div#titolo, div#novita div#sez2 div#titolo, div#novita div#sez3 div#titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.54cm;
     padding: 0.21cm;
     background-color: var(--colore-sfondo-titolisezioni);
@@ -287,13 +221,8 @@ div#novita div#sez1 div#titolo, div#novita div#sez2 div#titolo, div#novita div#s
 
 div#novita div#sez1 div#descrizione, div#novita div#sez2 div#descrizione, div#novita div#sez3 div#descrizione
 {
-    position: absolute;
     text-align: left;
     top: 1.07cm;
-    left: 0cm;
-    right: 0cm;
-    bottom: 0cm;
-    width: auto;
     font-size: 0.45cm;
     padding: 0.21cm;
     height: 4.29cm;
@@ -315,19 +244,11 @@ div#novita div#sez3
 
 div#estensioni
 {
-    position: absolute;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 15.88cm;
-    overflow: hidden;
 }
 
 div#estensioni div#sez1, div#estensioni div#sez2, div#estensioni div#sez3, div#estensioni div#sez4, div#estensioni div#sez5, div#estensioni div#sez6
 {
-    position: absolute;
-    text-align: center;
     top: 3.92cm;
     left: 0.21cm;
     right: auto;
@@ -335,17 +256,10 @@ div#estensioni div#sez1, div#estensioni div#sez2, div#estensioni div#sez3, div#e
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 5.99cm;
-    overflow: hidden;
 }
 
 div#estensioni div#sez1 div#titolo, div#estensioni div#sez2 div#titolo, div#estensioni div#sez3 div#titolo, div#estensioni div#sez4 div#titolo, div#estensioni div#sez5 div#titolo, div#estensioni div#sez6 div#titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.5cm;
     padding: 0.21cm;
     background-color: var(--colore-sfondo-titolisezioni);
@@ -357,13 +271,8 @@ div#estensioni div#sez1 div#titolo, div#estensioni div#sez2 div#titolo, div#este
 
 div#estensioni div#sez1 div#descrizione, div#estensioni div#sez2 div#descrizione, div#estensioni div#sez3 div#descrizione, div#estensioni div#sez4 div#descrizione, div#estensioni div#sez5 div#descrizione, div#estensioni div#sez6 div#descrizione
 {
-    position: absolute;
     text-align: left;
     top: 1.07cm;
-    left: 0cm;
-    right: 0cm;
-    bottom: 0cm;
-    width: auto;
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 6.4cm;
@@ -406,19 +315,12 @@ div#estensioni div#sez6
 
 div#altri_progetti_mozilla
 {
-    position: absolute;
     top: 15.88cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 11.96cm;
-    overflow: hidden;
 }
 
 div#altri_progetti_mozilla div#sez1, div#altri_progetti_mozilla div#sez2
 {
-    position: absolute;
-    text-align: center;
     top: 4.33cm;
     left: 0.21cm;
     right: auto;
@@ -426,17 +328,10 @@ div#altri_progetti_mozilla div#sez1, div#altri_progetti_mozilla div#sez2
     font-size: 0.5cm;
     padding: 0.21cm;
     height: 7.01cm;
-    overflow: hidden;
 }
 
 div#altri_progetti_mozilla div#sez1 div#titolo, div#altri_progetti_mozilla div#sez2 div#titolo
 {
-    position: absolute;
-    text-align: center;
-    top: 0cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     font-size: 0.57cm;
     padding: 0.21cm;
     background-color: var(--colore-sfondo-titolisezioni);
@@ -448,13 +343,8 @@ div#altri_progetti_mozilla div#sez1 div#titolo, div#altri_progetti_mozilla div#s
 
 div#altri_progetti_mozilla div#sez1 div#descrizione, div#altri_progetti_mozilla div#sez2 div#descrizione
 {
-    position: absolute;
     text-align: left;
     top: 1.23cm;
-    left: 0cm;
-    right: 0cm;
-    bottom: 0cm;
-    width: auto;
     font-size: 0.45cm;
     padding: 0.21cm;
     height: 5.77cm;
@@ -469,22 +359,12 @@ div#altri_progetti_mozilla div#sez2
 
 div#unisciti
 {
-    position: absolute;
     top: 27.84cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 6.3cm;
-    overflow: hidden;
 }
 
 div#collaboratori
 {
-    position: absolute;
     top: 34.14cm;
-    left: 0cm;
-    right: 0cm;
-    width: auto;
     height: 2.86cm;
-    overflow: hidden;
 }

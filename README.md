@@ -16,7 +16,7 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 ## Cos'è
 Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figurativo _ti do una mano_ è un progetto Mozilla Italia e consiste nella realizzazione di un volantino (digitale e stampato) che permetta di capire in un foglio A4 (suddiviso in sezioni) cos'è Mozilla, Firefox e tutti i progetti correlati; l'importanza sta nel fatto che tutti questi concetti vengano espressi in pochissimo spazio e debbano essere soddisfacenti.
 
-## Versione
+## Tipi di versione e release attuale
 L'attuale release è la 1.2.
 Ci sono due tipi di versioni: **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche, e la versione **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.
 Per brevità, la versione generale può essere indicata come "**VG**" mentre la versione tecnica come "**VT**".
@@ -26,12 +26,12 @@ Per sapere come contribuire/collaborare e per leggere le **regole di stile** si 
 
 ## Come viene generato il PDF finale
 Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
-Terminato anche questo, viene generato il PDF attraverso un apposito software che, partendo dal file HTML, ne genera il PDF. Dal PDF, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
-Oltre alla conversione in PDF è necessario eliminare i margini, tagliando i margini del file con le seguenti dimensioni: TOP: 0.42in, LEFT:0.42in, BOTTOM:1.28in e RIGHT:0.81in.
-La procedura di aggiornamento dell'HTML e di conversione in PDF è svolta manualmente da @Sav22999, per informazioni specifiche contattare direttamente @Sav22999 o @Mte90.
+Terminato anche questo passaggio, viene generato il PDF automaticamente tramite uno script (vedi file nella cartella _scripts_) che, partendo dal file HTML, ne genera il PDF. Dall'HTML, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
+Per la generazione (conversione) HTML->PDF e HTML->PNG è stata usato il tool da CLI wkhtmltopdf e wkhtmltoimage.
+Per informazioni più specifiche riguardo il file HTML o il file CSS contattare @Sav22999 o @Mte90, invece, per informazioni relative al file SH contattare @mone27, @Sav22999 o @Mte90.
 
 ## Collaboratori
-In questa versione i collaboratori sono (ordine A-Z):
+Hanno collaborato alla realizzazione del vademecum (ordine A-Z):
 - Cantu Niccolo
 - De Rose Pasquale
 - Massaro Simone

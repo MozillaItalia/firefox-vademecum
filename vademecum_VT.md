@@ -32,11 +32,10 @@ Un linguaggio di programmazione sviluppato per offrire un'esperienza unica, ma a
 Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.
 
 ### Test Pilot |QRcode|
-
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
 
 #### Send |QRcode|
-Condividi file che automaticamente vengono distrutto dopo il download, il tutto gratuitamente, senza registrazione e con pochi semplici clic.
+Condividi file che automaticamente vengono distrutti dopo il download, il tutto gratuitamente, senza registrazione e con pochi semplici clic.
 
 #### Notes |QRcode|
 Prendi velocemente nota riguardo qualcosa e sincronizzale con tutti i tuoi dispositivi con Firefox Accounts.
@@ -60,7 +59,7 @@ Realizzato col linguaggio di programmazione Rust; è un browser engine ancora ag
 #### GitHub |QRcode|
 è uno strumento altrettanto usato. Viene usato un po' da tutti i team della community per progetti vari.
 
-### Unisciti a noi. Diventa un volotario Mozilla Italia ora! |QRcode|
+### Unisciti a noi. Diventa un volotario di Mozilla Italia ora! |QRcode|
 
 ### Collaboratori
 

@@ -28,9 +28,6 @@ Esplora la realtà virtuale direttamente da Firefox, senza necessità di install
 #### Rust |QRcode|
 Un linguaggio di programmazione sviluppato per offrire un'esperienza unica, ma allo stesso tempo completa e complessa. E' un linguaggio di programmazione famigliare a chi già sa programmare, la sintassi è simile a quella del C.
 
-#### Stylo |QRcode|
-Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.
-
 ### Test Pilot |QRcode|
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
 

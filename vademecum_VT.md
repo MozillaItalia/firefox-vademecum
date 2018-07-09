@@ -10,7 +10,8 @@ Capitoli:
 * Test Pilot
 * Altri esperimenti
 * Strumenti utilizzati
-* Unisciti a noi. Diventa un volontario Mozilla Italia ora!
+* IHR
+* Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
 
 ### Presentazione
 **Mozilla Foundation** è un'organizzazione no-profit, presente ovunque nel mondo. La comunità italiana si chiama **Mozilla Italia** (**mozillaitalia.orgs**).

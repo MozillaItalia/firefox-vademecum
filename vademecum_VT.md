@@ -33,7 +33,6 @@ Un linguaggio di programmazione sviluppato per offrire un'esperienza unica, ma a
 Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.
 
 ### Test Pilot |QRcode|
-
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
 
 #### Send |QRcode|

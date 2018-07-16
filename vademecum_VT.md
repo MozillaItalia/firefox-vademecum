@@ -27,7 +27,10 @@ Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plug
 Esplora la realtà virtuale direttamente da Firefox, senza necessità di installare software specifici. Con WebVR la realtà aumentata e virtuale è gratuita, semplice e per tutti.
 
 #### Rust |QRcode|
-Un linguaggio di programmazione sviluppato per offrire un'esperienza unica, ma allo stesso tempo completa e complessa. E' un linguaggio di programmazione famigliare a chi già sa programmare, la sintassi è simile a quella del C.
+
+Rust è un linguaggio compilato con performace simili c ma garantento la safety del programma, sviluppato da Mozilla e componente fondamentale in firefox quantum.
+Rust è basato sul concetto di zero-cost abstraction, ovvero le astrazioni vengono fatte a compile time anzichè a runtime, ottendo così le massime prestazioni possibili senza sacrificare la produttività. L'altro concetto fondamentale di rust è che il compilatore garantisce che il programma non ha errori di memoria, come buffer overflow double free null pointer access, segfalut e data concurrecy. Infine grazie a efficienti c bindings può essere facilmente integrato in progetti esistenti.
+[rust-lang.org](rust-lang.org)
 
 #### Stylo |QRcode|
 Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.

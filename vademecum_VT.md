@@ -28,9 +28,11 @@ Esplora la realtà virtuale direttamente da Firefox, senza necessità di install
 
 #### Rust |QRcode|
 
-Rust è un linguaggio compilato con performace simili c ma garantento la safety del programma, sviluppato da Mozilla e componente fondamentale in firefox quantum.
-Rust è basato sul concetto di zero-cost abstraction, ovvero le astrazioni vengono fatte a compile time anzichè a runtime, ottendo così le massime prestazioni possibili senza sacrificare la produttività. L'altro concetto fondamentale di rust è che il compilatore garantisce che il programma non ha errori di memoria, come buffer overflow double free null pointer access, segfalut e data concurrecy. Infine grazie a efficienti c bindings può essere facilmente integrato in progetti esistenti.
-[rust-lang.org](rust-lang.org)
+Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma.
+È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
+Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
+Un altro concetto fondamentale di Rust è quello riguardante il garantire nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency.
+Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri progetti già esistenti.
 
 #### Stylo |QRcode|
 Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.

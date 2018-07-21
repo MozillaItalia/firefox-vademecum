@@ -58,7 +58,7 @@ Finalmente anche in italiano. Leggi (e registra) frasi o revisiona quelle regist
 Realizzato col linguaggio di programmazione Rust; è un browser engine ancora agli inizi e che punta a migliorare notevolmente l'utilizzo di memoria e, soprattutto, in termini di sicurezza.
 
 #### MDN |QRcode|
-MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso potrete imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come HTTP, WebExtensions, e altro ancora.
+MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come HTTP, WebExtensions, e altro ancora.
 
 ### IHR
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.

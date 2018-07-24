@@ -1,6 +1,6 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-# Scopri Firefox e Mozilla!  |VT|
+# Scopri Mozilla e i suoi progetti!  |VT|
 
 ##### Una breve presentazione tecnica dei progetti Mozilla
 

@@ -1,5 +1,7 @@
 **_Si consiglia di leggere prima il file README.md_**
 
+|| VERSIONE FILE 2.0.0.0 ||
+
 # Scopri Mozilla e i suoi progetti!  |VT|
 
 ##### Una breve presentazione tecnica dei progetti Mozilla

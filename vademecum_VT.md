@@ -21,7 +21,6 @@ Capitoli:
     * Servo
     * MDN
 * IHR
-=======
 * Strumenti utilizzati
     * Forum
     * Pontoon

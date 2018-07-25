@@ -13,10 +13,7 @@ Capitoli:
     * WebVR
     * Rust
     * Stylo
-<<<<<<< HEAD
-* IHR
-=======
->>>>>>> 4d72eabf23ecef9adfd46d88c27b089ad3ca9aac
+* Internet Health Report
 * Test Pilot
     * Send
     * Notes
@@ -24,10 +21,6 @@ Capitoli:
     * Common Voice
     * Servo
     * MDN
-<<<<<<< HEAD
-=======
-* IHR
->>>>>>> 4d72eabf23ecef9adfd46d88c27b089ad3ca9aac
 * Strumenti utilizzati
     * Forum
     * Pontoon
@@ -54,19 +47,16 @@ Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il 
 Questa tecnologia è parte del nuovo browser engine Servo ed è presente anche sulle versioni per dispositivi mobile, ovvero su Android e iOS.  
 
 #### WebVR |QRcode|
-Firefox supporta lo standard _WebVR_, che permette di avere la realtà virtuale direttamente sul browser in tutte le piattaforme.
-Mozilla ha sviluppato il framework open source _A-Frame_ che, utizzando i web component e three.js, permette di scrivere le scene 3D direttamente in html. In questo modo chiunque può creare un ambiente 3D, mettere un video 3D. Inoltre A-Frame ha diversi sottoprogetti come A-Terrain, per visualizzare dati geografici, A-Blast, per creare giochi con WebVr, A-Painter, per disegnare in ambiente 3D.
+Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale *direttamente sul browser* in tutte su tutte le piattaforme supportate.
+In aggiunta, Mozilla ha sviluppato il framework open-source _A-Frame_ che, utizzando i _WebComponent_ e _three.js_, permette di scrivere codice per ambiente 3D direttamente in HTML.
+In questo modo chiunque può creare un ambiente 3D, mettere un video 3D, in maniera molto più veloce e, soprattutto, più semplicemente.
+Inoltre, A-Frame, ha diversi sottoprogetti come _A-Terrain_, per visualizzare dati geografici, _A-Blast_, per creare giochi con WebVR, _A-Painter_, per disegnare in ambiente 3D.
 
 #### Rust |QRcode|
-Rust è un linguaggio,realizzato e mantenuto da Mozilla, compilato ad elevate performance, in aggiunta, il compilatore garantisce la sicurezza del programma.
+Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma. È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
 Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
-Un altro concetto fondamentale di Rust è la garanzia che non avverà nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency. Ioltre grazie a efficienti C Bindings è possibile facilmente integrare il codice in altri linguaggi come NodeJS e Python.
-
-#### Servo |QRcode|
-Servo è un nuovo motore browser per Firefox, scritto interamente in Rust, il cui obiettivo è migliorare le prestazioni, specialmente su multicore, la sicurezza e la modularità.
-
-#### Stylo |QRcode|
-Stylo è il nuovo motore CSS di Servo e quindi di Firefox Quantum che sfruttando le potenzialità di Rust permette di incrementare notevolmente le prestazioni utilizzando tutti i core a disposizione.
+Un altro concetto fondamentale di Rust è quello riguardante l'affidabilità, infatti garantisce che non si verifichi alcun errore di memoria, come i _buffer overflow_, _double free_, _null pointer_, _access_, _segfault_ e _data concurrency_.
+Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, quali NodeJS e Python.
 
 ### Internet Health Report
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
@@ -85,7 +75,7 @@ Questo esperimento è ancora in fase di test, suggerimenti sono ben graditi!
 
 #### Notes |QRcode|
 A chi non è mai capitato di pensare qualcosa ma non avere il tempo di scriverla perché già la si è dimenticata?
-Con "Notes" non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato con tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
+Con _Notes_ non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato con tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
 
 ### Altri esperimenti
 

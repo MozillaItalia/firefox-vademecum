@@ -7,11 +7,24 @@
 Capitoli:
 * Presentazione
 * Firefox
+    * Add-ons
+    * WebVR
+    * Rust
+    * Stylo
 * Test Pilot
+    * Send
+    * Notes
 * Altri esperimenti
-* Strumenti utilizzati
+    * Common Voice
+    * Servo
+    * MDN
 * IHR
+* Strumenti utilizzati
+    * Forum
+    * Pontoon
+    * GitHub
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
+* Collaboratori
 
 ### Presentazione
 **Mozilla Foundation** è un'organizzazione no-profit, presente ovunque nel mondo. La comunità italiana si chiama **Mozilla Italia** (**mozillaitalia.orgs**).
@@ -27,7 +40,10 @@ Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plug
 Esplora la realtà virtuale direttamente da Firefox, senza necessità di installare software specifici. Con WebVR la realtà aumentata e virtuale è gratuita, semplice e per tutti.
 
 #### Rust |QRcode|
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma.
 È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
 Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
@@ -79,4 +95,4 @@ Questo strumento viene usato un po' da tutti i team della community per progetti
 
 ### Collaboratori
 
-Cognome Nome, Cognome Nome, ...
+Cantu Niccolo, De Rose Pasquale, Massaro Simone, Morelli Saverio, Pignataro Giuseppe, Pirrotta Irene, Pizii Mirko, Putti Edoardo, Scasciafratte Daniele, Viola Edoardo

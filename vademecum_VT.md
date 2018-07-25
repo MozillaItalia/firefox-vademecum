@@ -7,14 +7,27 @@
 Capitoli:
 * Presentazione
 * Firefox
-* Test Pilot
-* Altri esperimenti
-* Strumenti utilizzati
+    * Add-ons
+    * WebVR
+    * Rust
+    * Stylo
 * IHR
+* Test Pilot
+    * Send
+    * Notes
+* Altri esperimenti
+    * Common Voice
+    * Servo
+    * MDN
+* Strumenti utilizzati
+    * Forum
+    * Pontoon
+    * GitHub
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
+* Collaboratori
 
 ### Presentazione
-**Mozilla Foundation** è un'organizzazione no-profit, presente ovunque nel mondo. La comunità italiana si chiama **Mozilla Italia** (**mozillaitalia.orgs**).
+**Mozilla Foundation** è un'organizzazione no-profit, presente ovunque nel mondo. La comunità italiana si chiama **Mozilla Italia** (**mozillaitalia.org**).
 Questa è la versione tecnica, indirizzata perlopiù a un pubblico con conoscenze più specifiche e specializzanti.
 
 ### Firefox |QRcode|
@@ -24,18 +37,22 @@ Il browser web sviluppato per offrire un'esperienza di navigazione **unica** e *
 Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plugin e altro, con supporto alle WebExtensions.
 
 #### WebVR |QRcode|
-Esplora la realtà virtuale direttamente da Firefox, senza necessità di installare software specifici. Con WebVR la realtà aumentata e virtuale è gratuita, semplice e per tutti.
+Firefox supporta lo standard _WebVR_, che permette di avere la realtà virtuale direttamente sul browser in tutte le piattaforme.
+Mozilla ha sviluppato il framework open source _A-Frame_ che, utizzando i web component e three.js, permette di scrivere le scene 3D direttamente in html. In questo modo chiunque può creare un ambiente 3D, mettere un video 3D. Inoltre A-Frame ha diversi sottoprogetti come A-Terrain, per visualizzare dati geografici, A-Blast, per creare giochi con WebVr, A-Painter, per disegnare in ambiente 3D.
 
 #### Rust |QRcode|
-
-Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma.
-È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
+Rust è un linguaggio,realizzato e mantenuto da Mozilla, compilato ad elevate performance, in aggiunta, il compilatore garantisce la sicurezza del programma.
 Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
-Un altro concetto fondamentale di Rust è quello riguardante il garantire nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency.
-Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri progetti già esistenti.
+Un altro concetto fondamentale di Rust è la garanzia che non avverà nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency. Ioltre grazie a efficienti C Bindings è possibile facilmente integrare il codice in altri linguaggi come NodeJS e Python.
+
+#### Servo |QRcode|
+Servo è un nuovo motore browser per Firefox, scritto interamente in Rust, il cui obiettivo è migliorare le prestazioni, specialmente su multicore, la sicurezza e la modularità.
 
 #### Stylo |QRcode|
-Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile.
+Stylo è il nuovo motore CSS di Servo e quindi di Firefox Quantum che sfruttando le potenzialità di Rust permette di incrementare notevolmente le prestazioni utilizzando tutti i core a disposizione.
+
+### IHR
+IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
 
 ### Test Pilot |QRcode|
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
@@ -60,9 +77,6 @@ Realizzato col linguaggio di programmazione Rust; è un browser engine ancora ag
 #### MDN |QRcode|
 MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso potrete imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come HTTP, WebExtensions, e altro ancora.
 
-### IHR
-IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
-
 ### Strumenti utilizzati
 
 #### Forum |QRcode|
@@ -79,4 +93,4 @@ Questo strumento viene usato un po' da tutti i team della community per progetti
 
 ### Collaboratori
 
-Cognome Nome, Cognome Nome, ...
+Cantu Niccolo, De Rose Pasquale, Massaro Simone, Morelli Saverio, Pignataro Giuseppe, Pirrotta Irene, Pizii Mirko, Putti Edoardo, Scasciafratte Daniele, Viola Edoardo

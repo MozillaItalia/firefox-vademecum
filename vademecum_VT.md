@@ -47,7 +47,7 @@ Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il 
 Questa tecnologia è parte del nuovo browser engine Servo ed è presente anche sulle versioni per dispositivi mobile, ovvero su Android e iOS.  
 
 #### WebVR |QRcode|
-Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale *direttamente sul browser* in tutte su tutte le piattaforme supportate.
+Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale **direttamente sul browser** in tutte su tutte le piattaforme supportate.
 In aggiunta, Mozilla ha sviluppato il framework open-source _A-Frame_ che, utizzando i _WebComponent_ e _three.js_, permette di scrivere codice per ambiente 3D direttamente in HTML.
 In questo modo chiunque può creare un ambiente 3D, mettere un video 3D, in maniera molto più veloce e, soprattutto, più semplicemente.
 Inoltre, A-Frame, ha diversi sottoprogetti come _A-Terrain_, per visualizzare dati geografici, _A-Blast_, per creare giochi con WebVR, _A-Painter_, per disegnare in ambiente 3D.

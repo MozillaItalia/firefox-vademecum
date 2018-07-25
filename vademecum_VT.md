@@ -8,9 +8,9 @@ Capitoli:
 * Presentazione
 * Firefox
     * Add-ons
+    * Stylo
     * WebVR
     * Rust
-    * Stylo
 * IHR
 * Test Pilot
     * Send
@@ -53,12 +53,12 @@ Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono
 Un altro concetto fondamentale di Rust è quello riguardante il garantire nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency.
 Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, come NodeJS e Python.
 
-### IHR
+### Internet Health Report
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
 Grazie a questo report è possibile verificare lo stato di salute di Internet in pochi e semplici clic. Inoltre sono presenti le tecnologie che più hanno caratterizzato l'anno in corso, oppure eventi importanti nonché particolari.
 Tutto ciò in differenti lingue, incluso l'Italiano, e gratuitamente.
 La documentazione messa a disposizione è vasta: da alcune diapositive (slides), fino a documenti di testo. Per essere al passo coi tempi è disponibile anche un sito web con contenuti costantemente aggiornati.
-Questo poiché Internet è di tutti, ed è bene che tutti se ne prendano cura. 
+Questo poiché Internet è di tutti, ed è bene che tutti se ne prendano cura.
 
 ### Test Pilot |QRcode|
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.

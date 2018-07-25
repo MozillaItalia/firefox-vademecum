@@ -1,3 +1,4 @@
+/*VERSIONE FILE 2.0.0.0*/
 @font-face
 {
     font-family:zillaslab;
@@ -102,17 +103,17 @@ div#presentazione div#descrizione
     font-size:0.5cm;
     padding:0.21cm;
 }
-div#perche_scegliere_firefox
+div#firefox
 {
     position:absolute;
-    top:10.01cm;
+    top:6.51cm;
     left:0cm;
     right:0cm;
     width:auto;
-    height:17.04cm;
+    height:21.04cm;
     overflow:hidden;
 }
-div#perche_scegliere_firefox div#sub_titolo
+div#firefox div#sub_titolo
 {
     position:absolute;
     text-align:center;
@@ -128,7 +129,7 @@ div#perche_scegliere_firefox div#sub_titolo
     padding:0.21cm;
     height:1.04cm;
 }
-div#perche_scegliere_firefox div#sub_descrizione
+div#firefox div#sub_descrizione
 {
     position:absolute;
     text-align:center;
@@ -140,7 +141,7 @@ div#perche_scegliere_firefox div#sub_descrizione
     padding:0.21cm;
     height:2.47cm;
 }
-div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
+div#firefox div#sub_descrizione font#scegli_firefox
 {
     position:relative;
     font-size:0.66cm;
@@ -154,11 +155,11 @@ div#perche_scegliere_firefox div#sub_descrizione font#scegli_firefox
     font-family:inherit;
     font-weight:bold;
 }
-div#perche_scegliere_firefox div#sez1
+div#firefox div#sez1
 {
     position:absolute;
     text-align:center;
-    top:4.33cm;
+    top:3.10cm;
     left:0.21cm;
     right:auto;
     width:12.37cm;
@@ -167,7 +168,7 @@ div#perche_scegliere_firefox div#sez1
     height:6.15cm;
     overflow:hidden;
 }
-div#perche_scegliere_firefox div#sez1 div#titolo
+div#firefox div#sez1 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -183,7 +184,7 @@ div#perche_scegliere_firefox div#sez1 div#titolo
     font-weight:bold;
     height:0.82cm;
 }
-div#perche_scegliere_firefox div#sez1 div#descrizione
+div#firefox div#sez1 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -196,11 +197,11 @@ div#perche_scegliere_firefox div#sez1 div#descrizione
     padding:0.21cm;
     height:4.91cm;
 }
-div#perche_scegliere_firefox div#sez2
+div#firefox div#sez2
 {
     position:absolute;
     text-align:center;
-    top:4.33cm;
+    top:3.10cm;
     left:13.2cm;
     right:auto;
     width:12.37cm;
@@ -209,7 +210,7 @@ div#perche_scegliere_firefox div#sez2
     height:6.15cm;
     overflow:hidden;
 }
-div#perche_scegliere_firefox div#sez2 div#titolo
+div#firefox div#sez2 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -225,7 +226,7 @@ div#perche_scegliere_firefox div#sez2 div#titolo
     font-weight:bold;
     height:0.82cm;
 }
-div#perche_scegliere_firefox div#sez2 div#descrizione
+div#firefox div#sez2 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -238,20 +239,20 @@ div#perche_scegliere_firefox div#sez2 div#descrizione
     padding:0.21cm;
     height:4.91cm;
 }
-div#perche_scegliere_firefox div#sez3
+div#firefox div#sez3
 {
     position:absolute;
     text-align:center;
-    top:11.14cm;
+    top:9.91cm;
     left:0.21cm;
     right:auto;
     width:12.37cm;
     font-size:0.5cm;
     padding:0.21cm;
-    height:5.36cm;
+    height:10.5cm;
     overflow:hidden;
 }
-div#perche_scegliere_firefox div#sez3 div#titolo
+div#firefox div#sez3 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -267,7 +268,7 @@ div#perche_scegliere_firefox div#sez3 div#titolo
     font-weight:bold;
     height:0.82cm;
 }
-div#perche_scegliere_firefox div#sez3 div#descrizione
+div#firefox div#sez3 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -280,20 +281,20 @@ div#perche_scegliere_firefox div#sez3 div#descrizione
     padding:0.21cm;
     height:4.13cm;
 }
-div#perche_scegliere_firefox div#sez4
+div#firefox div#sez4
 {
     position:absolute;
     text-align:center;
-    top:11.14cm;
+    top:9.91cm;
     left:13.2cm;
     right:auto;
     width:12.37cm;
     font-size:0.5cm;
     padding:0.21cm;
-    height:5.36cm;
+    height:10.5cm;
     overflow:hidden;
 }
-div#perche_scegliere_firefox div#sez4 div#titolo
+div#firefox div#sez4 div#titolo
 {
     position:absolute;
     text-align:center;
@@ -309,7 +310,7 @@ div#perche_scegliere_firefox div#sez4 div#titolo
     font-weight:bold;
     height:0.82cm;
 }
-div#perche_scegliere_firefox div#sez4 div#descrizione
+div#firefox div#sez4 div#descrizione
 {
     position:absolute;
     text-align:left;
@@ -321,6 +322,45 @@ div#perche_scegliere_firefox div#sez4 div#descrizione
     font-size:0.5cm;
     padding:0.21cm;
     height:4.13cm;
+}
+div#ihr
+{
+    position:absolute;
+    top:27.55cm;
+    left:0cm;
+    right:0cm;
+    width:auto;
+    height:9.55cm;
+    overflow:hidden;
+}
+div#ihr div#titolo
+{
+    position:absolute;
+    text-align:center;
+    top:0cm;
+    left:0cm;
+    right:auto;
+    width:auto;
+    font-size:0.75cm;
+    font-family:inherit;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding:0.21cm;
+    padding-left:2.06cm;
+    padding-right:1.81cm;
+    height:1.04cm;
+}
+div#ihr div#descrizione
+{
+    position:absolute;
+    text-align:left;
+    top:1.36cm;
+    left:0cm;
+    right:0cm;
+    width:auto;
+    font-size:0.5cm;
+    padding:0.21cm;
 }
 div#novita
 {
@@ -331,6 +371,7 @@ div#novita
     width:auto;
     height:9.95cm;
     overflow:hidden;
+    display:none;
 }
 div#novita div#sub_titolo
 {
@@ -973,4 +1014,31 @@ div#collaboratori div#descrizione
     width:auto;
     font-size:0.5cm;
     padding:0.21cm;
+}
+
+.qrcode
+{
+    background-color:transparent;
+    width:1.19cm;
+    height:1.19cm;
+    position:absolute;
+    top:0.13cm;
+    right:0.13cm;
+}
+#qrcode_firefox
+{
+    right:10cm;
+}
+
+#vt_version
+{
+    position:absolute;
+    padding:0.13cm;
+    top:0.13cm;
+    right:0.13cm;
+    height:auto;
+    background-color:white;
+    color:black;
+    font:inherit;
+    font-size:0.4cm;
 }

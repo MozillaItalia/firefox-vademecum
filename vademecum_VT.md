@@ -1,6 +1,6 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-|| VERSIONE FILE 2.0.0.0 ||
+|| VERSIONE FILE 2.0.0.1 ||
 
 # Scopri Mozilla e i suoi progetti!  |VT|
 
@@ -10,10 +10,10 @@ Capitoli:
 * Presentazione
 * Firefox
     * Add-ons
-    * Stylo
     * WebVR
     * Rust
-* IHR
+    * Stylo
+* Internet Health Report
 * Test Pilot
     * Send
     * Notes
@@ -22,9 +22,9 @@ Capitoli:
     * Servo
     * MDN
 * Strumenti utilizzati
-    * Forum
     * Pontoon
     * GitHub
+    * Forum
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
 * Collaboratori
 
@@ -47,13 +47,16 @@ Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il 
 Questa tecnologia è parte del nuovo browser engine Servo ed è presente anche sulle versioni per dispositivi mobile, ovvero su Android e iOS.  
 
 #### WebVR |QRcode|
-Esplora la realtà virtuale direttamente da Firefox, senza necessità di installare software specifici. Con WebVR la realtà aumentata e virtuale è gratuita, semplice e per tutti.
+Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale **direttamente sul browser** in tutte su tutte le piattaforme supportate.
+In aggiunta, Mozilla ha sviluppato il framework open-source _A-Frame_ che, utizzando i _WebComponent_ e _three.js_, permette di scrivere codice per ambiente 3D direttamente in HTML.
+In questo modo chiunque può creare un ambiente 3D, mettere un video 3D, in maniera molto più veloce e, soprattutto, più semplicemente.
+Inoltre, A-Frame, ha diversi sottoprogetti come _A-Terrain_, per visualizzare dati geografici, _A-Blast_, per creare giochi con WebVR, _A-Painter_, per disegnare in ambiente 3D.
 
 #### Rust |QRcode|
 Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma. È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
 Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
-Un altro concetto fondamentale di Rust è quello riguardante il garantire nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency.
-Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, come NodeJS e Python.
+Un altro concetto fondamentale di Rust è quello riguardante l'affidabilità, infatti garantisce che non si verifichi alcun errore di memoria, come i _buffer overflow_, _double free_, _null pointer_, _access_, _segfault_ e _data concurrency_.
+Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, quali NodeJS e Python.
 
 ### Internet Health Report
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
@@ -66,38 +69,44 @@ Questo poiché Internet è di tutti, ed è bene che tutti se ne prendano cura.
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
 
 #### Send |QRcode|
-Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password.
+Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password, comunque dopo 24 ore il file viene eliminato automaticamente.
 Il tutto gratuitamente, senza registrazione e con pochi semplici clic.
+È sufficiente, infatti, disporre del link diretto al file.
 Questo esperimento è ancora in fase di test, suggerimenti sono ben graditi!
 
 #### Notes |QRcode|
 A chi non è mai capitato di pensare qualcosa ma non avere il tempo di scriverla perché già la si è dimenticata?
-Con "Notes" non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato con tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
+Con _Notes_ non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato con tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
 
 ### Altri esperimenti
 
 #### Common Voice |QRcode|
-Finalmente anche in italiano. Leggi (e registra) frasi o revisiona quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
+Finalmente anche in italiano. _Leggi e registra_ frasi o _revisiona_ quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
+Non ci saranno più problemi di riconoscimento per chi è affetto da _Sigmatismo_ o _Rotacismo_.
 
 #### Servo |QRcode|
 Realizzato col linguaggio di programmazione Rust; è un browser engine ancora agli inizi e che punta a migliorare notevolmente l'utilizzo di memoria e, soprattutto, in termini di sicurezza.
 
 #### MDN |QRcode|
-MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso potrete imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come HTTP, WebExtensions, e altro ancora.
+MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come _HTTP_, _WebExtensions_, e altro ancora.
+Tutto questo semplicemente recandosi sul portale dedicato e a costo zero!
 
 ### Strumenti utilizzati
-
-#### Forum |QRcode|
-Questo strumento è ancora molto utilizzato, sia per prestare supporto agli utenti che ne hanno bisogno sia per dare comunicazioni ufficiali sia per discutere di questioni varie.
 
 #### Pontoon |QRcode|
 Lo strumento utilizzato maggiormente dal team di localizzazione (l10n) è Pontoon, realizzato da Mozilla e permette di tradurre facilmente e rapidamente delle stringhe, avendo a disposizione anche dei suggerimenti, una cronologia e le traduzioni eventualmente in altre lingue.
 Per una corretta traduzione è bene seguire il **Manuale di traduzione** |QRcode {o link o nulla}|.
 
 #### GitHub |QRcode|
-Questo strumento viene usato un po' da tutti i team della community per progetti vari. Il team l10n lo utilizza per organizzare le stringhe settimanali, il team developer per gestire i progetti. Lo stesso _Vademecum_ è frutto di collaborazione su GitHub!
+Questo strumento viene usato un po' da tutti i team della community per progetti vari. Il team l10n (localisation) lo utilizza per organizzare le stringhe settimanali e per tenere traccia di chi le traduce, il team developer per gestire i progetti. Questo stesso _Vademecum_ è frutto di collaborazione su GitHub!
+
+#### Forum |QRcode|
+Questo strumento è ancora molto utilizzato, sia per prestare supporto agli utenti che ne hanno bisogno sia per dare comunicazioni ufficiali sia per discutere di questioni varie.
+Con questo strumento è anche possibile tenersi in continuo aggiornamento su tutto ciò che riguarda la community.
 
 ### Unisciti a noi. Diventa un volotario di Mozilla Italia ora! |QRcode|
+(solo se c'è spazio inserire la seguente descrizione:)  
+Nella nostra community abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
 
 ### Collaboratori
 

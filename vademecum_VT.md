@@ -1,6 +1,6 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-|| VERSIONE FILE 2.0.0.0 ||
+|| VERSIONE FILE 2.0.0.1 ||
 
 # Scopri Mozilla e i suoi progetti!  |VT|
 
@@ -22,9 +22,9 @@ Capitoli:
     * Servo
     * MDN
 * Strumenti utilizzati
-    * Forum
     * Pontoon
     * GitHub
+    * Forum
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
 * Collaboratori
 
@@ -69,8 +69,9 @@ Questo poiché Internet è di tutti, ed è bene che tutti se ne prendano cura.
 Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
 
 #### Send |QRcode|
-Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password.
+Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password, comunque dopo 24 ore il file viene eliminato automaticamente.
 Il tutto gratuitamente, senza registrazione e con pochi semplici clic.
+È sufficiente, infatti, disporre del link diretto al file.
 Questo esperimento è ancora in fase di test, suggerimenti sono ben graditi!
 
 #### Notes |QRcode|
@@ -80,27 +81,32 @@ Con _Notes_ non si avrà più questo problema! Mentre navighi in Firefox basta p
 ### Altri esperimenti
 
 #### Common Voice |QRcode|
-Finalmente anche in italiano. Leggi (e registra) frasi o revisiona quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
+Finalmente anche in italiano. _Leggi e registra_ frasi o _revisiona_ quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
+Non ci saranno più problemi di riconoscimento per chi è affetto da _Sigmatismo_ o _Rotacismo_.
 
 #### Servo |QRcode|
 Realizzato col linguaggio di programmazione Rust; è un browser engine ancora agli inizi e che punta a migliorare notevolmente l'utilizzo di memoria e, soprattutto, in termini di sicurezza.
 
 #### MDN |QRcode|
-MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come HTTP, WebExtensions, e altro ancora.
+MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come _HTTP_, _WebExtensions_, e altro ancora.
+Tutto questo semplicemente recandosi sul portale dedicato e a costo zero!
 
 ### Strumenti utilizzati
-
-#### Forum |QRcode|
-Questo strumento è ancora molto utilizzato, sia per prestare supporto agli utenti che ne hanno bisogno sia per dare comunicazioni ufficiali sia per discutere di questioni varie.
 
 #### Pontoon |QRcode|
 Lo strumento utilizzato maggiormente dal team di localizzazione (l10n) è Pontoon, realizzato da Mozilla e permette di tradurre facilmente e rapidamente delle stringhe, avendo a disposizione anche dei suggerimenti, una cronologia e le traduzioni eventualmente in altre lingue.
 Per una corretta traduzione è bene seguire il **Manuale di traduzione** |QRcode {o link o nulla}|.
 
 #### GitHub |QRcode|
-Questo strumento viene usato un po' da tutti i team della community per progetti vari. Il team l10n lo utilizza per organizzare le stringhe settimanali, il team developer per gestire i progetti. Lo stesso _Vademecum_ è frutto di collaborazione su GitHub!
+Questo strumento viene usato un po' da tutti i team della community per progetti vari. Il team l10n (localisation) lo utilizza per organizzare le stringhe settimanali e per tenere traccia di chi le traduce, il team developer per gestire i progetti. Questo stesso _Vademecum_ è frutto di collaborazione su GitHub!
+
+#### Forum |QRcode|
+Questo strumento è ancora molto utilizzato, sia per prestare supporto agli utenti che ne hanno bisogno sia per dare comunicazioni ufficiali sia per discutere di questioni varie.
+Con questo strumento è anche possibile tenersi in continuo aggiornamento su tutto ciò che riguarda la community.
 
 ### Unisciti a noi. Diventa un volotario di Mozilla Italia ora! |QRcode|
+(solo se c'è spazio inserire la seguente descrizione:)  
+Nella nostra community abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
 
 ### Collaboratori
 

@@ -13,13 +13,14 @@ Capitoli:
     * WebVR
     * Rust
     * Stylo
-    * Servo
 * Test Pilot
     * Send
     * Notes
 * Altri esperimenti
     * Common Voice
     * MDN
+    * Internet Health Report
+    * Servo
 * Strumenti utilizzati
     * Pontoon
     * GitHub
@@ -42,11 +43,8 @@ Trova quella che fa più al caso tuo!
 Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 
 #### Stylo |QRcode|
-Dalla versione Quantum, Firefox integra il nuovo sistema Stylo che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile (Stylo CSS) e al fatto che utilizza tutte le potenzialità dei sistemi multicore.
-Questa tecnologia è parte del nuovo Firefox Quantum desktop ed è presente anche su Android.
-
-#### Servo |QRcode|
-Servo è un browser sperimentale, scritto interamente _in Rust_, che serve per creare e testare i nuovi componenti del motore Gecko di Firefox Quantum, come il parser HTML o Stylo, il parser CSS.L'obiettivo è utlizzare totalmente le potenzialità di Rust migliorando la sicurezza, la modularità e le prestazioni, utilizzando i modermi processori  multicore e la GPU.
+Dalla versione Quantum, Firefox integra il nuovo sistema _Stylo_ che velocizza il caricamento delle pagine web grazie all'ottimizzazione del foglio di stile (_Quantum CSS_) e al fatto che utilizza tutte le potenzialità dei sistemi multicore.
+Questa tecnologia è parte del nuovo Firefox Quantum desktop ed è presente anche su dispositivi Android.
 
 #### WebVR |QRcode|
 Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale **direttamente sul browser** in tutte su tutte le piattaforme supportate.
@@ -89,6 +87,9 @@ Non ci saranno più problemi di riconoscimento per chi è affetto da _Sigmatismo
 #### MDN |QRcode|
 MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come _HTTP_, _WebExtensions_, e altro ancora.
 Tutto questo semplicemente recandosi sul portale dedicato e a costo zero!
+
+#### Servo |QRcode|
+Servo è un browser engine sperimentale, scritto interamente in *Rust*, che serve per creare e testare i nuovi componenti del motore Gecko di Firefox Quantum, come il parser HTML o Stylo, il parser CSS.L'obiettivo è utilizzare totalmente le potenzialità di Rust migliorando la sicurezza, la modularità e le prestazioni, utilizzando i moderni processori  multicore e la GPU.
 
 ### Strumenti utilizzati
 

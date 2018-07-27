@@ -45,6 +45,9 @@ Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 Dalla versione Quantum, Firefox integra il nuovo sistema Stylo che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile (Stylo CSS) e al fatto che utilizza tutte le potenzialità dei sistemi multicore.
 Questa tecnologia è parte del nuovo Firefox Quantum desktop ed è presente anche su Android.
 
+#### Servo |QRcode|
+Servo è un browser sperimentale, scritto interamente _in Rust_, che serve per creare e testare i nuovi componenti del motore Gecko di Firefox Quantum, come il parser HTML o Stylo, il parser CSS.L'obiettivo è utlizzare totalmente le potenzialità di Rust migliorando la sicurezza, la modularità e le prestazioni, utilizzando i modermi processori  multicore e la GPU.
+
 #### WebVR |QRcode|
 Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale **direttamente sul browser** in tutte su tutte le piattaforme supportate.
 In aggiunta, Mozilla ha sviluppato il framework open-source _A-Frame_ che, utizzando i _WebComponent_ e _three.js_, permette di scrivere codice per ambiente 3D direttamente in HTML.

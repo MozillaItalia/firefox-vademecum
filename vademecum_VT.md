@@ -43,7 +43,7 @@ Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 
 #### Stylo |QRcode|
 Dalla versione Quantum, Firefox integra il nuovo sistema Stylo che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile (Stylo CSS) e al fatto che utilizza tutte le potenzialità dei sistemi multicore.
-Questa tecnologia è parte del nuovo browser engine Servo ed è presente anche sulle versioni per dispositivi mobile, ovvero su Android e iOS.  
+Questa tecnologia è parte del nuovo Firefox Quantum desktop ed è presente anche su Android.
 
 #### WebVR |QRcode|
 Firefox supporta lo standard _WebVR_ che permette di avere la realtà virtuale **direttamente sul browser** in tutte su tutte le piattaforme supportate.
@@ -55,7 +55,7 @@ Inoltre, A-Frame, ha diversi sottoprogetti come _A-Terrain_, per visualizzare da
 Rust è un linguaggio compilato con performance simili a quelle del C e garantisce, in aggiunta, la sicurezza del programma. È sviluppato da Mozilla ed è un componente fondamentale in Firefox Quantum.
 Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono fatte in compile-time anziché in run-time, ottenendo così le massime prestazioni possibili senza sacrificare la produttività.
 Un altro concetto fondamentale di Rust è quello riguardante l'affidabilità, infatti garantisce che non si verifichi alcun errore di memoria, come i _buffer overflow_, _double free_, _null pointer_, _access_, _segfault_ e _data concurrency_.
-Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, quali NodeJS e Python.
+Grazie a efficienti C Bindings, inoltre, è possibile facilmente integrare il codice in altri linguaggi, come NodeJS e Python.
 
 ### Internet Health Report
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.
@@ -82,9 +82,6 @@ Con _Notes_ non si avrà più questo problema! Mentre navighi in Firefox basta p
 #### Common Voice |QRcode|
 Finalmente anche in italiano. _Leggi e registra_ frasi o _revisiona_ quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
 Non ci saranno più problemi di riconoscimento per chi è affetto da _Sigmatismo_ o _Rotacismo_.
-
-#### Servo |QRcode|
-Realizzato col linguaggio di programmazione Rust; è un browser engine ancora agli inizi e che punta a migliorare notevolmente l'utilizzo di memoria e, soprattutto, in termini di sicurezza.
 
 #### MDN |QRcode|
 MDN, _Mozilla Developer Network_, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come _HTTP_, _WebExtensions_, e altro ancora.

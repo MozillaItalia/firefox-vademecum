@@ -1,7 +1,5 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-|| VERSIONE FILE 2.0.1.0 ||
-
 # Scopri Firefox e Mozilla!
 
 ##### Una breve presentazione di Firefox e di Mozilla

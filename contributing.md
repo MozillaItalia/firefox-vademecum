@@ -6,8 +6,6 @@
 Per poter collaborare è sufficiente andare negli issue di firefox-vademecum ed entrare in quello che si preferisce per poter contribuire. È possibile contribuire a più "ticket" (quindi issue) e, in ogni caso, verrà riconosciuto un contributo sottoforma di "crediti" a chi effettivamente ha aiutato nella creazione di questo volantino.
 Si ricorda che l'opinione di tutti è ben accetta, quindi collaborare su un ticket significa anche dialogare e confrontarsi con le opinioni degli altri per raggiungere il **miglior** risultato.
 **Inoltre leggere la sezione _Regole di stile_** dove sono riportate le regole principali (raccolte nel tempo) per realizzare un qualcosa di comune, realizzato, comunque, da molti.
-# IMPORTANTE: Sia i file MD sia quelli HTML hanno un numero di versione. INCREMENTARE IL 4 NUMERO (la X) AD OGNI MODIFICA (y.y.y.X)
-In questo modo si riesce a capire facilmente se il file HTML è aggiornato all'ultima modifica di quello MD.
 
 ## Regole di stile
 Per realizzare un vademecum uniforme è norma seguire le regole di stile seguenti:

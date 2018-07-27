@@ -1,10 +1,5 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-<<<<<<< HEAD
-=======
-|| VERSIONE FILE 2.0.0.3 ||
-
->>>>>>> 16a12df024069f42e7f7d92576ce4f52848ab6b4
 # Scopri Mozilla e i suoi progetti!  |VT|
 
 ##### Una breve presentazione tecnica dei progetti Mozilla

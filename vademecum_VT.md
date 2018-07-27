@@ -13,21 +13,14 @@ Capitoli:
     * WebVR
     * Rust
     * Stylo
-<<<<<<< HEAD
-* IHR
-=======
->>>>>>> 4d72eabf23ecef9adfd46d88c27b089ad3ca9aac
+    * Servo
 * Test Pilot
     * Send
     * Notes
 * Altri esperimenti
     * Common Voice
-    * Servo
     * MDN
-<<<<<<< HEAD
-=======
-* IHR
->>>>>>> 4d72eabf23ecef9adfd46d88c27b089ad3ca9aac
+    * IHR
 * Strumenti utilizzati
     * Forum
     * Pontoon
@@ -50,7 +43,7 @@ Trova quella che fa più al caso tuo!
 Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 
 #### Stylo |QRcode|
-Dalla versione Quantum, Firefox integra il nuovo sistema Style che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile (Stylo CSS).
+Dalla versione Quantum, Firefox integra il nuovo sistema Stylo che velocizza il caricamente delle pagine web grazie all'ottimizzazione del foglio di stile (Stylo CSS) e al fatto che utilizza tutte le potenzialità dei sistemi multicore.
 Questa tecnologia è parte del nuovo browser engine Servo ed è presente anche sulle versioni per dispositivi mobile, ovvero su Android e iOS.  
 
 #### WebVR |QRcode|
@@ -63,10 +56,7 @@ Rust utilizza il concetto di zero-cost abstraction, ovvero le astrazione vengono
 Un altro concetto fondamentale di Rust è la garanzia che non avverà nessun errore di memoria, come buffer overflow, double free, null pointer, access, segfault e data concurrency. Ioltre grazie a efficienti C Bindings è possibile facilmente integrare il codice in altri linguaggi come NodeJS e Python.
 
 #### Servo |QRcode|
-Servo è un nuovo motore browser per Firefox, scritto interamente in Rust, il cui obiettivo è migliorare le prestazioni, specialmente su multicore, la sicurezza e la modularità.
-
-#### Stylo |QRcode|
-Stylo è il nuovo motore CSS di Servo e quindi di Firefox Quantum che sfruttando le potenzialità di Rust permette di incrementare notevolmente le prestazioni utilizzando tutti i core a disposizione.
+Servo è un browser sperimentale, scritto interamente _in Rust_, che serve per creare e testare i nuovi componenti del motore Gecko di Firefox Quantum, come il parser HTML o Stylo, il parser CSS.L'obiettivo è utlizzare totalmente le potenzialità di Rust migliorando la sicurezza, la modularità e le prestazioni, utilizzando i modermi processori  multicore e la GPU.
 
 ### Internet Health Report
 IHR, _Internet Health Report_, è un report sullo stato di salute di Internet. Ogni anno viene aggiornato con tecnologie innovative, progetti degni di riconosciementi, eventi importanti, quindi per rendere pubblica la salute di Internet.

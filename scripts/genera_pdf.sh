@@ -40,17 +40,20 @@ do
 
     pdfunite  ../volantino/"$name"_"$version"_"$typeVersion"_fronte.pdf ../volantino/"$name"_"$version"_"$typeVersion"_retro.pdf ../volantino/"$name"_"$version"_"$typeVersion".pdf
     echo "Pdf merged correctly."
+    
+    echo "Temp files deleting..."
+    rm ../volantino/"$name"_"$version"_"$typeVersion"_fronte.pdf
+    rm ../volantino/"$name"_"$version"_"$typeVersion"_retro.pdf
+    echo "Temp files deleted."
     echo "|| Completed conversion for version "$i" ||"
 done
-echo "Completed all conversions."
+echo "|| Completed all conversions ||"
 
 echo "\n------------------------"
 echo "Details:\nNAME: "$name"\nVERSION: "$version"\nVERSION TYPES GENERATED:"
     for i in "VG" "VT"
     do
         echo "| "$i":"\
-        "\n| | "$name"_"$version"_"$i"_fronte.pdf"\
-        "\n| | "$name"_"$version"_"$i"_retro.pdf"\
         "\n| | "$name"_"$version"_"$i"_fronte.png"\
         "\n| | "$name"_"$version"_"$i"_retro.png"\
         "\n| | "$name"_"$version"_"$i".pdf"

@@ -81,12 +81,12 @@ Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale p
 
 #### Send |QRcode|
 Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password, comunque dopo 24 ore il file viene eliminato automaticamente.
-Il tutto gratuitamente, senza registrazione e con pochi semplici clic. È sufficiente, infatti, disporre del link diretto al file.
+Il tutto gratuitamente, senza registrazione, con pochi semplici clic e in sicurezza (i file vengono crittografati).
 Questo esperimento è ancora in fase di test, suggerimenti sono ben graditi!
 
 #### Notes |QRcode|
-A chi non è mai capitato di pensare qualcosa ma non avere il tempo di scriverla perché già la si è dimenticata?
-Con <i>Notes</i> non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato con tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
+A chi non è mai capitato di pensare qualcosa ma non avere il tempo di scriverla perché la si è già dimenticata?
+Con <i>Notes</i> non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato su tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
 
 ### Altri esperimenti
 
@@ -96,14 +96,14 @@ Non ci saranno più problemi di riconoscimento per chi è affetto da <i>Sigmatis
 
 #### Servo |QRcode|
 Servo è un browser engine sperimentale, scritto interamente in Rust.
-Attualmente vengono utilizzati dei suoi compomenti in Gecko e, infatti, quando Servo sarà stabile e completo, sostituirà l'ormai "anziano" Gecko. In termini di velocità, infatti, risulta essere molto più lento rispetto a Servo che, dietro questo unico nome, implementa tante nuove tecnologie che migliorano sensibilmente la sicurezza e le performance.
+Attualmente vengono utilizzati dei suoi componenti in Gecko e, infatti, quando Servo sarà stabile e completo, sostituirà l'ormai "anziano" Gecko. In termini di velocità, infatti, Gecko risulta essere molto più lento rispetto a Servo che, dietro questo unico nome, implementa tante nuove tecnologie che migliorano sensibilmente la sicurezza e le performance.
 
 #### MDN |QRcode|
 MDN, <i>Mozilla Developer Network</i>, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come <i>HTTP</i>, <i>WebExtensions</i>, e altro ancora.
 Tutto questo a costo zero!
 
 ### Unisciti a noi. Diventa un volotario di Mozilla Italia ora! |QRcode|
-Nella nostra community abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
+Nella nostra community di volontari abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
 Gestiamo anche dei gruppi su Telegram, raggiungibili dal canale <b>@mozItaHUB</b>.
 
 ### Collaboratori

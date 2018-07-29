@@ -35,8 +35,8 @@ Il browser web sviluppato per offrire un'esperienza di navigazione <b>unica</b> 
 Dispone di numerosi tipi di versione: Stabile, Beta, Nightly, Developer ed ESR.
 
 #### Add-ons |QRcode|
-Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plugin e altro, con supporto alle WebExtensions.
-Le estensioni più apprezzate sono uBlock Origin, Facebook Container, Ghostery, Video DownloadHelper.
+Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plugin e altro, con supporto alle <i>WebExtensions</i>.
+Le estensioni più apprezzate sono <i>uBlock Origin</i>, <i>Facebook Container</i>, <i>Ghostery</i>, <i>Video DownloadHelper</i>.
 Trova quella che fa più al caso tuo!
 Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 
@@ -66,7 +66,8 @@ Tutto questo poiché Internet è di tutti, ed è bene che tutti se ne prendano c
 ### Strumenti utilizzati
 
 #### GitHub |QRcode|
-Questo strumento viene usato un po' da tutti i team della community per progetti vari. Il team l10n (localisation) lo utilizza per organizzare le stringhe settimanali e per tenere traccia di chi le traduce, il team developer per gestire i progetti. Questo stesso <i>Vademecum</i> è frutto di collaborazione su GitHub!
+Questo strumento viene usato un po' da tutti i team della community per progetti vari.
+Il team l10n (localisation) lo utilizza per organizzare le stringhe settimanali e per tenere traccia di chi le traduce, il team developer per gestire i progetti. Questo stesso <i>Vademecum</i> è frutto di collaborazione su GitHub!
 
 #### Pontoon |QRcode|
 Lo strumento utilizzato maggiormente dal team di localizzazione (l10n) è Pontoon, realizzato da Mozilla e permette di tradurre facilmente e rapidamente delle stringhe, avendo a disposizione anche dei suggerimenti, una cronologia e le traduzioni eventualmente in altre lingue.
@@ -95,8 +96,7 @@ Finalmente anche in italiano. <i>Leggi e registra</i> frasi o <i>revisiona</i> q
 Non ci saranno più problemi di riconoscimento per chi è affetto da <i>Sigmatismo</i> o <i>Rotacismo</i>.
 
 #### Servo |QRcode|
-Servo è un browser engine sperimentale, scritto interamente in Rust.
-Attualmente vengono utilizzati dei suoi componenti in Gecko e, infatti, quando Servo sarà stabile e completo, sostituirà l'ormai "anziano" Gecko. In termini di velocità, infatti, Gecko risulta essere molto più lento rispetto a Servo che, dietro questo unico nome, implementa tante nuove tecnologie che migliorano sensibilmente la sicurezza e le performance.
+Servo è un browser engine sperimentale, scritto interamente in Rust. Attualmente vengono utilizzati dei suoi componenti in Gecko e, infatti, quando Servo sarà stabile e completo, sostituirà l'ormai "anziano" Gecko. In termini di velocità, infatti, Gecko risulta essere molto più lento rispetto a Servo che, dietro questo unico nome, implementa tante nuove tecnologie che migliorano sensibilmente la sicurezza e le performance.
 
 #### MDN |QRcode|
 MDN, <i>Mozilla Developer Network</i>, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come <i>HTTP</i>, <i>WebExtensions</i>, e altro ancora.

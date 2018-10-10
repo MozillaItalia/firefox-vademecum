@@ -92,7 +92,7 @@ Con <i>Notes</i> non si avrà più questo problema! Mentre navighi in Firefox ba
 ### Altri esperimenti
 
 #### Common Voice |QRcode|
-Finalmente anche in italiano. <i>Leggi e registra</i> frasi o <i>revisiona</i> quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vangano pronunciate o dall'accento. Parla come lo fai nella vita reale!
+Finalmente anche in italiano. <i>Leggi e registra</i> frasi o <i>revisiona</i> quelle registrate da altri utenti. Questo progetto punta a realizzare un sistema in grado di comprendere la voce di chiunque e di comprenderne tutte le parole, a prescindere da come esse vengano pronunciate o dall'accento. Parla come lo fai nella vita reale!
 Non ci saranno più problemi di riconoscimento per chi è affetto da <i>Sigmatismo</i> o <i>Rotacismo</i>.
 
 #### Servo |QRcode|
@@ -102,7 +102,7 @@ Servo è un browser engine sperimentale, scritto interamente in Rust. Attualment
 MDN, <i>Mozilla Developer Network</i>, è il servizio dedicato alla programmazione realizzato da Mozilla! Con esso è possibile imparare nuovi linguaggi di programmazione (lato Web), approfondire quelli che già si conoscono, utilizzare script contenuti in esso per vostri progetti o scoprire nuove tecnologie Web, come <i>HTTP</i>, <i>WebExtensions</i>, e altro ancora.
 Tutto questo a costo zero!
 
-### Unisciti a noi. Diventa un volotario di Mozilla Italia ora! |QRcode|
+### Unisciti a noi. Diventa un volontario di Mozilla Italia ora! |QRcode|
 Nella nostra community di volontari abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
 Gestiamo anche dei gruppi su Telegram, raggiungibili dal canale <b>@mozItaHUB</b>.
 

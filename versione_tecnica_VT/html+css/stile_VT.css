@@ -1,19 +1,21 @@
 @font-face
 {
-    font-family:zillaslab;
-    src: url("./zillaslab.otf");
+    font-family: zillaslab;
+    src: url("../../font/zillaslab.otf");
 }
+
 @font-face
 {
-    font-family:zillaslab;
-    src: url("./zillaslab_i.otf");
-    font-style:italic;
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_i.otf");
+    font-style: italic;
 }
+
 @font-face
 {
-    font-family:zillaslab;
-    src: url("./zillaslab_b.otf");
-    font-weight:bold;
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_b.otf");
+    font-weight: bold;
 }
 
 :root
@@ -106,7 +108,7 @@ div#firefox div#sub_titolo
     padding:0.21cm;
     height:1.04cm;
 }
-div#firefox div#sub_descrizione, div#test_pilot div#sub_descrizione
+div#firefox div#sub_descrizione, div#progetti_maggiori div#sub_descrizione
 {
     top:1.45cm;
     font-size:0.5cm;
@@ -184,7 +186,7 @@ div#altri_esperimenti_mozilla
     top:19.44cm;
     height:11.2cm;
 }
-div#strumenti div#sub_titolo, div#test_pilot div#sub_titolo, div#altri_esperimenti_mozilla div#sub_titolo
+div#strumenti div#sub_titolo, div#progetti_maggiori div#sub_titolo, div#altri_esperimenti_mozilla div#sub_titolo
 {
     font-size:0.82cm;
     font-family:inherit;
@@ -235,16 +237,16 @@ div#strumenti div#sez1 div#descrizione, div#altri_esperimenti_mozilla div#sez1 d
     padding:0.21cm;
     height:auto;
 }
-div#test_pilot
+div#progetti_maggiori
 {
     top:10cm;
     height:9.44cm;
 }
-div#test_pilot div#sub_descrizione
+div#progetti_maggiori div#sub_descrizione
 {
     top:1.36cm;
 }
-div#test_pilot div#sez1, div#test_pilot div#sez2
+div#progetti_maggiori div#sez1, div#progetti_maggiori div#sez2
 {
     top:3cm;
     left:0.21cm;
@@ -254,7 +256,7 @@ div#test_pilot div#sez1, div#test_pilot div#sez2
     padding:0.21cm;
     height:5.8cm;
 }
-div#test_pilot div#sez1 div#titolo, div#test_pilot div#sez2 div#titolo
+div#progetti_maggiori div#sez1 div#titolo, div#progetti_maggiori div#sez2 div#titolo
 {
     font-size:0.57cm;
     padding:0.21cm;
@@ -264,7 +266,7 @@ div#test_pilot div#sez1 div#titolo, div#test_pilot div#sez2 div#titolo
     font-weight:bold;
     height:0.82cm;
 }
-div#test_pilot div#sez1 div#descrizione, div#test_pilot div#sez2 div#descrizione
+div#progetti_maggiori div#sez1 div#descrizione, div#progetti_maggiori div#sez2 div#descrizione
 {
     text-align:left;
     top:1.23cm;
@@ -272,7 +274,7 @@ div#test_pilot div#sez1 div#descrizione, div#test_pilot div#sez2 div#descrizione
     padding:0.21cm;
     height:5.2cm;
 }
-div#test_pilot div#sez2
+div#progetti_maggiori div#sez2
 {
     left:13.2cm;
 }
@@ -305,17 +307,13 @@ div#collaboratori
 {
     right:10cm;
 }
-#qrcode_addons, #qrcode_webvr
+#qrcode_addons, #qrcode_webvr, #qrcode_lockbox
 {
     right:4cm;
 }
-#qrcode_rust, #qrcode_send, #qrcode_notes
+#qrcode_rust, #qrcode_send
 {
     right:4.5cm;
-}
-#qrcode_testpilot
-{
-    right:9.8cm
 }
 #qrcode_github, #qrcode_pontoon, #qrcode_forum
 {

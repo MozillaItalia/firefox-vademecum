@@ -1,20 +1,20 @@
 @font-face
 {
     font-family: zillaslab;
-    src: url("./zillaslab.otf");
+    src: url("../../font/zillaslab.otf");
 }
 
 @font-face
 {
     font-family: zillaslab;
-    src: url("./zillaslab_i.otf");
+    src: url("../../font/zillaslab_i.otf");
     font-style: italic;
 }
 
 @font-face
 {
     font-family: zillaslab;
-    src: url("./zillaslab_b.otf");
+    src: url("../../font/zillaslab_b.otf");
     font-weight: bold;
 }
 

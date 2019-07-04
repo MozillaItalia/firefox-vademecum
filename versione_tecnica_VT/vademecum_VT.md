@@ -8,21 +8,21 @@ Capitoli:
 * Presentazione
 * Firefox
     * Add-ons
+    * Stylo
     * WebVR
     * Rust
-    * Stylo
 * Internet Health Report
-* Test Pilot
+* Strumenti utilizzati
+    - Pontoon
+    - GitHub
+    - Forum
+* Progetti maggiori
     * Send
-    * Notes
+    * Lockwise
 * Altri esperimenti
     * Common Voice
     * Servo
     * MDN
-* Strumenti utilizzati
-    * Pontoon
-    * GitHub
-    * Forum
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
 * Collaboratori
 
@@ -31,13 +31,13 @@ Capitoli:
 Questa è la versione tecnica, indirizzata perlopiù a un pubblico con conoscenze più specifiche e specializzanti.
 
 ### Firefox |QRcode|
-Il browser web sviluppato per offrire un'esperienza di navigazione <b>unica</b> e <b>personalizzata</b>.
+Il browser web sviluppato per offrire un'esperienza di navigazione **unica** e **personalizzata**. 
 Dispone di numerosi tipi di versione: Stabile, Beta, Nightly, Developer ed ESR.
 
 #### Add-ons |QRcode|
-Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plugin e altro, con supporto alle <i>WebExtensions</i>.
-Le estensioni più apprezzate sono <i>uBlock Origin</i>, <i>Facebook Container</i>, <i>Ghostery</i>, <i>Video DownloadHelper</i>.
-Trova quella che fa più al caso tuo!
+Firefox dispone di migliaia di componenti aggiuntivi, tra estensioni, temi, plugin e altro, con supporto alle *WebExtensions*. 
+Le estensioni più apprezzate sono *uBlock Origin*, *Facebook Container*, *Ghostery*, *Video DownloadHelper*. 
+Trova quella che fa più al caso tuo! 
 Sono suddivise per genere, per consigliate, per più votate o per tendenza.
 
 #### Stylo
@@ -77,17 +77,20 @@ Per una corretta traduzione è bene seguire il <b>Manuale di traduzione</b>.
 Questo strumento è ancora molto utilizzato, sia per prestare supporto agli utenti che ne hanno bisogno sia per dare comunicazioni ufficiali sia per discutere di questioni varie.
 Con questo strumento è anche possibile tenersi in continuo aggiornamento su tutto ciò che riguarda la community.
 
-### Test Pilot |QRcode|
-Mozilla sviluppa numerosi progetti online, uno di essi è Test Pilot, il quale permette di utilizzare funzionalità uniche di Firefox ancora in fase di testing.
+### Progetti maggiori|QRcode|
+
+Mozilla sviluppa numerosi progetti online, molti in fase di testing e altri già rilasciati. Alcuni di questi progetti rendono le funzionalità di Firefox uniche.
 
 #### Send |QRcode|
-Condividi file di massimo 1GB che automaticamente vengono distrutti dopo il download, puoi impostare tu quanti download permettere e se richiedere una password, comunque dopo 24 ore il file viene eliminato automaticamente.
-Il tutto gratuitamente, senza registrazione, con pochi semplici clic e in sicurezza (i file vengono crittografati).
-Questo esperimento è ancora in fase di test, suggerimenti sono ben graditi!
+Condividi file fino a un massimo di 2,5GB che automaticamente vengono distrutti dopo un numero preimpostato di download: **lo scegli tu!** o dopo un tempo prefissato: **lo imposti tu!**, da un min di 5 min a un massimo di 7 giorni. 
+Il tutto gratuitamente, con pochi semplici clic, in sicurezza (i file vengono crittografati) e puoi gestire i file semplicemente effettuando l'accesso.
 
-#### Notes |QRcode|
-A chi non è mai capitato di pensare qualcosa ma non avere il tempo di scriverla perché la si è già dimenticata?
-Con <i>Notes</i> non si avrà più questo problema! Mentre navighi in Firefox basta premere l'icona del blocco note per poter prendere immediatamente un appunto e, questo, verrà sincronizzato su tutti i tuoi dispositivi a cui hai effettuato l'accesso a Firefox Accounts.
+#### Lockwise |QRcode|
+
+**Il manager delle password definitivo!** 
+Accedere alle credenziali salvate con il tuo account Firefox (nome utente e password) non è mai stato così facile, veloce e sicuro. 
+È sufficiente installare l'app (iOS/Android) ed effettuare l'accesso al proprio account Firefox. 
+Imposta l'accesso con l'impronta digitale per una maggiore sicurezza!
 
 ### Altri esperimenti
 
@@ -109,3 +112,4 @@ Gestiamo anche dei gruppi su Telegram, raggiungibili dal canale <b>@mozItaHUB</b
 ### Collaboratori
 
 Cantu Niccolo, De Rose Pasquale, Massaro Simone, Morelli Saverio, Pignataro Giuseppe, Pirrotta Irene, Pizii Mirko, Putti Edoardo, Scasciafratte Daniele, Viola Edoardo
+

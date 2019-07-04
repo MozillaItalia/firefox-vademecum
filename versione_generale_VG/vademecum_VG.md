@@ -8,18 +8,34 @@ Capitoli:
 
 * Presentazione
 * Perché scegliere Firefox?
+  * Libertà e personalizzazione
+  * Sicurezza e privacy
+  * Velocità
+  * Supporto
 * Novità
+  * WebVR
+  * Firefox Screenshots
+  * Pocket
 * Estensioni
+  * Facebook Container
+  * uBlock Origin
+  * Privacy Badger
+  * I Don’t Care Abour Cookies
+  * HTTPS Everywhere
+  * History AutoDelete
 * Altri progetti Mozilla
+  * Firefox Focus
+  * Common Voice
+
 * Vuoi contribuire?
 
 ### Presentazione
 
-Innanzitutto è doveroso spiegare che cos'è _Firefox_. È un browser web **unico** che mette al primo posto gli utenti, ha il codice sorgente libero (quindi tutti possono analizzarlo e modificarlo), è disponibile per tutti i principali sistemi operativi, è personalizzabile, è versatile, è veloce e, molto importante, è **sicuro**.
-**Mozilla Foundation** è l'organizzazione _senza fini_ di lucro che, da oltre 15 anni, supporta Firefox e altri numerosi progetti. Questa organizzazione ha più di 10.000 **volontari**, provenienti da ogni parte del _globo_.
-La comunità che opera in Italia prende il nome di _Mozilla Italia_; si occupa di tradurre progetti e siti web, ma anche di realizzare e partecipare a eventi, aiutare gli utenti, e molto altro.
-Per questi motivi chiunque è il benvenuto: la **collaborazione** è il fulcro di ogni comunità.
-Trovi Mozilla Italia sia sul _forum_ (**forum.mozillaitalia.orgs**) sia sui canali _Telegram_ (**@mozItaHub**).
+Innanzitutto è doveroso spiegare che cos'è *Firefox*. È un browser web **unico** che mette al primo posto gli utenti, ha il codice sorgente libero (quindi tutti possono analizzarlo e modificarlo), è disponibile per tutti i principali sistemi operativi, è personalizzabile, è versatile, è veloce e, molto importante, è **sicuro**. 
+**Mozilla Foundation** è l'organizzazione *senza fini* di lucro che, da oltre 15 anni, supporta Firefox e altri numerosi progetti. Questa organizzazione ha più di 10.000 **volontari**, provenienti da ogni parte del *globo*. 
+La comunità che opera in Italia prende il nome di *Mozilla Italia*; si occupa di tradurre progetti e siti web, ma anche di realizzare e partecipare a eventi, aiutare gli utenti, e molto altro. 
+Per questi motivi chiunque è il benvenuto: la **collaborazione** è il fulcro di ogni comunità. 
+Trovi Mozilla Italia sia sul *forum* (**forum.mozillaitalia.org**) sia sui canali *Telegram* (**@mozItaBot**).
 
 ### Perché scegliere Firefox?
 
@@ -82,17 +98,20 @@ Grazie a questa estensione è possibile pulire la cronologia di navigazione peri
 
 ### Altri progetti Mozilla
 
-Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche **Mozilla Developer Network**, **Open Leadership**, **Internet Health Report**, **Common Voice**. In dettaglio i progetti più considerevoli di Mozilla:
+Mozilla Foundation, oltre a Firefox, porta avanti numerosi progetti in ambiti diversi e tutti con un obiettivo in comune: la visione del **Web come risorsa aperta a chiunque**. Tra quelli non elencati ci sono anche **Mozilla Developer Network**, **Open Leadership**, **Internet Health Report**, **Common Voice**. Qui di seguito sono riportati e descritti i progetti più considerevoli di Mozilla:
 
 ##### Firefox Focus
 
-Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione, come anche i dati raccolti, vengono eliminati automaticamente al termine di ogni sessione di navigazione. Tutte queste caratteristiche avanzate sono disponibili in **soli 5 MB**, sia per Android sia per iOS.
+Firefox Focus è un nuovo progetto della Mozilla Foundation che porta la navigazione privata a un livello più alto, fornendo un browser dedicato alla privacy, attraverso un evoluto sistema di protezione antitracciamento e di blocco dei contenuti. Le avanzate funzionalità per la protezione della privacy sono sempre attive e la cronologia di navigazione, come anche i dati raccolti, vengono eliminati automaticamente al termine di ogni sessione di navigazione. Tutte queste caratteristiche avanzate sono disponibili in **meno di 35 MB**, sia per Android sia per iOS.
 
-##### Test Pilot
+##### Common Voice
 
-Test Pilot è un progetto sviluppato da Mozilla e permette agli utenti di essere, in tutte le fasi di sviluppo, al centro del progetto Firefox, testando periodicamente delle estensioni sperimentali: si possono provare in anteprima delle possibili future funzionalità, prima che queste vengano integrate nel browser stesso e, quindi, disponibili per tutti. Dopo averlo installato è possibile scegliere ciò che si desidera provare, quindi collaborare rilasciando una **propria** opinione sull’esperienza d’uso personale. Vieni a scoprire le nuove funzionalità sperimentali su: _https://testpilot.firefox.com/_
+Common Voice è un’iniziativa di Mozilla per insegnare alle macchine come parlano le persone nella vita reale. 
+Per creare sistemi basati sulla tecnologia vocale, è necessaria un’altissima quantità di campioni differenti tra loro. Proprio per questo chiunque può collaborare, registrando frasi o convalidando quelle già inserite da altri. 
+Buona parte dei dati usati dalle grandi aziende non è accessibile alla maggioranza delle persone. Secondo Mozilla questo soffoca l’innovazione. Per questa ragione abbiamo sviluppato Common Voice, un progetto di riconoscimento vocale aperto a tutti.
 
 ### Vuoi contribuire?
 
-Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica. I nostri **volontari** quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che l’unione fa la forza.  
-Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita _[mozillaitalia.org](http://mozillaitalia.org)_!
+**Il tuo aiuto è fondamentale per mantenere il Web una risorsa libera, accessibile e pubblica.** 
+I nostri **volontari** quotidianamente lavorano affinché questo sia possibile. Non è necessario che tu abbia delle abilità specifiche. Tra di noi potrai confrontarti con grafici, ingegneri, informatici, linguisti, studenti e insegnanti. Il nostro fattore comune è la volontà e la consapevolezza che **l’unione fa la forza**. 
+Saremo a tua disposizione e disponibili ad aiutarti lungo tutto questo tuo fantastico percorso all’interno della nostra community italiana. Per conoscere meglio tutto questo, apprendere nuove competenze e contribuire a migliorare il Web, visita *http://mozillaitalia.org!* o prova il nostro bot su Telegram **@mozItaBot**.

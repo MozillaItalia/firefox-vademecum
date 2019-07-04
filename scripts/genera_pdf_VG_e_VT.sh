@@ -10,10 +10,10 @@ for i in "VG" "VT"
 do
     typeVersion=$i;
     typeLongVersion="versione_generale";
-    if [ $typeLongVersion == "VT" ]; then
+    if [ $typeVersion == "VT" ]; then
         typeLongVersion="versione_tecnica";
     fi
-    echo "|| Starting conversion for version "$typeVersion" ||"
+    echo "|| Starting conversion for "$typeLongVersion" ("$typeVersion") ||"
     if ! [ -x "$(command -v wkhtmltopdf)" ]; then
         if ! [ -x "$(command -v apt)" ]; then
             echo "The script does not support automatic installation of wkhtmlpdf on your platform."\
@@ -22,14 +22,18 @@ do
         fi
         sudo apt install wkhtmltopdf
     fi
+
+    path_fronte="../"$typeLongVersion"_"$typeVersion"/html_e_css/volantino_fronte_"$typeVersion".html"
+    path_retro="../"$typeLongVersion"_"$typeVersion"/html_e_css/volantino_retro_"$typeVersion".html"
+
     echo "Pdf files generating..."
-    wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 ../"$typeLongVersion"_"$typeVersione"/html+css/volantino_fronte_"$typeVersion".html ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_fronte.pdf
-    wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 ../"$typeLongVersion"_"$typeVersione"/html+css/volantino_retro_"$typeVersion".html ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_retro.pdf
+    wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 $path_fronte "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf"
+    wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 $path_retro "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf"
     echo "Pdf files generated."
 
     echo "Png files generating..."
-    wkhtmltoimage --crop-w 992 ../"$typeLongVersion"_"$typeVersione"/html+css/volantino_fronte_"$typeVersion".html ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_fronte.png
-    wkhtmltoimage --crop-w 992 ../"$typeLongVersion"_"$typeVersione"/html+css/volantino_retro_"$typeVersion".html ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_retro.png
+    wkhtmltoimage --crop-w 992 $path_fronte "../volantino/png/"$name"_"$version"_"$typeVersion"_fronte.png"
+    wkhtmltoimage --crop-w 992 $path_retro "../volantino/png/"$name"_"$version"_"$typeVersion"_retro.png"
     echo "Png files generated."
 
     echo "Pdf files merging in a single pdf file..."
@@ -42,24 +46,24 @@ do
         sudo apt install poppler-utils
     fi
 
-    pdfunite  ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_fronte.pdf ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_retro.pdf ../"$typeLongVersion"_"$typeVersione"/"$name"_"$version"_"$typeVersion".pdf
+    pdfunite  "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
     echo "Pdf merged correctly."
     
     echo "Temp files deleting..."
-    rm ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_fronte.pdf
-    rm ../"$typeLongVersion"_"$typeVersione"/output/"$name"_"$version"_"$typeVersion"_retro.pdf
+    rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf"
+    rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf"
     echo "Temp files deleted."
     echo "|| Completed conversion for version "$i" ||"
 done
 echo "|| Completed all conversions ||"
 
-echo "\n------------------------"
+echo "------------------------"
 echo "Details:\nNAME: "$name"\nVERSION: "$version"\nVERSION TYPES GENERATED:"
     for i in "VG" "VT"
     do
-        echo "| "$i":"\
-        "\n| | "$name"_"$version"_"$i"_fronte.png"\
-        "\n| | "$name"_"$version"_"$i"_retro.png"\
-        "\n| | "$name"_"$version"_"$i".pdf"
+        echo "| "$i":"
+        echo "| | "$name"_"$version"_"$i"_fronte.png"
+        echo "| | "$name"_"$version"_"$i"_retro.png"
+        echo "| | "$name"_"$version"_"$i".pdf"
     done
 echo "------------------------"

@@ -1,0 +1,342 @@
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab.otf");
+}
+
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_i.otf");
+    font-style: italic;
+}
+
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_b.otf");
+    font-weight: bold;
+}
+
+:root
+{
+    --colore-testo-principale: black;
+    --colore-sfondo-principale: white;
+    --colore-testo-titoli: white;
+    --colore-sfondo-titoli: black;
+    --colore-testo-titolisezioni: white;
+    --colore-sfondo-titolisezioni: #222222;
+}
+
+div
+{
+	text-align: center;
+    top: 0cm;
+    left: 0cm;
+    right: 0cm;
+    bottom: 0cm;
+	position: absolute;
+    overflow: hidden;
+	width: auto;
+}
+
+#body
+{
+    font-family:zillaslab;
+    width:26.19cm;
+    height:37.1cm;
+    background-color:var(--colore-sfondo-principale);
+    border:0.04cm solid black;
+    font-size:0.5cm;
+}
+
+div#titolo_principale
+{
+    font-size:1.23cm;
+    font-family:inherit;
+    font-weight:bold;
+    background-color:var(--colore-sfondo-titoli);
+    color:var(--colore-testo-titoli);
+    padding-bottom:0.20cm;
+    height:1.48cm;
+}
+div#descrizione_principale
+{
+    top:1.65cm;
+    font-size:0.57cm;
+    font-family:inherit;
+    font-weight:bold;
+    padding:0.21cm;
+    height:0.75cm;
+}
+div#presentazione, div#ihr, div#unisciti, div#collaboratori
+{
+    top:2.81cm;
+    height:7.21cm;
+}
+div#presentazione div#titolo, div#ihr div#titolo, div#unisciti div#titolo, div#collaboratori div#titolo
+{
+    right:auto;
+    font-size:0.75cm;
+    font-family:inherit;
+    font-weight:bold;
+    background-color:var(--colore-sfondo-titoli);
+    color:var(--colore-testo-titoli);
+    padding:0.21cm;
+    padding-left:2.06cm;
+    height:1.04cm;
+}
+div#presentazione div#descrizione, div#ihr div#descrizione, div#unisciti div#descrizione, div#collaboratori div#descrizione
+{
+    text-align:left;
+    top:1.36cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+}
+div#firefox
+{
+    top:6.51cm;
+    height:21.04cm;
+}
+div#firefox div#sub_titolo
+{
+    font-size:0.82cm;
+    font-family:inherit;
+    font-weight:bold;
+    background-color:var(--colore-sfondo-titoli);
+    color:var(--colore-testo-titoli);
+    padding:0.21cm;
+    height:1.04cm;
+}
+div#firefox div#sub_descrizione, div#progetti_maggiori div#sub_descrizione
+{
+    top:1.45cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:2.47cm;
+}
+div#firefox div#sez1, div#firefox div#sez2, div#firefox div#sez3, div#firefox div#sez4
+{
+    top:3.10cm;
+    left:0.21cm;
+    right:auto;
+    width:12.37cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:6.15cm;
+}
+div#firefox div#sez1 div#titolo, div#firefox div#sez2 div#titolo, div#firefox div#sez3 div#titolo, div#firefox div#sez4 div#titolo
+{
+    font-size:0.57cm;
+    padding:0.21cm;
+    background-color:var(--colore-sfondo-titolisezioni);
+    color:var(--colore-testo-titolisezioni);
+    font-family:inherit;
+    font-weight:bold;
+    height:0.82cm;
+}
+div#firefox div#sez1 div#descrizione, div#firefox div#sez2 div#descrizione
+{
+    text-align:left;
+    top:1.23cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:4.91cm;
+}
+div#firefox div#sez2
+{
+    top:3.10cm;
+    left:13.2cm;
+    height:6.15cm;
+}
+div#firefox div#sez3, div#firefox div#sez4
+{
+    top:9.91cm;
+    left:0.21cm;
+    height:10.5cm;
+}
+div#firefox div#sez3 div#descrizione, div#firefox div#sez4 div#descrizione
+{
+    text-align:left;
+    top:1.23cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:9cm;
+}
+div#firefox div#sez4
+{
+    top:9.91cm;
+    left:13.2cm;
+}
+div#ihr
+{
+    top:27.55cm;
+    height:9.55cm;
+}
+div#ihr div#titolo, div#unisciti div#titolo
+{
+    padding-right:1.81cm;
+}
+div#strumenti, div#altri_esperimenti_mozilla
+{
+    height:10cm;
+}
+div#altri_esperimenti_mozilla
+{
+    top:19.44cm;
+    height:11.2cm;
+}
+div#strumenti div#sub_titolo, div#progetti_maggiori div#sub_titolo, div#altri_esperimenti_mozilla div#sub_titolo
+{
+    font-size:0.82cm;
+    font-family:inherit;
+    font-weight:bold;
+    background-color:var(--colore-sfondo-titoli);
+    color:var(--colore-testo-titoli);
+    padding:0.21cm;
+    height:1.04cm;
+}
+div#strumenti div#sez1, div#altri_esperimenti_mozilla div#sez1, div#strumenti div#sez2, div#altri_esperimenti_mozilla div#sez2, div#strumenti div#sez3, div#altri_esperimenti_mozilla div#sez3
+{
+    top:1.65cm;
+    left:0.21cm;
+    right:auto;
+    width:8.04cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:7.7cm;
+}
+div#altri_esperimenti_mozilla div#sez1, div#altri_esperimenti_mozilla div#sez2, div#altri_esperimenti_mozilla div#sez3
+{
+    height:7.7cm;
+    height:8.94cm;
+}
+div#altri_esperimenti_mozilla div#sez2, div#strumenti div#sez2
+{
+    left:8.87cm;
+}
+div#strumenti div#sez3, div#altri_esperimenti_mozilla div#sez3
+{
+    left:17.54cm;
+}
+div#strumenti div#sez1 div#titolo, div#altri_esperimenti_mozilla div#sez1 div#titolo, div#strumenti div#sez2 div#titolo, div#altri_esperimenti_mozilla div#sez2 div#titolo, div#strumenti div#sez3 div#titolo, div#altri_esperimenti_mozilla div#sez3 div#titolo
+{
+    font-size:0.5cm;
+    padding:0.21cm;
+    background-color:var(--colore-sfondo-titolisezioni);
+    color:var(--colore-testo-titolisezioni);
+    font-family:inherit;
+    font-weight:bold;
+    height:0.66cm;
+}
+div#strumenti div#sez1 div#descrizione, div#altri_esperimenti_mozilla div#sez1 div#descrizione, div#strumenti div#sez2 div#descrizione, div#altri_esperimenti_mozilla div#sez2 div#descrizione, div#strumenti div#sez3 div#descrizione, div#altri_esperimenti_mozilla div#sez3 div#descrizione
+{
+    text-align:left;
+    top:1.07cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:auto;
+}
+div#progetti_maggiori
+{
+    top:10cm;
+    height:9.44cm;
+}
+div#progetti_maggiori div#sub_descrizione
+{
+    top:1.36cm;
+}
+div#progetti_maggiori div#sez1, div#progetti_maggiori div#sez2
+{
+    top:3cm;
+    left:0.21cm;
+    right:auto;
+    width:12.37cm;
+    font-size:0.5cm;
+    padding:0.21cm;
+    height:5.8cm;
+}
+div#progetti_maggiori div#sez1 div#titolo, div#progetti_maggiori div#sez2 div#titolo
+{
+    font-size:0.57cm;
+    padding:0.21cm;
+    background-color:var(--colore-sfondo-titolisezioni);
+    color:var(--colore-testo-titolisezioni);
+    font-family:inherit;
+    font-weight:bold;
+    height:0.82cm;
+}
+div#progetti_maggiori div#sez1 div#descrizione, div#progetti_maggiori div#sez2 div#descrizione
+{
+    text-align:left;
+    top:1.23cm;
+    font-size:0.45cm;
+    padding:0.21cm;
+    height:5.2cm;
+}
+div#progetti_maggiori div#sez2
+{
+    left:13.2cm;
+}
+div#unisciti
+{
+    top:30.64cm;
+}
+div#collaboratori
+{
+    top:34.24cm;
+}
+
+.qrcode, .qrcode_sez, .qrcode_sez3
+{
+    position:absolute;
+    background-color:transparent;
+    height:1.19cm;
+    top:0.13cm;
+    right:0.13cm;
+}
+.qrcode_sez
+{
+    height:0.96cm;
+}
+.qrcode_sez3
+{
+    height:0.82cm;
+}
+#qrcode_firefox
+{
+    right:10cm;
+}
+#qrcode_addons, #qrcode_webvr, #qrcode_lockbox
+{
+    right:4cm;
+}
+#qrcode_rust, #qrcode_send
+{
+    right:4.5cm;
+}
+#qrcode_github, #qrcode_pontoon, #qrcode_forum
+{
+    right:2.2cm;
+}
+#qrcode_commonvoice
+{
+    right:1.5cm;
+}
+#qrcode_servo, #qrcode_mdn
+{
+    right:2.5cm;
+}
+
+#vt_version
+{
+    position:absolute;
+    padding:0.13cm;
+    top:0.13cm;
+    right:0.13cm;
+    height:auto;
+    background-color:var(--colore-sfondo-principale);
+    color:var(--colore-testo-principale);
+    font:inherit;
+    font-size:0.4cm;
+}

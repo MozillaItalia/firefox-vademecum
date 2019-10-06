@@ -25,7 +25,7 @@ il riconoscimento vocale migliore per tutti.
 Puoi scegliere di **registrare** la tua voce o **convalidare** le registrazioni immesse da altri.
 <img src="../images/ascolta_cv.png" alt="img" style="zoom:20%;" /> <img src="../images/parla_cv.png" alt="img" style="zoom:20%;" />
 
-## Perché creare un account?
+## Perché creare un profilo?
 Creando un account Firefox ed effettuando l'accesso a Common Voice è 
 possibile tenere traccia dei progressi fatti, raggiungere degli 
 obiettivi e comparire nella classifica locale, o internazionale.

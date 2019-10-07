@@ -1,7 +1,6 @@
 **_Si consiglia di leggere prima il file README.md_**
 
-# Common Voice
-## mozilla
+# Common Voice (logo)
 
 ## Che cos’è Common Voice?
 Common Voice è parte di un’iniziativa Mozilla per insegnare alle 
@@ -19,9 +18,9 @@ rispecchino la diversità delle persone reali. Insieme possiamo rendere
 il riconoscimento vocale migliore per tutti.
 
 ## Come contribuire al progetto?
-### Vai su https://voice.mozilla.org/it                     
+**Vai su https://voice.mozilla.org/it**
 <img src="../images/qrcodes/commonvoice.png" alt="img" style="zoom:20%;" />
-### Scegli che cosa vuoi fare                     
+**Scegli che cosa vuoi fare**
 Puoi scegliere di **registrare** la tua voce o **convalidare** le registrazioni immesse da altri.
 <img src="../images/ascolta_cv.png" alt="img" style="zoom:20%;" /> <img src="../images/parla_cv.png" alt="img" style="zoom:20%;" />
 

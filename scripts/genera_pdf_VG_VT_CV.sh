@@ -6,12 +6,18 @@ set -e
 version=${1-"2.0"}
 name=${2-"Vademecum"}
 
+# da aggiungere anche "CV", pe generare la versione Common Voice
 for i in "VG" "VT"
 do
     typeVersion=$i;
-    typeLongVersion="versione_generale";
-    if [ $typeVersion == "VT" ]; then
-        typeLongVersion="versione_tecnica";
+    if [ $typeVersion = "VG" ]; then
+        typeLongVersion="versione_generale"
+    fi
+    if [ $typeVersion = "VT" ]; then
+        typeLongVersion="versione_tecnica"
+    fi
+    if [ $typeVersion = "CV" ]; then
+        typeLongVersion="common_voice"
     fi
     echo "|| Starting conversion for "$typeLongVersion" ("$typeVersion") ||"
     if ! [ -x "$(command -v wkhtmltopdf)" ]; then

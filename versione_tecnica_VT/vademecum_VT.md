@@ -24,7 +24,7 @@ Capitoli:
     * Servo
     * MDN
 * Unisciti a noi. Diventa un volontario di Mozilla Italia ora!
-* Collaboratori
+* Vademecum realizzato da
 
 ### Presentazione
 <b>Mozilla Foundation</b> è un'organizzazione no-profit, presente ovunque nel mondo. La comunità italiana si chiama <b>Mozilla Italia</b> (<b>mozillaitalia.org</b>).
@@ -109,7 +109,7 @@ Tutto questo a costo zero!
 Nella nostra community di volontari abbiamo bisogno di qualunque figura professionale, ma anche di "semplici" appassionati e che, quindi, dedicano poco tempo alla causa.
 Gestiamo anche dei gruppi su Telegram, raggiungibili dal canale <b>@mozItaHUB</b>.
 
-### Collaboratori
+### Vademecum realizzato da
 
 Cantu Niccolo, De Rose Pasquale, Massaro Simone, Morelli Saverio, Pignataro Giuseppe, Pirrotta Irene, Pizii Mirko, Putti Edoardo, Scasciafratte Daniele, Viola Edoardo
 

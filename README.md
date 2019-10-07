@@ -10,7 +10,7 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 - Tipi di versione, release attuale e come scaricare i file da stampare
 - Come collaborare & Regole di stile
 - Come viene generato il pdf finale
-- Collaboratori
+- Vademecum realizzato da
 - Licenza
 
 ## Cos'è
@@ -31,7 +31,7 @@ Terminato anche questo passaggio, viene generato il PDF automaticamente tramite 
 Per la generazione (conversione) HTML->PDF e HTML->PNG è stata usato il tool da CLI wkhtmltopdf e wkhtmltoimage.
 Per informazioni più specifiche riguardo il file HTML o il file CSS contattare @Sav22999 o @Mte90, invece, per informazioni relative al file SH contattare @mone27, @Sav22999 o @Mte90.
 
-## Collaboratori
+## Vademecum realizzato da
 Hanno collaborato alla realizzazione del vademecum (ordine A-Z):
 - Cantu Niccolo
 - De Rose Pasquale

@@ -6,15 +6,11 @@ set -e
 version=${1-"2.0"}
 name=${2-"Vademecum"}
 
-# Barbatrucco per trovare dove eseguire lo script, in modo da
-# renderlo invocabile non solo da ./
-# ToDo: gestire PATH con spazi
-
 SCRIPT="$(readlink --canonicalize-existing "$0")"
 SCRIPTPATH="$(dirname "$SCRIPT")"
 cd "$SCRIPTPATH"
 
-# da aggiungere anche "CV", pe generare la versione Common Voice
+# ToDo: Aggiungere CV
 for i in "VG" "VT"
 do
     typeVersion=$i;

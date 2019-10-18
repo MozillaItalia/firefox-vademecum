@@ -6,7 +6,11 @@ set -e
 version=${1-"2.0"}
 name=${2-"Vademecum"}
 
-# da aggiungere anche "CV", pe generare la versione Common Voice
+SCRIPT="$(readlink --canonicalize-existing "$0")"
+SCRIPTPATH="$(dirname "$SCRIPT")"
+cd "$SCRIPTPATH"
+
+# ToDo: Aggiungere CV
 for i in "VG" "VT"
 do
     typeVersion=$i;

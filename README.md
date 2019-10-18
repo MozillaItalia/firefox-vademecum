@@ -26,7 +26,7 @@ Per scaricare i file stampabili, recarsi nella cartella **volantino**, poi **pdf
 Per sapere come contribuire/collaborare e per leggere le **regole di stile** si prega di leggere il file [_contributing.md_](https://github.com/MozillaItalia/firefox-vademecum/blob/master/contributing.md).
 
 ## Come viene generato il PDF finale
-Una volta volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
+Una volta aggiornato correttamente il file vademecum.md si passa ad aggiornare, manualmente, anche il file HTML.
 Terminato anche questo passaggio, viene generato il PDF automaticamente tramite uno script (vedi file nella cartella _scripts_) che, partendo dal file HTML, ne genera il PDF. Dall'HTML, inoltre, vengono generate le due immagini PNG (FRONTE e RETRO).
 Per la generazione (conversione) HTML->PDF e HTML->PNG è stata usato il tool da CLI wkhtmltopdf e wkhtmltoimage.
 Per informazioni più specifiche riguardo il file HTML o il file CSS contattare @Sav22999 o @Mte90, invece, per informazioni relative al file SH contattare @mone27, @Sav22999 o @Mte90.

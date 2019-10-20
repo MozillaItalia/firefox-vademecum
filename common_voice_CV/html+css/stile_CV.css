@@ -1,0 +1,430 @@
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab.otf");
+}
+
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_i.otf");
+    font-style: italic;
+}
+
+@font-face
+{
+    font-family: zillaslab;
+    src: url("../../font/zillaslab_b.otf");
+    font-weight: bold;
+}
+
+:root
+{
+    --colore-testo-principale: black;
+    --colore-sfondo-principale: white;
+    --colore-testo-titoli: black;
+    --colore-sfondo-titoli: transparent;
+    --hr-titoli: 4px solid black;
+    --colore-testo-link: white;
+    --colore-sfondo-link: white;
+    --gradient-sfondo-link: linear-gradient(to right, rgba(255,79,94,0.7), rgba(113,90,255,0.7));
+    --colore-testo-titolisezioni: white;
+    --colore-sfondo-titolisezioni: #222222;
+}
+
+div
+{
+	text-align: center;
+    top: 0cm;
+    left: 0cm;
+    right: 0cm;
+    bottom: 0cm;
+	position: absolute;
+    overflow: hidden;
+	width: auto;
+}
+
+#body
+{
+    font-family: zillaslab;
+    width: 26.19cm;
+    height: 37.1cm;
+    background-color: var(--colore-sfondo-principale);
+    border: 0.04cm solid black;
+    font-size: 0.5cm;
+}
+
+div#titolo_principale
+{
+    font-family: inherit;
+    color: var(--colore-testo-titoli);
+    padding-bottom: 0cm;
+    height: 3cm; /*Dimensioni minime necessarie: 2.43cm*/
+    background-image: url("../../images/common_voice_logo.png");
+    background-position: 1cm 0.5cm;
+    background-size: auto 2cm;
+    background-repeat: no-repeat;
+}
+
+div#che_cosa_e
+{
+    top: 3.1cm;
+    height: 7.8cm;
+}
+
+div#che_cosa_e div#titolo, div#come_contribuire div#titolo, div#perche_creare_account div#titolo, div#statistiche div#titolo, div#contributi div#titolo, div#obiettivi_personali div#titolo, div#scaricare_dati div#titolo, div#a_cura_di div#titolo
+{
+    top: 0.2cm;
+    left: 1cm;
+    right: 1cm;
+    width: auto;
+    font-size: 0.75cm;
+    font-family: inherit;
+    font-weight: bold;
+    background-color: var(--colore-sfondo-titoli);
+    color: var(--colore-testo-titoli);
+    padding: 0cm;
+    padding-top: 0.2cm;
+    height: 1.04cm;
+    text-align: left;
+}
+div#come_contribuire div#titolo
+{
+    padding: 0.2cm;
+}
+
+div#hr1, div#hr2, div#hr3, div#hr4, div#hr5, div#hr6, div#hr7
+{
+    top: 3cm;
+    left: 1cm;
+    height: 0.1cm;
+    width: 2cm;
+    background-color: white;
+    background-image: linear-gradient(to right, rgba(255,79,94,0.7), rgba(113,90,255,0.7));
+}
+div#hr2
+{
+    top: 10.9cm;
+    left: 13.04cm;
+    right: 13.05cm;
+    width: 0.1cm;
+    height: 2cm;
+}
+div#hr3
+{
+    top: 28.94cm;
+}
+div#hr4
+{
+    top: 0.9cm;
+}
+div#hr5
+{
+    top: 9.84cm;
+    left: 5cm;/* 1 + 4 = 5*/
+}
+div#hr6
+{
+    top: 18.78cm;
+}
+div#hr7
+{
+    top: 27.72cm;
+}
+
+div#che_cosa_e div#descrizione
+{
+    height: 5.9cm;
+}
+
+div#che_cosa_e div#descrizione, div#come_contribuire div#descrizione, div#statistiche div#descrizione, div#contributi div#descrizione, div#obiettivi_personali div#descrizione, div#scaricare_dati div#descrizione, div#a_cura_di div#descrizione
+{
+    text-align: left;
+    top: 1.44cm;
+    left: 1cm;
+    right: 1cm;
+    font-size: 0.5cm;
+    padding: 0cm;
+    padding-top: 0.2cm;
+}
+
+div#come_contribuire
+{
+    top: 12.9cm;
+    height: 16.04cm;
+}
+div#come_contribuire div#titolo
+{
+    text-align: center;
+}
+
+div#perche_creare_account div#titolo
+{
+    right: 1cm;
+}
+
+div#perche_creare_account div#descrizione
+{
+    top: 1.64cm;
+    left: 1cm;
+    right: 6cm;
+    font-size: 0.5cm;
+    padding: 0cm;
+    height: 3.7cm;
+    text-align: left;
+}
+
+div#come_contribuire div#sez1 div#titolo span#link
+{
+    position: relative;
+    font-size: 0.5cm;
+    padding: 0.05cm;
+    padding-left: 0.2cm;
+    padding-right: 0.2cm;
+    background-color: var(--colore-sfondo-link);
+    background-image: var(--gradient-sfondo-link);
+    color: var(--colore-testo-link);
+    border-radius: 0.1cm;
+    bottom: -0.05cm;
+    left: auto;
+    right: auto;
+    font-family: inherit;
+    font-weight: bold;
+}
+div#come_contribuire div#sez1 div#descrizione img#qrcode_link
+{
+    width: 4cm;
+    height: 4cm;
+}
+
+div#come_contribuire div#sez1, div#come_contribuire div#sez2
+{
+    top: 2cm;
+    left: 2cm;
+    right: 2cm;
+    width: auto;
+    font-size: 0.5cm;
+    padding: 0cm;
+    height: 5.9cm;
+    text-align: center;
+}
+
+div#come_contribuire div#sez1 div#titolo, div#come_contribuire div#sez2 div#titolo
+{
+    font-size: 0.5cm;
+    padding: 0.2cm;
+    background-color: transparent;
+    color: var(--colore-testo-principale);
+    font-family: inherit;
+    font-weight: bold;
+    height: 0.7cm;
+}
+
+div#come_contribuire div#sez1 div#descrizione
+{
+    text-align: center;
+}
+
+div#come_contribuire div#sez2 div#descrizione
+{
+    height: 6cm;
+    text-align: center;
+    top: 1.3cm;
+    left: 1cm;
+    right: 1cm;
+    font-size: 0.5cm;
+    padding: 0.21cm;
+    position: relative;
+}
+
+div#come_contribuire div#sez2
+{
+    top: 7.9cm;
+    height: 7.9cm;
+}
+
+div#come_contribuire div#sez2 img.commonvoice_screen
+{
+    height: 5.2cm;
+    margin-top: 0.2cm;
+}
+
+div#perche_creare_account
+{
+    top: 29.04cm;
+    height: 8.06cm;
+}
+
+div#statistiche, div#contributi, div#obiettivi_personali, div#scaricare_dati
+{
+    top: 1cm;
+    height: 7.84cm; /*0.2 + 0.2 + 1.04 + 6 + 0.2 + 0.2 = 7.84*/
+}
+div#statistiche div#descrizione, div#contributi div#descrizione, div#obiettivi_personali div#descrizione, div#scaricare_dati div#descrizione
+{
+    height: 6cm;
+}
+
+
+div#contributi
+{
+    top: 9.94cm; /*7.84 + 1.1 + 1 = 9.94*/
+    left: 4cm;
+}
+
+div#obiettivi_personali
+{
+    top: 18.88cm; /*(7.84 + 1.1) * 2 + 1 = 18.88*/
+}
+
+div#scaricare_dati
+{
+    top: 27.82cm; /*(7.84 + 1.1) * 2 + 1 = 27.82*/
+}
+
+div#a_cura_di
+{
+    top: 36.2cm;
+}
+div#a_cura_di div#titolo, div#a_cura_di div#descrizione
+{
+    top:0cm;
+    font-size: 0.4cm;
+    padding: 0cm;
+    margin: 0cm;
+    text-align: left;
+}
+div#a_cura_di div#descrizione
+{
+    left: 5cm;
+    font-style: italic;
+}
+
+
+div#personaggio_common_voice_1, div#personaggio_common_voice_2, div#personaggio_common_voice_3
+{
+    position: absolute;
+    top: 26.5cm;
+    right: 0.2cm;
+    left: auto;
+    height: 10cm;
+    width: 7cm;
+    background-image: url("../../images/personaggio_cv_1.png");
+    background-size: contain;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    z-index:0;
+    transform: rotate(-15deg);
+}
+div#personaggio_common_voice_2
+{
+    top: 9cm;
+    right: auto;
+    left: -2cm;
+    height: 10cm;
+    width: 8cm;
+    background-image: url("../../images/personaggio_cv_2.png");
+    background-position: bottom left;
+    transform: rotate(15deg);
+}
+div#personaggio_common_voice_3
+{
+    top: 10cm;
+    right: auto;
+    left: 0.2cm;
+    height: 10cm;
+    width: 8cm;
+    background-image: url("../../images/personaggio_cv_3.png");
+    background-position: bottom left;
+    transform: rotate(5deg);
+}
+div#sfondo_cv, div#sfondo_cv_retro1, div#sfondo_cv_retro2, div#sfondo_cv_retro3, div#sfondo_personaggi
+{
+    position: absolute;
+    top: auto;
+    bottom: 0cm;
+    right: 0cm;
+    left: 0cm;
+    width: auto;
+    height: 10cm;
+    background-color: transparent;
+    background-image: url("../../images/sfondo_cv.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: bottom center;
+    opacity: 0.6;
+}
+div#sfondo_cv_retro1, div#sfondo_cv_retro2, div#sfondo_cv_retro3
+{
+    background-size: 100% auto;
+    background-image: url("../../images/onda_cv_1.svg");
+    background-position: center center, center center, center center;
+    opacity: 0.6;
+    bottom: auto;
+    top: 4cm;
+}
+div#sfondo_cv_retro2
+{
+    background-image: url("../../images/onda_cv_2.svg");
+}
+div#sfondo_cv_retro3
+{
+    background-image: url("../../images/onda_cv_3.svg");
+    opacity: 0.4;
+}
+
+div#sfondo_personaggi
+{
+    height: 14cm;
+    background-size: 14cm auto;
+    background-image: url("../../images/sfondo_cv_personaggi_1.png");
+    background-position: bottom right;
+    opacity: 0.4;
+}
+.speak, .listen
+{
+    border: 0px solid transparent;
+    transition: 0.7s;
+	position:absolute;
+	top:0.75cm;
+	left:0.75cm;
+    display: inline-block;
+    width: 0cm;
+	height: 0cm;
+	padding:1.25cm;
+    border-radius: 50%;	
+    background-position: center center;
+    background-size: 0.6cm auto;
+    background-repeat: no-repeat;
+    background-image: url("../../images/parla_cv.png");
+	box-shadow:-0.1cm 0px 0.5cm rgba(255,79,94,0.4), 0.1cm 0px 0.5cm rgba(113,90,255,0.4);
+	opacity:0.9;
+}
+.listen
+{
+    background-image: url("../../images/ascolta_cv.png");
+	box-shadow:-0.1cm 0px 0.5cm rgba(113,90,255,0.4), 0.1cm 0px 0.5cm rgba(89,203,183,0.4);
+}
+
+div#speak_font, div#listen_font
+{
+    position: absolute;
+    top: 1.1cm;
+    left: 4cm;
+    font-family: inherit;
+    font-size: 1.4cm;
+    text-align: left;
+    height: 1.7cm;
+    width: 5cm;
+}
+
+div#speak_div, div#listen_div
+{
+    width: 10cm;
+    padding-top: 3.5cm;
+    font-size: 0.7cm;
+    height: 2cm;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}

@@ -10,8 +10,7 @@ SCRIPT="$(readlink --canonicalize-existing "$0")"
 SCRIPTPATH="$(dirname "$SCRIPT")"
 cd "$SCRIPTPATH"
 
-# ToDo: Aggiungere CV
-for i in "VG" "VT"
+for i in "VG" "VT" "CV"
 do
     typeVersion=$i;
     if [ $typeVersion = "VG" ]; then

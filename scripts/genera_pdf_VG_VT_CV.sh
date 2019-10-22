@@ -36,14 +36,23 @@ do
     path_retro="../"$typeLongVersion"_"$typeVersion"/html_e_css/volantino_retro_"$typeVersion".html"
 
     echo "Pdf files generating..."
+    echo ">> Converting $path_fronte to PDF..."
     wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 $path_fronte "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf"
+    echo ">> Converted $path_fronte to PDF."
+    echo ">> Converting $path_retro to PDF..."
     wkhtmltopdf -q -B 0 -T 0 -L 0 -R 0 $path_retro "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf"
+    echo ">> Converted $path_retro to PDF."
     echo "Pdf files generated."
 
     echo "Png files generating..."
+    echo ">> Converting $path_fronte to PNG..."
     wkhtmltoimage --crop-w 992 $path_fronte "../volantino/png/"$name"_"$version"_"$typeVersion"_fronte.png"
+    echo ">> Converted $path_fronte to PNG."
+    echo ">> Converting $path_retro to PNG..."
     wkhtmltoimage --crop-w 992 $path_retro "../volantino/png/"$name"_"$version"_"$typeVersion"_retro.png"
+    echo ">> Converted $path_retro to PNG."
     echo "Png files generated."
+
 
     echo "Pdf files merging in a single pdf file..."
     if ! [ -x "$(command -v pdfunite)" ]; then
@@ -63,10 +72,11 @@ do
     rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf"
     echo "Temp files deleted."
     echo "|| Completed conversion for version "$i" ||"
+    echo "-------------------------------------------"
 done
 echo "|| Completed all conversions ||"
 
-echo "------------------------"
+echo "-------------------------------------------"
 echo "Details:\nNAME: "$name"\nVERSION: "$version"\nVERSION TYPES GENERATED:"
     for i in "VG" "VT"
     do

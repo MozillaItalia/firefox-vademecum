@@ -27,10 +27,10 @@ Il modello (basato su Deepspeech) può essere utilizzato già allenato (anche in
 ## DeepSpeech
 Common Voice, in quanto progetto di raccolta dati, viene utilizzato in simbiosi con DeepSpeech, modello di riconoscimento vocale di Mozilla che ne utilizza il dataset.
 
-## Progetti che utilizzano Common Voice e DeepSpeech
+## Alcuni progetti che utilizzano Common Voice e DeepSpeech
 - **Mycroft AI**: il primo home assistant al mondo completamente open source. https://mycroft.ai/
-- aggiungerne altri
-
+- **Mozilla WebThings Gateway**: gateway per controllare vari smart device casalinghi, con tanto di assistente vocale. https://iot.mozilla.org/gateway/
+- **Il tuo!** Sei uno sviluppatore e hai in mente qualche applicazione interessante che faccia uso dello speech-to-text? Mettiti all'opera e mostraci cosa sai fare!
 
 ##### Vademecum a cura di: Saverio Morelli , …
 

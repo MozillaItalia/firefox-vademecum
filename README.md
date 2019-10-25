@@ -17,9 +17,12 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figurativo _ti do una mano_ è un progetto Mozilla Italia e consiste nella realizzazione di un volantino (digitale e stampato) che permetta di capire in un foglio A4 (suddiviso in sezioni) cos'è Mozilla, Firefox e tutti i progetti correlati; l'importanza sta nel fatto che tutti questi concetti vengano espressi in pochissimo spazio e debbano essere soddisfacenti.
 
 ## Tipi di versione, release attuale e come scaricare i file da stampare
-L'attuale release è la 2.0.
-Ci sono due tipi di versioni: **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche, e la versione **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.
-Per brevità, la versione generale può essere indicata come "**VG**" mentre la versione tecnica come "**VT**".
+L'attuale release è la 2.0 per VT e VG e la 1.0 per CV.
+Ci sono tre tipi di versioni:
+- **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche
+- **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.
+- **common voice**, dedicata interamente al progetto Common Voice di Mozilla, e alcuni cenni a DeepSpeech.
+Per brevità, la versione generale può essere indicata come "**VG**", la versione tecnica come "**VT**" e la versione common voice come "**CV**".
 Per scaricare i file stampabili, recarsi nella cartella **volantino**, poi **pdf**, quindi scegliere la versione che si desidera. [Fai clic qui](https://github.com/MozillaItalia/firefox-vademecum/tree/master/volantino/pdf) per andare direttamente alla cartella _pdf_.
 
 ## Come collaborare & Regole di stile
@@ -34,6 +37,7 @@ Per informazioni più specifiche riguardo il file HTML o il file CSS contattare 
 ## Vademecum realizzato da
 Hanno collaborato alla realizzazione del vademecum (ordine A-Z):
 - Cantu Niccolo
+- De Luca Giovanni
 - De Rose Pasquale
 - Massaro Simone
 - Morelli Saverio

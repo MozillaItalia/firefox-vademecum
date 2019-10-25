@@ -22,7 +22,7 @@ Non preoccuparti per la privacy: se in futuro decidessi di non voler più presta
 A differenza di altri sistemi di speech-to-text, Common Voice non raccoglie i dati di nessun utente come "condizioni di servizio". Il dataset contiene solo testi di pubblico dominio e registrazioni vocali donate tramite il sito.
 
 ## Al servizio di utenti e sviluppatori
-Il modello (basato su Deepspeech) può essere utilizzato già allenato (anche in lingua italiana), oppure puoi scaricare il dataset e utilizzarlo per i tuoi modelli di machine learning che ne hanno bisogno.
+Il modello già allenato (basato su Deepspeech) può essere utilizzato (disponibile anche in lingua italiana), oppure puoi scaricare il dataset audio e utilizzarlo per i tuoi modelli di machine learning che ne hanno bisogno.
 
 ## DeepSpeech
 Common Voice, in quanto progetto di raccolta dati, viene utilizzato in simbiosi con DeepSpeech, modello di riconoscimento vocale di Mozilla che ne utilizza il dataset.

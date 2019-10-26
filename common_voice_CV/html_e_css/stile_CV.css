@@ -72,7 +72,7 @@ div#che_cosa_e
     height: 7.8cm;
 }
 
-div#che_cosa_e div#titolo, div#come_contribuire div#titolo, div#perche_creare_account div#titolo, div#statistiche div#titolo, div#contributi div#titolo, div#obiettivi_personali div#titolo, div#scaricare_dati div#titolo, div#a_cura_di div#titolo
+div#che_cosa_e div#titolo, div#come_contribuire div#titolo, div#perche_creare_account div#titolo, div#rispetto_privacy div#titolo, div#servizio_utenti_sviluppatori div#titolo, div#deepspeech div#titolo, div#progetti_utilizzano div#titolo, div#a_cura_di div#titolo
 {
     top: 0.2cm;
     left: 1cm;
@@ -137,7 +137,7 @@ div#che_cosa_e div#descrizione
     height: 5.9cm;
 }
 
-div#che_cosa_e div#descrizione, div#come_contribuire div#descrizione, div#statistiche div#descrizione, div#contributi div#descrizione, div#obiettivi_personali div#descrizione, div#scaricare_dati div#descrizione, div#a_cura_di div#descrizione
+div#che_cosa_e div#descrizione, div#come_contribuire div#descrizione, div#rispetto_privacy div#descrizione, div#servizio_utenti_sviluppatori div#descrizione, div#deepspeech div#descrizione, div#progetti_utilizzano div#descrizione, div#a_cura_di div#descrizione
 {
     text-align: left;
     top: 1.44cm;
@@ -170,7 +170,7 @@ div#perche_creare_account div#descrizione
     right: 6cm;
     font-size: 0.5cm;
     padding: 0cm;
-    height: 3.7cm;
+    height: 6cm;
     text-align: left;
 }
 
@@ -255,29 +255,29 @@ div#perche_creare_account
     height: 8.06cm;
 }
 
-div#statistiche, div#contributi, div#obiettivi_personali, div#scaricare_dati
+div#rispetto_privacy, div#servizio_utenti_sviluppatori, div#deepspeech, div#progetti_utilizzano
 {
     top: 1cm;
     height: 7.84cm; /*0.2 + 0.2 + 1.04 + 6 + 0.2 + 0.2 = 7.84*/
 }
-div#statistiche div#descrizione, div#contributi div#descrizione, div#obiettivi_personali div#descrizione, div#scaricare_dati div#descrizione
+div#rispetto_privacy div#descrizione, div#servizio_utenti_sviluppatori div#descrizione, div#deepspeech div#descrizione, div#progetti_utilizzano div#descrizione
 {
     height: 6cm;
 }
 
 
-div#contributi
+div#servizio_utenti_sviluppatori
 {
     top: 9.94cm; /*7.84 + 1.1 + 1 = 9.94*/
     left: 4cm;
 }
 
-div#obiettivi_personali
+div#deepspeech
 {
     top: 18.88cm; /*(7.84 + 1.1) * 2 + 1 = 18.88*/
 }
 
-div#scaricare_dati
+div#progetti_utilizzano
 {
     top: 27.82cm; /*(7.84 + 1.1) * 2 + 1 = 27.82*/
 }
@@ -425,6 +425,11 @@ div#speak_div, div#listen_div
     font-size: 0.7cm;
     height: 2cm;
     display: inline-block;
-    position: relative;
+    position: absolute;
     text-align: center;
+    left: 0cm;
+}
+div#listen_div
+{
+    left: 10cm;
 }

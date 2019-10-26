@@ -78,7 +78,7 @@ echo "|| Completed all conversions ||"
 
 echo "-------------------------------------------"
 echo "Details:\nNAME: "$name"\nVERSION: "$version"\nVERSION TYPES GENERATED:"
-    for i in "VG" "VT"
+    for i in "VG" "VT" "CV"
     do
         echo "| "$i":"
         echo "| | "$name"_"$version"_"$i"_fronte.png"

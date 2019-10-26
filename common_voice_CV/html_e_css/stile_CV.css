@@ -425,6 +425,11 @@ div#speak_div, div#listen_div
     font-size: 0.7cm;
     height: 2cm;
     display: inline-block;
-    position: relative;
+    position: absolute;
     text-align: center;
+    left: 0cm;
+}
+div#listen_div
+{
+    left: 10cm;
 }

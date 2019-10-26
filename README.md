@@ -17,7 +17,7 @@ Contiene tutte le informazioni utili per sapere come essere utile e collaborare 
 Vademecum, dal latino _vade mecum_, significato letterario _vieni con me_ e figurativo _ti do una mano_ è un progetto Mozilla Italia e consiste nella realizzazione di un volantino (digitale e stampato) che permetta di capire in un foglio A4 (suddiviso in sezioni) cos'è Mozilla, Firefox e tutti i progetti correlati; l'importanza sta nel fatto che tutti questi concetti vengano espressi in pochissimo spazio e debbano essere soddisfacenti.
 
 ## Tipi di versione, release attuale e come scaricare i file da stampare
-L'attuale release è la 2.0 per VT e VG e la 1.0 per CV.
+L'attuale release è la 2.0 per VT e VG e CV.
 Ci sono tre tipi di versioni:
 - **generale**, indirizzata a un pubblico con competenze non specificate, quindi non necessariamente tecniche
 - **tecnica**, indirizzata a un pubblico con competente prettamente tecniche, in quanto molti concetti vengono sottintesi e vengono approfonditi temi più "tecnici", appunto.

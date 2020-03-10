@@ -55,5 +55,8 @@ La licenza utilizzata per Vademecum è la Creative Commons - Attribution (BY), S
 
 Disponibile all'indirizzo https://creativecommons.org/licenses/by-sa/2.0/it/ (o quella completa https://creativecommons.org/licenses/by-sa/2.0/it/legalcode)
 
+## Contributori
+<img src="https://contributors-img.firebaseapp.com/image?repo=MozillaItalia/firefox-vademecum" />
+
 ## Ulteriori informazioni
 Coordinatore del progetto è @Mte90.

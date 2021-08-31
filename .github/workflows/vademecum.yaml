@@ -2,7 +2,7 @@ name: Vademecum
 on: [push]
 
 jobs:
-  Updubuntu:
+  Runningscript:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -25,6 +25,6 @@ jobs:
       - uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-          BRANCH_NAME: 'master'
+          BRANCH_NAME: '' #optional defaults to master
 
         

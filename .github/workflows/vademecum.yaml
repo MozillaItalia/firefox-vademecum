@@ -1,0 +1,25 @@
+name: Vademecum
+on: [push]
+
+jobs:
+  Updubuntu:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+    
+      - name: Update repos
+        run: sudo apt update
+    
+      - name: Install poppler-utils
+        run: sudo apt install poppler-utils
+
+      - name: Install wkhtmltopdf
+        run: sudo apt install xvfb libfontconfig wkhtmltopdf
+
+      - name: Making script executable
+        run: chmod +x scripts/build.sh
+      
+      - name: Running deployment script
+        run: sh ./scripts/build.sh
+
+        

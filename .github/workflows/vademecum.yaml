@@ -22,4 +22,9 @@ jobs:
       - name: Running deployment script
         run: sh ./scripts/build.sh
 
+      - uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          BRANCH_NAME: 'master'
+
         

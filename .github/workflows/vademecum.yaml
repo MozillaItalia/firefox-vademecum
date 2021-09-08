@@ -20,9 +20,12 @@ jobs:
         run: chmod +x scripts/build.sh
       
       - name: Running deployment script
-        run: sh ./scripts/build.sh
-
-      - uses: mikeal/publish-to-github-action@master
+        run: |
+          sh ./scripts/build.sh
+          
+      - name: "Pushing to GH"
+        if: $? -ne 0
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: '' #optional defaults to master

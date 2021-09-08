@@ -25,7 +25,7 @@ do
     echo "|| Starting conversion for "$typeLongVersion" ("$typeVersion") ||"
     if ! [ -x "$(command -v wkhtmltopdf)" ]; then
         if ! [ -x "$(command -v apt)" ]; then
-            echo "The script does not support automatic installation of wkhtmlpdf on your platform."\
+            echo "The script does not support automatic installation of wkhtmltopdf on your platform."\
             "Please install wkhtmltopdf and then try again."
             exit 1
         fi

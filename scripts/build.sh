@@ -65,31 +65,10 @@ do
         sudo apt install poppler-utils
     fi
 
-    pdfunite  "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf"
+    pdfunite  "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
     echo "Pdf merged correctly."
 
-    # check: if final version doesn't exist, set tmp version as the final one 
-    if [ ! -f "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf" ]; then
-        echo "File does not exist. Creating fresh version..."
-        cp "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
-    else
-        echo "Diffing files:"
-        echo "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf and ../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
-        TMP="../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf"
-        FINAL="../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
-
-        cmp $TMP $FINAL
-        
-        # if diff dont produce 0, files are different
-        if [ ! -z "$?" ]; then
-            echo "Files are different: $res"
-            to_commit=1
-            cp "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf" "../volantino/pdf/"$name"_"$version"_"$typeVersion".pdf"
-        fi
-    fi
-
     echo "Temp files deleting..."
-    #rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_tmp.pdf"
     rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_fronte.pdf"
     rm "../volantino/pdf/"$name"_"$version"_"$typeVersion"_retro.pdf"
     echo "Temp files deleted."

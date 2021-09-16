@@ -9,7 +9,6 @@ name=${2-"Vademecum"}
 SCRIPT="$(readlink --canonicalize-existing "$0")"
 SCRIPTPATH="$(dirname "$SCRIPT")"
 cd "$SCRIPTPATH"
-to_commit=0         # return value, useful to yaml
 
 for i in "VG" "VT" "CV"
 do
@@ -87,5 +86,3 @@ echo "Details:\nNAME: "$name"\nVERSION: "$version"\nVERSION TYPES GENERATED:"
         echo "| | "$name"_"$version"_"$i".pdf"
     done
 echo "------------------------"
-
-exit $to_commit
